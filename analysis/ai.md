@@ -11,3 +11,5 @@
 🤖 [Dynamic effect of Bitcoin, fintech and artificial intelligence stocks on eco-friendly assets, Islamic stocks and conventional financial markets: Another look using quantile-based approaches](ai-analysis-5.md)
 
 🤖 [Artificial intelligence and resource optimization: A study of Fintech start-ups](ai-analysis-6.md)
+
+🤖 [Exploring users' adoption intentions of intelligent virtual assistants in financial services](ai-analysis-7.md)

@@ -7,3 +7,5 @@
 🤖 [Operational research and artificial intelligence methods in banking](ai-analysis-3.md)
 
 🤖 [Diversification in the age of the 4th industrial revolution: The role of artificial intelligence, green bonds and cryptocurrencies](ai-analysis-4.md)
+
+🤖 [Dynamic effect of Bitcoin, fintech and artificial intelligence stocks on eco-friendly assets, Islamic stocks and conventional financial markets: Another look using quantile-based approaches](ai-analysis-5.md)

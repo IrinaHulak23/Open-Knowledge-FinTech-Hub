@@ -9,3 +9,5 @@
 🌱 [FinTech and circular economy: The role of institutional quality and state fragility](sustainability-4.md) 
 
 🌱 [Empirical evidence of fintech and green environment: Using the green finance as a mediating variable](sustainability-5.md) 
+
+🌱 [FinTech, AI and green outcomes](sustainability-6.md) 

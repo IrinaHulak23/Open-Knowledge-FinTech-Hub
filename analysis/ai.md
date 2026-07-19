@@ -5,3 +5,5 @@
 🤖 [Explainable FinTech lending ](ai-analysis-2.md)
 
 🤖 [Operational research and artificial intelligence methods in banking](ai-analysis-3.md)
+
+🤖 [Diversification in the age of the 4th industrial revolution: The role of artificial intelligence, green bonds and cryptocurrencies](ai-analysis-4.md)

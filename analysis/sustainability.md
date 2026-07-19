@@ -11,3 +11,5 @@
 🌱 [Empirical evidence of fintech and green environment: Using the green finance as a mediating variable](sustainability-5.md) 
 
 🌱 [FinTech, AI and green outcomes](sustainability-6.md) 
+
+🌱 [Time–frequency dependence and connectedness between financial technology and green assets](sustainability-7.md) 

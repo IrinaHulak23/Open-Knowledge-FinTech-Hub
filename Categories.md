@@ -1,0 +1,23 @@
+# Напрямки Open Knowledge FinTech Hub
+
+Виберіть тему, щоб перейти до окремих файлів аналізу:
+
+* 🤖 [FinTech & Artificial Intelligence](analysis/ai.md)
+* 🏦 [FinTech & Banking](analysis/banking.md)
+* ⛓️ [FinTech & Blockchain](analysis/blockchain.md)
+* 🪪 [FinTech & Digital Identity](analysis/digital-identity.md)
+* 🎓 [FinTech & Education](analysis/education.md)
+* 💳 [Embedded Finance](analysis/embedded-finance.md)
+* 🛡️ [FinTech & Fraud Prevention](analysis/fraud-prevention.md)
+* 🌍 [FinTech & Financial Inclusion](analysis/financial-inclusion.md)
+* ⚔️ [FinTech & War](analysis/war.md)
+* 🏢 [FinTech & SMEs](analysis/smes.md)
+* 👩 [FinTech & Women](analysis/women.md)
+* 👩‍🎓 [FinTech & Youth](analysis/youth.md)
+* 👵 [FinTech & Aging](analysis/aging.md)
+* ♿ [FinTech & Persons with Disabilities (PwD)](analysis/pwd.md)
+* 🌱 [FinTech & Sustainability](analysis/sustainability.md)
+* 🌐 [FinTech & Migration](analysis/migration.md)
+
+---
+[⬅ Назад на головну](README.md)

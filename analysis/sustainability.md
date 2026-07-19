@@ -4,4 +4,4 @@
  
  🌱 [The role of artificial intelligence and fintech in promoting eco-friendly investments and non-greenwashing practices in the US market](sustainability-2.md)
 
-🌱 [The role of fintech in promoting green finance, and profitability: Evidence from the banking sector in the euro zone](sustainability-3.md)
+ 🌱 [The role of fintech in promoting green finance, and profitability: Evidence from the banking sector in the euro zone](sustainability-3.md)

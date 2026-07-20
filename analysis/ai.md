@@ -29,3 +29,5 @@
 🤖 [AI in Finance: Challenges, Techniques, and Opportunities](ai-analysis-14.md)
 
 🤖 [A survey of AI in finance](ai-analysis-15.md)
+
+🤖 [Artificial Intelligence-Enhanced Predictive Insights for Advancing Financial Inclusion: A Human-Centric AI-Thinking Approach](ai-analysis-16.md)

@@ -29,3 +29,5 @@
 🌱 [The Influence of Ethical, Sustainable, and Environmental Beliefs on Individual Cryptocurrency Participation in Denmark, Finland, and Sweden](sustainability-14.md) 
 
 🌱 [Impact of Green Financing, FinTech, and Financial Inclusion on Energy Efficiency](sustainability-15.md) 
+
+🌱 [Banking Fintech and Corporate Innovation in China's Carbon-Intensive Industries: Evidence from Different Panel Approaches](sustainability-16.md) 

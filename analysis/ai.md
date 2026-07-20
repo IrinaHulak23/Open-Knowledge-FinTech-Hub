@@ -25,3 +25,5 @@
 🤖 [Big data management algorithms in artificial Internet of Things-based fintech](ai-analysis-12.md)
 
 🤖 [Fintech: AI Powers Financial Services to Improve People's Lives](ai-analysis-13.md)
+
+🤖 [AI in Finance: Challenges, Techniques, and Opportunities](ai-analysis-14.md)

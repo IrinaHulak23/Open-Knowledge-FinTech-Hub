@@ -27,3 +27,5 @@
 🌱 [Quantum-Safe Algorithms with Future-Proofing Cryptographic Security in Evolving Financial Technology Infrastructures](sustainability-13.md) 
 
 🌱 [The Influence of Ethical, Sustainable, and Environmental Beliefs on Individual Cryptocurrency Participation in Denmark, Finland, and Sweden](sustainability-14.md) 
+
+🌱 [Impact of Green Financing, FinTech, and Financial Inclusion on Energy Efficiency](sustainability-15.md) 

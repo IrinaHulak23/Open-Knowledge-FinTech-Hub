@@ -21,3 +21,5 @@
 🌱 [Fintech, digitalization and blockchain: Possible applications for green finance](sustainability-10.md) 
 
 🌱 [Green Digital Finance and Sustainable Development Goals](sustainability-11.md) 
+
+🌱 [Microservices architecture in fintech: A case study on scalable loan processing with classical design patterns](sustainability-12.md) 

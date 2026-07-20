@@ -39,3 +39,5 @@
 🌱 [Dynamic Effect of Bitcoin, Fintech and Artificial Intelligence Stocks on Eco-Friendly Assets, Islamic Stocks and Conventional Financial Markets](sustainability-19.md) 
 
 🌱 [Blockchain for Energy Sharing and Trading in Distributed Prosumer Communities](sustainability-20.md) 
+
+🌱 [Nexus Between Green Finance, FinTech, and High-Quality Economic Development: Empirical Evidence from China](sustainability-21.md) 

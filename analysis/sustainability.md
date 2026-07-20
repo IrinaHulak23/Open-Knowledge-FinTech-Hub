@@ -37,3 +37,5 @@
 🌱 [Is Fintech the New Path to Sustainable Resource Utilisation and Economic Development?](sustainability-18.md) 
 
 🌱 [Dynamic Effect of Bitcoin, Fintech and Artificial Intelligence Stocks on Eco-Friendly Assets, Islamic Stocks and Conventional Financial Markets](sustainability-19.md) 
+
+🌱 [Blockchain for Energy Sharing and Trading in Distributed Prosumer Communities](sustainability-20.md) 

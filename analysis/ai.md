@@ -13,3 +13,5 @@
 🤖 [Artificial intelligence and resource optimization: A study of Fintech start-ups](ai-analysis-6.md)
 
 🤖 [Exploring users' adoption intentions of intelligent virtual assistants in financial services](ai-analysis-7.md)
+
+🤖 [Cybersecurity threats in FinTech: A systematic review](ai-analysis-8.md)

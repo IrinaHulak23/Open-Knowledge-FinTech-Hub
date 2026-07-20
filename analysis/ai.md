@@ -27,3 +27,5 @@
 🤖 [Fintech: AI Powers Financial Services to Improve People's Lives](ai-analysis-13.md)
 
 🤖 [AI in Finance: Challenges, Techniques, and Opportunities](ai-analysis-14.md)
+
+🤖 [A survey of AI in finance](ai-analysis-15.md)

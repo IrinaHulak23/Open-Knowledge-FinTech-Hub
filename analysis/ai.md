@@ -43,3 +43,5 @@
 🤖 [AI lifecycle models need to be revised: An exploratory study in Fintech](ai-analysis-21.md)
 
 🤖 [Consumer lending efficiency: commercial banks versus a fintech lender](ai-analysis-22.md)
+
+🤖 [Data science and AI in FinTech: an overview](ai-analysis-23.md)

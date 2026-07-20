@@ -33,3 +33,5 @@
 🤖 [Artificial Intelligence-Enhanced Predictive Insights for Advancing Financial Inclusion: A Human-Centric AI-Thinking Approach](ai-analysis-16.md)
 
 🤖 [Ethically Responsible Machine Learning in Fintech](ai-analysis-17.md)
+
+🤖 [Explainable AI in Fintech Risk Management](ai-analysis-18.md)

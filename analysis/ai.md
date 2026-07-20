@@ -15,3 +15,5 @@
 🤖 [Exploring users' adoption intentions of intelligent virtual assistants in financial services](ai-analysis-7.md)
 
 🤖 [Cybersecurity threats in FinTech: A systematic review](ai-analysis-8.md)
+
+🤖 [FinTech enablers, use cases, and role of future internet of things](ai-analysis-9.md)

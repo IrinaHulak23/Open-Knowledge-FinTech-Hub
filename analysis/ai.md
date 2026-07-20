@@ -21,3 +21,5 @@
 🤖 [Fintech literacy and digital entrepreneurial intention: Mediator and Moderator Effect](ai-analysis-10.md)
 
 🤖 [Enterprise generative artificial intelligence technologies, Internet of Things and blockchain-based fintech management, and digital twin industrial metaverse in the cognitive algorithmic economy](ai-analysis-11.md)
+
+🤖 [Big data management algorithms in artificial Internet of Things-based fintech](ai-analysis-12.md)

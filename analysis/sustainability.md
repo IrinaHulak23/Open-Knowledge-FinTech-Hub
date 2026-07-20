@@ -19,3 +19,5 @@
 🌱 [Leveraging blockchain technology for innovative climate finance under the Green Climate Fund](sustainability-9.md) 
 
 🌱 [Fintech, digitalization and blockchain: Possible applications for green finance](sustainability-10.md) 
+
+🌱 [Green Digital Finance and Sustainable Development Goals](sustainability-11.md) 

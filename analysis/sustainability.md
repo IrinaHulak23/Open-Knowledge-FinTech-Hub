@@ -41,3 +41,5 @@
 🌱 [Blockchain for Energy Sharing and Trading in Distributed Prosumer Communities](sustainability-20.md) 
 
 🌱 [Nexus Between Green Finance, FinTech, and High-Quality Economic Development: Empirical Evidence from China](sustainability-21.md) 
+
+🌱 [Natural Resources, Green Innovation, Fintech, and Sustainability: A Fresh Insight from BRICS](sustainability-22.md) 

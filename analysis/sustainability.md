@@ -13,3 +13,5 @@
 🌱 [FinTech, AI and green outcomes](sustainability-6.md) 
 
 🌱 [Time–frequency dependence and connectedness between financial technology and green assets](sustainability-7.md) 
+
+🌱 [The effect of eco-friendly and financial technologies on renewable energy growth in emerging economies](sustainability-8.md) 

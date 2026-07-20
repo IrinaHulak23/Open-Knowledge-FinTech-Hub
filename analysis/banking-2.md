@@ -3,7 +3,7 @@
 ## Robo-advisors and the financialization of lay investors
 
 ### 1. Назва статті (APA Style)
-Tan, G. K. S. (2020). Robo-advisors and the financialization of lay investors. *Geoforum*, 117, 184–193. [https://doi.org/10.1016/j.geoforum.2020.09.006]( 10.1016/j.geoforum.2020.09.004)
+Tan, G. K. S. (2020). Robo-advisors and the financialization of lay investors. *Geoforum*, 117, 184–193. [https://doi.org/10.1016/j.geoforum.2020.09.006](10.1016/j.geoforum.2020.09.004)
 
 ### 2. Мета дослідження
 З'ясувати, як звичайні (непрофесійні) інвестори долучаються до глобальних фінансових ринків за допомогою робо-едвайзерів (цифрових фінансових радників), та показати, як ці комп'ютерні алгоритми роблять людей «пасивними» учасниками процесу інвестування.

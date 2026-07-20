@@ -37,3 +37,5 @@
 🤖 [Explainable AI in Fintech Risk Management](ai-analysis-18.md)
 
 🤖 [FinTech as a Game Changer: Overview of Research Frontiers](ai-analysis-19.md)
+
+🤖 [The making of AI society: AI futures frames in German political and media discourses](ai-analysis-20.md)

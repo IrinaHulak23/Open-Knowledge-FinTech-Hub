@@ -41,3 +41,5 @@
 🤖 [The making of AI society: AI futures frames in German political and media discourses](ai-analysis-20.md)
 
 🤖 [AI lifecycle models need to be revised: An exploratory study in Fintech](ai-analysis-21.md)
+
+🤖 [Consumer lending efficiency: commercial banks versus a fintech lender](ai-analysis-22.md)

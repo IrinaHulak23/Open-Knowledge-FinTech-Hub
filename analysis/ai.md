@@ -17,3 +17,5 @@
 🤖 [Cybersecurity threats in FinTech: A systematic review](ai-analysis-8.md)
 
 🤖 [FinTech enablers, use cases, and role of future internet of things](ai-analysis-9.md)
+
+🤖 [Fintech literacy and digital entrepreneurial intention: Mediator and Moderator Effect](ai-analysis-10.md)

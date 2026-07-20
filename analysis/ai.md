@@ -35,3 +35,5 @@
 🤖 [Ethically Responsible Machine Learning in Fintech](ai-analysis-17.md)
 
 🤖 [Explainable AI in Fintech Risk Management](ai-analysis-18.md)
+
+🤖 [FinTech as a Game Changer: Overview of Research Frontiers](ai-analysis-19.md)

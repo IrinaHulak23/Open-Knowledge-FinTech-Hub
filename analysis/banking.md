@@ -5,3 +5,5 @@
 🏦 [Robo-advisors and the financialization of lay investors](banking-2.md)
 
 🏦 [Fintech and big tech credit: Drivers of the growth of digital lending](banking-3.md)
+
+🏦 [Cooperative financial institutions: A review of the literature](banking-4.md)

@@ -35,3 +35,5 @@
 🌱 [The Drivers of Environmental Sustainability in BRICS Economies: Do Green Finance and Fintech Matter?](sustainability-17.md) 
 
 🌱 [Is Fintech the New Path to Sustainable Resource Utilisation and Economic Development?](sustainability-18.md) 
+
+🌱 [Dynamic Effect of Bitcoin, Fintech and Artificial Intelligence Stocks on Eco-Friendly Assets, Islamic Stocks and Conventional Financial Markets](sustainability-19.md) 

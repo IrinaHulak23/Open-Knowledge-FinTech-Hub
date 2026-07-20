@@ -17,3 +17,5 @@
 🌱 [The effect of eco-friendly and financial technologies on renewable energy growth in emerging economies](sustainability-8.md) 
 
 🌱 [Leveraging blockchain technology for innovative climate finance under the Green Climate Fund](sustainability-9.md) 
+
+🌱 [Fintech, digitalization and blockchain: Possible applications for green finance](sustainability-10.md) 

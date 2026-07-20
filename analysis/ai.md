@@ -19,3 +19,5 @@
 🤖 [FinTech enablers, use cases, and role of future internet of things](ai-analysis-9.md)
 
 🤖 [Fintech literacy and digital entrepreneurial intention: Mediator and Moderator Effect](ai-analysis-10.md)
+
+🤖 [Enterprise generative artificial intelligence technologies, Internet of Things and blockchain-based fintech management, and digital twin industrial metaverse in the cognitive algorithmic economy](ai-analysis-11.md)

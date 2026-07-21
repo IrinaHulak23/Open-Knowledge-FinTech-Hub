@@ -17,3 +17,5 @@
 ⛓️ [Herding and Anchoring in Cryptocurrency Markets](blockchain-8.md)
 
 ⛓️ [Blockchain Technology Diffusion in Tourism](blockchain-9.md)
+
+⛓️ [Banking Beyond Banks and Money: A Guide to Banking Services in the Twenty-First Century](blockchain-10.md)

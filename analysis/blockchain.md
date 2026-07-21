@@ -9,3 +9,5 @@
 ⛓️ [The Rise of Decentralized Cryptocurrency Exchanges: Evaluating the Role of Airdrops and Governance Tokens](blockchain-4.md)
 
 ⛓️ [A Conceptual Model and Case Study of Blockchain-Enabled Social Media Platform](blockchain-5.md)
+
+⛓️ [Peer-to-Peer Energy and Carbon Trading Framework](blockchain-6.md)

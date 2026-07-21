@@ -15,3 +15,5 @@
 🌐 [Wired for stability: The role of infrastructure and Fintech in migrant employment](migration-7.md)
 
 🌐 [Time banking concepts as an effective tool for healthcare access in UK](migration-8.md)
+
+🌐 [Reinforcing DevOps Generic Process](migration-9.md)

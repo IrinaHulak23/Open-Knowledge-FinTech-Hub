@@ -17,3 +17,5 @@
 🌐 [Time banking concepts as an effective tool for healthcare access in UK](migration-8.md)
 
 🌐 [Reinforcing DevOps Generic Process](migration-9.md)
+
+🌐 [Can Fintech Enable the World to Avoid the Tragedy of the Commons?](migration-10.md)

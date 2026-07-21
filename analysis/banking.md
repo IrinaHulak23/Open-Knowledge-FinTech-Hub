@@ -11,3 +11,5 @@
 🏦 [The impact of the FinTech revolution on the future of banking: Opportunities and risks](banking-5.md)
 
 🏦 [Exploring mobile money adoption in Vietnam: Insights from payment technology and demographic dynamics](banking-6.md)
+
+🏦 [Measurement of users acceptance of selected financial technology products and services](banking-7.md)

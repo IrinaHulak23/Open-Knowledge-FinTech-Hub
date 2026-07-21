@@ -15,3 +15,5 @@
 🏦 [Measurement of users acceptance of selected financial technology products and services](banking-7.md)
 
 🏦 [Fintech as Financial Innovation – The Possibilities and Problems of Implementation](banking-8.md)
+
+🏦 [Banks, microfinance institutions and fintech: how the ratio of male and female entrepreneurs moderates their capacity for financial inclusion](banking-9.md)

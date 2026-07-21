@@ -3,7 +3,7 @@
 ## Exploring mobile money adoption in Vietnam: Insights from payment technology and demographic dynamics
 
 ### 1. Назва статті (APA Style)
-Nguyen, M. T., Nguyen-Thanh, N., & Duy, D. T. (2025). Exploring mobile money adoption in Vietnam: Insights from payment technology and demographic dynamics.
+Nguyen, M. T., Nguyen-Thanh, N., & Duy, D. T. (2025). Exploring mobile money adoption in Vietnam: Insights from payment technology and demographic dynamics. https://doi.org/10.1016/j.ssaho.2025.101421
 
 ### 2. Мета дослідження
 З'ясувати, як наявність базових рахунків у фінансових установах (банківських чи карткових) та демографічні характеристики клієнтів впливають на прийняття та використання мобільних грошей у В'єтнамі.

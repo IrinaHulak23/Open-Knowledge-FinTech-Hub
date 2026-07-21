@@ -3,7 +3,7 @@
 ## From traits to intention: The mediating role of result demonstrability in remittance app adoption among Filipino migrant workers
 
 ### 1. Назва статті (APA Style)
-Lin, Y. -L., & Liu, H. -W. (2025). From traits to intention: The mediating role of result demonstrability in remittance app adoption among Filipino migrant workers. *Asia Pacific Management Review*, 30, 100368. [https://doi.org/10.1016/j.apmrv.2024.100368](https://doi.org/10.1016/j.apmrv.2024.100368)
+Lin, Y. -L., & Liu, H. -W. (2025). From traits to intention: The mediating role of result demonstrability in remittance app adoption among Filipino migrant workers. *Asia Pacific Management Review*, 30, 100368. [https://doi.org/10.1016/j.apmrv.2025.100368](https://doi.org/10.1016/j.apmrv.2025.100368)
 
 ### 2. Мета дослідження
 Автори прагнуть з'ясувати, які внутрішні психологічні бар'єри та особистісні риси заважають або допомагають іноземним робітникам-мігрантам перейти на використання сучасних мобільних додатків для відправки грошей додому замість традиційних банків чи фізичних кас[cite: 6]. Головна мета — перевірити, чи впливає психологічна відстань до технології на готовність нею користуватися, і чи є «наочність результату» (чітке розуміння безпеки та швидкості транзакції) тим ключовим містком, який з'єднує характер людини з її фінальним рішенням встановити додаток[cite: 6].

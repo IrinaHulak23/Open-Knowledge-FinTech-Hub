@@ -13,3 +13,5 @@
 🏦 [Exploring mobile money adoption in Vietnam: Insights from payment technology and demographic dynamics](banking-6.md)
 
 🏦 [Measurement of users acceptance of selected financial technology products and services](banking-7.md)
+
+🏦 [Fintech as Financial Innovation – The Possibilities and Problems of Implementation](banking-8.md)

@@ -19,3 +19,5 @@
 🏦 [Banks, microfinance institutions and fintech: how the ratio of male and female entrepreneurs moderates their capacity for financial inclusion](banking-9.md)
 
 🏦 [Corporate governance and effect in fintech: Evidence from Gulf Cooperation Council banking sector](banking-10.md)
+
+🏦 [Financial Technology, Sustainable Dimensions, and Economic Growth](banking-11.md)

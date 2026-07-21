@@ -3,7 +3,7 @@
 ## Can Fintech Enable the World to Avoid the Tragedy of the Commons?
 
 ### 1. Назва статті (APA Style)
-Bassett-Jones, N. (2024). Can Fintech Enable the World to Avoid the Tragedy of the Commons? In *Fintech and Sustainability* (pp. 1-24). World Scientific Publishing Europe Ltd. [https://doi.org/10.1142/9781800614833_0001](https://doi.org/10.1142/9781800614833_0001)
+Bassett-Jones, N. (2024). Can Fintech Enable the World to Avoid the Tragedy of the Commons? In *Fintech and Green Investment: Transforming Challenges into Opportunities* (pp. 1-24). World Scientific Publishing Europe Ltd. [https://doi.org/10.1142/9781800614604_0001](https://ideas.repec.org/h/wsi/wschap/9781800614604_0001.html)
 
 ### 2. Мета дослідження
 Автор прагне з'ясувати, чи можуть фінансові технології (фінтех) та технологія розподіленого реєстру (блокчейн) допомогти людству вирішити кризу виснаження спільних природних ресурсів (води, їжі, енергії). Мета статті — показати, що головною перешкодою для подолання екологічної катастрофи є глобальний брак довіри та недосконалість інституцій, а цифрові технології здатні побудувати нову прозору інфраструктуру для міжнародної співпраці.

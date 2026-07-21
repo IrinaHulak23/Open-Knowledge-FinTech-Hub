@@ -17,3 +17,5 @@
 🏦 [Fintech as Financial Innovation – The Possibilities and Problems of Implementation](banking-8.md)
 
 🏦 [Banks, microfinance institutions and fintech: how the ratio of male and female entrepreneurs moderates their capacity for financial inclusion](banking-9.md)
+
+🏦 [Corporate governance and effect in fintech: Evidence from Gulf Cooperation Council banking sector](banking-10.md)

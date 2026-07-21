@@ -35,3 +35,5 @@
 🏦 [Impact of Fintech-Centric Financial Inclusion on Bank Risk-Taking: Evidence from Developing Countries](banking-17.md)
 
 🏦 [Fintech and Banks as Complements in Microentrepreneurship](banking-18.md)
+
+🏦 [Benefit–Risk Perceptions of FinTech Adoption for Sustainability from Bank Consumers’ Perspective](banking-19.md)

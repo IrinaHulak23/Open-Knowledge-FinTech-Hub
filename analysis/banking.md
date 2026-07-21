@@ -9,3 +9,5 @@
 🏦 [Cooperative financial institutions: A review of the literature](banking-4.md)
 
 🏦 [The impact of the FinTech revolution on the future of banking: Opportunities and risks](banking-5.md)
+
+🏦 [Exploring mobile money adoption in Vietnam: Insights from payment technology and demographic dynamics](banking-6.md)

@@ -3,7 +3,7 @@
 ## Unravelling the migration decision-making process: English early retirees moving to rural mid-Wales
 
 ### 1. Назва статті (APA Style)
-Stockdale, A. (2014). Unravelling the migration decision-making process: English early retirees moving to rural mid-Wales. *Journal of Rural Studies*, 34, 161-171. [https://doi.org/10.1016/j.jrurstud.2014.01.002](https://doi.org/10.1016/j.jrurstud.2014.01.002)
+Stockdale, A. (2014). Unravelling the migration decision-making process: English early retirees moving to rural mid-Wales. *Journal of Rural Studies*, 34, 161-171. [https://doi.org/10.1016/j.jrurstud.2014.01.008](https://doi.org/10.1016/j.jrurstud.2014.01.008)
 
 ### 2. Мета дослідження
 Авторка прагне детально розібрати внутрішні психологічні, фінансові та сімейні механізми, які змушують відносно молодих англійських пенсіонерів (осіб, які рано вийшли на пенсію) залишати міста й переїжджати на постійне проживання до сільських районів середнього Уельсу. Мета статті — довести, що міграція літніх людей є складним багатоступеневим процесом, який не можна пояснити простими стереотипними гаслами на кшталт «пошук кращої якості життя» чи «сільська ідилія», оскільки фінансові розрахунки, здоров'я та родинні обставини часто грають значно важливішу або навіть примусову роль.

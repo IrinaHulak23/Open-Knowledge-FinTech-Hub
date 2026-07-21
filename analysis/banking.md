@@ -27,3 +27,5 @@
 🏦 [Decentralized Finance](banking-13.md)
 
 🏦 [Enabling Responsible Banking Through the Application of Blockchain](banking-14.md)
+
+🏦 [The Role of FinTech Governance in Enhancing Financial Inclusion and Reducing Income Inequality](banking-15.md)

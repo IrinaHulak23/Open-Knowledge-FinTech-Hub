@@ -15,3 +15,5 @@
 ⛓️ [The Impact of Blockchain-Related Name Changes on Corporate Performance](blockchain-7.md)
 
 ⛓️ [Herding and Anchoring in Cryptocurrency Markets](blockchain-8.md)
+
+⛓️ [Blockchain Technology Diffusion in Tourism](blockchain-9.md)

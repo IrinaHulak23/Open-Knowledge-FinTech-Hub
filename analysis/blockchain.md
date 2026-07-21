@@ -13,3 +13,5 @@
 ⛓️ [Peer-to-Peer Energy and Carbon Trading Framework](blockchain-6.md)
 
 ⛓️ [The Impact of Blockchain-Related Name Changes on Corporate Performance](blockchain-7.md)
+
+⛓️ [Herding and Anchoring in Cryptocurrency Markets](blockchain-8.md)

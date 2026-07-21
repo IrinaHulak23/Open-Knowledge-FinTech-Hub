@@ -1,6 +1,6 @@
 # ⛓️ FinTech & Blockchain
 
-## The application of blockchain-based crypto assets for integrating the physical and financial supply chains in the construction & engineering industry
+## Integrating Construction Supply Chains via Blockchain Assets
 
 ### 1. Назва статті (APA Style)
 Hamledari, H., & Fischer, M. (2021). The application of blockchain-based crypto assets for integrating the physical and financial supply chains in the construction & engineering industry. *Automation in Construction*, 127, Article 103711. [https://doi.org/10.1016/j.autcon.2021.103711](https://doi.org/10.1016/j.autcon.2021.103711)

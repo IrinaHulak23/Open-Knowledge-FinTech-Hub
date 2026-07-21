@@ -37,3 +37,5 @@
 🏦 [Fintech and Banks as Complements in Microentrepreneurship](banking-18.md)
 
 🏦 [Benefit–Risk Perceptions of FinTech Adoption for Sustainability from Bank Consumers’ Perspective](banking-19.md)
+
+🏦 [The Impact of Fintech on Financial Institutions: The Case of Georgia](banking-20.md)

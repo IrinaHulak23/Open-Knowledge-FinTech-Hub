@@ -3,7 +3,7 @@
 ## Impact of Fintech-Centric Financial Inclusion on Bank Risk-Taking: Evidence from Developing Countries
 
 ### 1. Метадані статті (APA Style)
-Zheng, C., Rahman, M. A., Hossain, S., & Moudud-Ul-Huq, S. (2026). Impact of fintech-centric financial inclusion on bank risk-taking: evidence from developing countries. *Financial Innovation*, 12, Article 58. [https://doi.org/10.1186/s40854-026-00888-2](https://doi.org/10.1186/s40854-026-00888-2)
+Zheng, C., Rahman, M. A., Hossain, S., & Moudud-Ul-Huq, S. (2026). Impact of fintech-centric financial inclusion on bank risk-taking: evidence from developing countries. *Financial Innovation*, 12, Article 58. https://doi.org/10.1186/s40854-025-00843-3
 
 ### 2. Мета дослідження
 з’ясувати, як залучення населення до фінансової системи за допомогою сучасних технологій (фінтеху) впливає на рівень ризику, який беруть на себе банки у країнах, що розвиваються.

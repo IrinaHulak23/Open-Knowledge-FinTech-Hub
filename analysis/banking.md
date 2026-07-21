@@ -21,3 +21,5 @@
 🏦 [Corporate governance and effect in fintech: Evidence from Gulf Cooperation Council banking sector](banking-10.md)
 
 🏦 [Financial Technology, Sustainable Dimensions, and Economic Growth](banking-11.md)
+
+🏦 [Fintech Innovation in the Financial Sector: Influence of E-Money Products](banking-12.md)

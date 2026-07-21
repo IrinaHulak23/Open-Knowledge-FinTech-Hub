@@ -11,3 +11,5 @@
 ⛓️ [A Conceptual Model and Case Study of Blockchain-Enabled Social Media Platform](blockchain-5.md)
 
 ⛓️ [Peer-to-Peer Energy and Carbon Trading Framework](blockchain-6.md)
+
+⛓️ [The Impact of Blockchain-Related Name Changes on Corporate Performance](blockchain-7.md)

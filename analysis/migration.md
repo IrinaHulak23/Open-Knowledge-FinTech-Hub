@@ -11,3 +11,5 @@
 🌐 [Unravelling the migration decision-making process: English early retirees moving to rural mid-Wales](migration-5.md)
 
 🌐 [From traits to intention: The mediating role of result demonstrability in remittance app adoption among Filipino migrant workers](migration-6.md)
+
+🌐 [Wired for stability: The role of infrastructure and Fintech in migrant employment](migration-7.md)

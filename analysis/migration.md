@@ -19,3 +19,5 @@
 🌐 [Reinforcing DevOps Generic Process](migration-9.md)
 
 🌐 [Can Fintech Enable the World to Avoid the Tragedy of the Commons?](migration-10.md)
+
+🌐 [Financial behavior of Ukrainian migrants and internally displaced persons in wartime: Adaptation and personal finance strategies](migration-11.md)

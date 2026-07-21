@@ -33,3 +33,5 @@
 🏦 [Fintech Investments in European Banks: A Hybrid IT2 Fuzzy Multidimensional Decision-Making Approach](banking-16.md)
 
 🏦 [Impact of Fintech-Centric Financial Inclusion on Bank Risk-Taking: Evidence from Developing Countries](banking-17.md)
+
+🏦 [Fintech and Banks as Complements in Microentrepreneurship](banking-18.md)

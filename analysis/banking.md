@@ -25,3 +25,5 @@
 🏦 [Fintech Innovation in the Financial Sector: Influence of E-Money Products](banking-12.md)
 
 🏦 [Decentralized Finance](banking-13.md)
+
+🏦 [Enabling Responsible Banking Through the Application of Blockchain](banking-14.md)

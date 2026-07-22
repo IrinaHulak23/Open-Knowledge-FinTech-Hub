@@ -33,3 +33,5 @@
 ⛓️ [A Survey of the Application of Blockchain in Multiple Fields of Financial Services](blockchain-15.md)
 
 ⛓️ [Crypto Art: A Decentralized View](blockchain-16.md)
+
+⛓️ [AI-Driven Blockchain Lending for Sustainable Development](blockchain-17.md)

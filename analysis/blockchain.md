@@ -37,3 +37,5 @@
 ⛓️ [AI-Driven Blockchain Lending for Sustainable Development](blockchain-17.md)
 
 ⛓️ [Blockchain-Based Application at a Governmental Level](blockchain-18.md)
+
+⛓️ [Bitcoin, Crypto-Coins, and Global Anti-Money Laundering Governance](blockchain-19.md)

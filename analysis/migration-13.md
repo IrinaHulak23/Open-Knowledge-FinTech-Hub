@@ -3,7 +3,7 @@
 ## Money whispers: Informality, international politics, and immigration in transnational finance
 
 ### 1. Назва статті (APA Style)
-Rohanifar, Y., Chandra, P., Rahman, M. A., & Ahmed, S. I. (2021). Money whispers: Informality, international politics, and immigration in transnational finance. In *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems* (pp. 1–14). Association for Computing Machinery. [https://doi.org/10.1145/3411764.3445100](https://doi.org/10.1145/3411764.3445100)
+Rohanifar, Y., Chandra, P., Rahman, M. A., & Ahmed, S. I. (2021). Money whispers: Informality, international politics, and immigration in transnational finance. In *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems* (pp. 1–14). Association for Computing Machinery. [https://doi.org/10.1145/3411764.3445065](https://doi.org/10.1145/3411764.3445065)
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб вивчити та задокументувати повсякденні фінансові труднощі, з якими стикаються іммігранти в умовах жорстких міжнародних фінансових санкцій. Автори прагнуть з'ясувати, як саме ця спільнота змушена шукати та створювати неформальні фінансові канали й альтернативні обхідні шляхи через те, що сучасні цифрові технології (FinTech) блокують або обмежують обслуговування їхньої батьківщини. У підсумку робота має на меті розширити межі взаємодії комп'ютерних наук (HCI) із глобальною політикою та запропонувати ідеї для проєктування більш інклюзивних технологій.

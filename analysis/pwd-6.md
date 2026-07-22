@@ -3,7 +3,7 @@
 ## Developing inclusive regulations for Muslim disabled entrepreneurs' access to Sharia fintech: Legal and accessibility perspectives
 
 ### 1. Назва статті (APA Style)
-Noor, A., Maruf, M., Mawahib, M. Z., & Habib, M. A. (2025). Developing inclusive regulations for Muslim disabled entrepreneurs' access to Sharia fintech: Legal and accessibility perspectives. *Jurnal Ilmiah Al-Syir'ah*, 23(1), 70–86. [https://journal.iain-manado.ac.id/index.php/JIS/index](https://journal.iain-manado.ac.id/index.php/JIS/index)
+Noor, A., Maruf, M., Mawahib, M. Z., & Habib, M. A. (2025). Developing inclusive regulations for Muslim disabled entrepreneurs' access to Sharia fintech: Legal and accessibility perspectives. *Jurnal Ilmiah Al-Syir'ah*, 23(1), 70–86. [https://journal.iain-manado.ac.id/index.php/JIS/article/view/3194](https://journal.iain-manado.ac.id/index.php/JIS/article/view/3194)
 
 ### 2. Мета дослідження
 Розробити інклюзивні регуляторні стратегії для доступу мусульманських підприємців з інвалідністю до ісламського фінтеху в Індонезії, виявити прогалини в законодавстві (зокрема щодо інтеграції стандартів WCAG) та показати, як досвід Індонезії може бути застосований до мусульманських меншин у немусульманських країнах (на прикладі Китаю).

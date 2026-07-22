@@ -3,7 +3,7 @@
 ## Inclusive economic growth through digital finance and social protection: Empowering persons with disabilities
 
 ### 1. Назва статті (APA Style)
-Babu, T. S., & Iyer, S. R. (2025). Inclusive economic growth through digital finance and social protection: Empowering persons with disabilities. *Paper presented at the International Conference on Sustainable & Resilient Futures (ICSRF)*, August 29 - September 1, 2025. SSRN: https://ssrn.com/abstract=5586930
+Babu, T. S., & Iyer, S. R. (2025). Inclusive economic growth through digital finance and social protection: Empowering persons with disabilities. *Paper presented at the International Conference on Sustainable & Resilient Futures (ICSRF)*, August 29 - September 1, 2025. https://doi.org/10.2139/ssrn.5586930
 
 ### 2. Мета дослідження
 Оцінити сучасний стан цифрової фінансової інклюзії та соціального захисту людей з інвалідністю, дослідити інтегровані моделі, що поєднують інклюзивний цифровий фінанс та рамки соціального захисту, та проаналізувати вплив інклюзивного цифрового фінансування на економічну участь, незалежність та стійкість PwDs.

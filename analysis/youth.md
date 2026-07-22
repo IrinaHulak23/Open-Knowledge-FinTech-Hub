@@ -18,3 +18,5 @@
 👦 [Investment Trends and Fintech Fraud Mitigation among Millennials](youth-7.md)
 
 👦 [Investment Decisions of Generations Z and Y in Indonesia](youth-8.md)
+
+👦 [Fintech Literacy among Malaysian Millennials](youth-9.md)

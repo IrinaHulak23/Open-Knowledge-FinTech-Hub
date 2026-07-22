@@ -12,3 +12,5 @@
 👦 [Fintech Adoption among Educated Romanian Consumers](youth-4.md)
 
 👦 [Financial Literacy and Fintech Use among Young Professionals in Mauritius](youth-5.md)
+
+👦 [FinTech Ecosystem and Entrepreneurial Intentions in Tunisia](youth-6.md)

@@ -31,3 +31,5 @@
 ♿ [Financial inclusion for persons with disabilities: Experiences of providers and users of financial products and services in Kenya](pwd-14.md)
 
 ♿ [Artificial intelligence adoption and equitable financial inclusion for persons living with disabilities in Nigeria's banking ecosystem](pwd-15.md)
+
+♿ [Analysing credit risk in persons with disabilities as an instrument of financial inclusion](pwd-16.md)

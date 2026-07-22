@@ -21,3 +21,5 @@
 👵 [Cryptocurrency Adoption among Generation X: The Mediating Role of Cashless Payment Acceptance in Thailand](aging-9.md)
 
 👵 [Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions](aging-10.md)
+
+👵 [Generational Perspectives on Fintech Adoption: Challenges, Demographics, and Digital Inclusion](aging-11.md)

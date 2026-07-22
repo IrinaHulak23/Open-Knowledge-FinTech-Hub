@@ -3,7 +3,7 @@
 ## Financial Literacy and Fintech Use among Young Professionals in Mauritius
 
 ### 1. Назва статті (APA Style)
-Boolaky, A., Mauree-Narrainen, D., & Padachi, K. (2021). Financial Literacy and Fintech Use among Young Professionals in Mauritius. *Journal of Financial Services Marketing*, 26, 215–228. https://doi.org/10.1057/s41264-021-00092-2
+Boolaky, A., Mauree-Narrainen, D., & Padachi, K. (2021). Financial Literacy of Young Professionals in the Context of Financial Technology Developments in Mauritius. *Journal of Social Economics Research*, 8(2), 119–134. https://doi.org/10.18488/journal.35.2021.82.119.134
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб оцінити фінансову грамотність молодих професіоналів у Маврикії в умовах розвитку фінансових технологій. Автори прагнуть зрозуміти, наскільки молоді фахівці володіють фінансовими знаннями, як вони ухвалюють фінансові рішення і як ставляться до використання Fintech-інструментів для базового управління грошима та інвестицій.

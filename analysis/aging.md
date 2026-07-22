@@ -17,3 +17,5 @@
 👵 [Exploring the mechanisms driving elderly Fintech engagement: the role of social influence and the elderly’s digital literacy](aging-7.md)
 
 👵 [FinTech and older adults: a global synthesis of enablers, barriers, and research trends for inclusive digital finance](aging-8.md)
+
+👵 [Cryptocurrency Adoption among Generation X: The Mediating Role of Cashless Payment Acceptance in Thailand](aging-9.md)

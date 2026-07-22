@@ -41,3 +41,5 @@
 🌐 [Remittance micro-worlds and migrant infrastructure: Circulations, disruptions, and the movement of money](migration-19.md)
 
 🌐 [The medium is the message: The geographies of cryptocurrency remittances to Venezuela](migration-20.md)
+
+🌐 [Whose money? Digital remittances, mobile money and fintech in Ghana](migration-21.md)

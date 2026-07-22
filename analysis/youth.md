@@ -14,3 +14,5 @@
 👦 [Financial Literacy and Fintech Use among Young Professionals in Mauritius](youth-5.md)
 
 👦 [FinTech Ecosystem and Entrepreneurial Intentions in Tunisia](youth-6.md)
+
+👦 [Investment Trends and Fintech Fraud Mitigation among Millennials](youth-7.md)

@@ -23,3 +23,5 @@
 ⛓️ [Banking Beyond Banks and Money: A Guide to Banking Services in the Twenty-First Century](blockchain-10.md)
 
 ⛓️ [Business Process Modeling Patterns for Blockchain Application Development](blockchain-11.md)
+
+⛓️ [Blockchain Technologies and Remittances](blockchain-12.md)

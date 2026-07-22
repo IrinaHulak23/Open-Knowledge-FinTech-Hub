@@ -3,7 +3,7 @@
 ## FinTech payments in the era of COVID-19: Factors influencing behavioral intentions of “Generation X” in Hungary to use mobile payment
 
 ### 1. Назва статті (APA Style)
-Daragmeh, A., Lentner, C., & Sági, J. (2021). FinTech payments in the era of COVID-19: Factors influencing behavioral intentions of “Generation X” in Hungary to use mobile payment. *Journal of Behavioral and Experimental Finance*, 32, 100574.
+Daragmeh, A., Lentner, C., & Sági, J. (2021). FinTech payments in the era of COVID-19: Factors influencing behavioral intentions of “Generation X” in Hungary to use mobile payment. *Journal of Behavioral and Experimental Finance*, 32, 100574. https://doi.org/10.1016/j.jbef.2021.100574
 
 ### 2. Мета дослідження
 Мета статті полягає у визначенні факторів, які впливають на поведінковий намір представників покоління X в Угорщині використовувати мобільні FinTech-платежі в умовах пандемії COVID-19. Автори прагнуть показати, як ризик зараження, корисність сервісу, простота використання та соціальний вплив формують готовність користувачів переходити від готівкових і контактних платежів до цифрових платіжних інструментів.

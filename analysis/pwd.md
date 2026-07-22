@@ -17,3 +17,5 @@
 ♿ [Advocacy as access work: How people with visual impairments gain access to digital banking in India](pwd-7.md)
 
 ♿ [Reinventing the future of financial technologies with autistic adults](pwd-8.md)
+
+♿ [Accessibility and digital inclusion in Islamic banking for persons with disabilities in Indonesia](pwd-9.md)

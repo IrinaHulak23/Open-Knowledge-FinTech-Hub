@@ -3,7 +3,7 @@
 ## Digital by Default? A Critical Review of Age-Driven Inequalities in Payment Innovation
 
 ### 1. Назва статті (APA Style)
-Panetta, I. C., Anjomrouz, E., Paiardini, P., & Leo, S. (2025). Digital by Default? A Critical Review of Age-Driven Inequalities in Payment Innovation. *Journal of Risk and Financial Management*, 18(6), 313. [https://doi.org/10.1390/jrfm18060313](https://doi.org/10.1390/jrfm18060313)
+Panetta, I. C., Anjomrouz, E., Paiardini, P., & Leo, S. (2025). Digital by Default? A Critical Review of Age-Driven Inequalities in Payment Innovation. *Journal of Risk and Financial Management*, 18(6), 313. [https://doi.org/10.3390/jrfm18060313](https://doi.org/10.3390/jrfm18060313)
 
 ### 2. Мета дослідження
 Визначити, яку роль відіграє вік, особливо старший вік, у прийнятті та використанні цифрових платіжних систем. Автори прагнуть з’ясувати, чому цифрові платежі, які часто подаються як інструмент фінансової інклюзії, можуть одночасно створювати ризики виключення для літніх користувачів.

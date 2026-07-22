@@ -20,3 +20,5 @@
 👦 [Investment Decisions of Generations Z and Y in Indonesia](youth-8.md)
 
 👦 [Fintech Literacy among Malaysian Millennials](youth-9.md)
+
+👦 [Examining the factors influencing fintech adoption behaviour of gen Y in India](youth-10.md)

@@ -11,3 +11,5 @@
 👵 [Financial technology as a tool to enhance financial consumer protection and reduce defaults on personal loans: to achieve financial inclusion and sustainable development in Jordan](aging-4.md)
 
 👵 [Digital by Default? A Critical Review of Age-Driven Inequalities in Payment Innovation](aging-5.md)
+
+👵 [Age-dependent differences in using FinTech products and services—Young customers versus other adults](aging-6.md)

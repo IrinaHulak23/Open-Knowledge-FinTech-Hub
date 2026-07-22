@@ -27,3 +27,5 @@
 👵 [Sending Money at the Speed of Light? Cryptocurrency and the Future of Money Transfer](aging-12.md)
 
 👵 [Understanding Sustainable Wealth Management](aging-13.md)
+
+👵 [Technology, Trust, and Neuroscience: Exploring FinTech Adoption among Gen X in India through a Socio-Cultural Lens](aging-14.md)

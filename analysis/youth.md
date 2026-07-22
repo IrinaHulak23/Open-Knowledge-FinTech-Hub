@@ -8,3 +8,5 @@
 👦 [Financial Literacy and Digital Payments among Generation Z Students](youth-2.md)
 
 👦 [Crowdfunding and Entrepreneurship among Music Students](youth-3.md)
+
+👦 [Fintech Adoption among Educated Romanian Consumers](youth-4.md)

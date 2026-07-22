@@ -1,2 +1,2 @@
-№ 🪪 FinTech & Digital Identity
+# 🪪 FinTech & Digital Identity
 ---

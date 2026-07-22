@@ -31,3 +31,5 @@
 👵 [Technology, Trust, and Neuroscience: Exploring FinTech Adoption among Gen X in India through a Socio-Cultural Lens](aging-14.md)
 
 👵 [FinTech payments in the era of COVID-19: Factors influencing behavioral intentions of “Generation X” in Hungary to use mobile payment](aging-15.md)
+
+👵 [Financial technology, population aging, and corporate innovation](aging-16.md)

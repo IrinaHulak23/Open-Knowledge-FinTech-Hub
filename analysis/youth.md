@@ -16,3 +16,5 @@
 👦 [FinTech Ecosystem and Entrepreneurial Intentions in Tunisia](youth-6.md)
 
 👦 [Investment Trends and Fintech Fraud Mitigation among Millennials](youth-7.md)
+
+👦 [Investment Decisions of Generations Z and Y in Indonesia](youth-8.md)

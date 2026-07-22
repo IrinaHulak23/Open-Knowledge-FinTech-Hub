@@ -28,3 +28,5 @@
 👦 [Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region](youth-12.md)
 
 👦 [Female University Students and Fintech Literacy: Evidence from Somalia](youth-13.md)
+
+👦 [A Study on the Impact of Financial Socialization and Financial Management Behavior on Start-up Intention: Mediating Effect of Entrepreneurship](youth-14.md)

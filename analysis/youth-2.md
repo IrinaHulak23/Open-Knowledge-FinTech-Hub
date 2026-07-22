@@ -3,7 +3,7 @@
 ## Financial Literacy and Digital Payments among Generation Z Students
 
 ### 1. Назва статті (APA Style)
-Barus, I. S. L., Lasniroha, T., & Bayunitri, B. I. (2024). Financial Literacy and Digital Payments among Generation Z Students.
+Barus, I. S. L., Lasniroha, T., & Bayunitri, B. I. (2024). Navigating the Digital Financial Landscape: The Role of Financial Literacy and Digital Payment Behavior in Shaping Financial Management Among Generation Z Student. *Journal of Logistics, Informatics and Service Science*, 11(7), 302–323. https://doi.org/10.33168/JLISS.2024.0716
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з’ясувати, як фінансова грамотність впливає на фінансовий менеджмент студентів покоління Z в Індонезії та яку роль у цьому процесі відіграє поведінка цифрових платежів. Автори прагнуть зрозуміти, чи допомагає фінансова обізнаність студентам краще керувати власними грошима, а також чи посилюється цей зв’язок через використання цифрових платіжних інструментів.

@@ -15,3 +15,5 @@
 👵 [Age-dependent differences in using FinTech products and services—Young customers versus other adults](aging-6.md)
 
 👵 [Exploring the mechanisms driving elderly Fintech engagement: the role of social influence and the elderly’s digital literacy](aging-7.md)
+
+👵 [FinTech and older adults: a global synthesis of enablers, barriers, and research trends for inclusive digital finance](aging-8.md)

@@ -19,3 +19,5 @@
 👵 [FinTech and older adults: a global synthesis of enablers, barriers, and research trends for inclusive digital finance](aging-8.md)
 
 👵 [Cryptocurrency Adoption among Generation X: The Mediating Role of Cashless Payment Acceptance in Thailand](aging-9.md)
+
+👵 [Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions](aging-10.md)

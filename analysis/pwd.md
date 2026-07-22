@@ -19,3 +19,5 @@
 ♿ [Reinventing the future of financial technologies with autistic adults](pwd-8.md)
 
 ♿ [Accessibility and digital inclusion in Islamic banking for persons with disabilities in Indonesia](pwd-9.md)
+
+♿ [“I forgot my numbers and the machine swallowed it up”: Adults with learning disabilities share their perspectives on the shift to a cashless society](pwd-10.md)

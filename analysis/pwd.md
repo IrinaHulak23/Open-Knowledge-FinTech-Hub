@@ -25,3 +25,5 @@
 ♿ [An assessment of accessibility and usability of Saudi online FinTech services for people with disabilities](pwd-11.md)
 
 ♿ [Financial inclusion for people with disability: A scoping review](pwd-12.md)
+
+♿ [Financial inclusion in the age of FinTech platforms: Opportunities, inequalities, and regulatory dilemmas](pwd-13.md)

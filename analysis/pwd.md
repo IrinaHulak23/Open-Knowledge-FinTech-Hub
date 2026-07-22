@@ -37,3 +37,5 @@
 ♿ [Role and actions of businesses in promoting financial inclusion for persons with disabilities](pwd-17.md)
 
 ♿ [Inclusive economic growth through digital finance and social protection: Empowering persons with disabilities](pwd-18.md)
+
+♿ [Digital financial inclusion for blind and low-vision users in Pakistan: From formal recognition to substantive capability](pwd-19.md)

@@ -33,3 +33,5 @@
 ♿ [Artificial intelligence adoption and equitable financial inclusion for persons living with disabilities in Nigeria's banking ecosystem](pwd-15.md)
 
 ♿ [Analysing credit risk in persons with disabilities as an instrument of financial inclusion](pwd-16.md)
+
+♿ [Role and actions of businesses in promoting financial inclusion for persons with disabilities](pwd-17.md)

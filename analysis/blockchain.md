@@ -31,3 +31,5 @@
 ⛓️ [Transformation of the Transaction Cost and the Agency Cost in an Organization and the Applicability of Blockchain](blockchain-14.md)
 
 ⛓️ [A Survey of the Application of Blockchain in Multiple Fields of Financial Services](blockchain-15.md)
+
+⛓️ [Crypto Art: A Decentralized View](blockchain-16.md)

@@ -13,3 +13,5 @@
 👵 [Digital by Default? A Critical Review of Age-Driven Inequalities in Payment Innovation](aging-5.md)
 
 👵 [Age-dependent differences in using FinTech products and services—Young customers versus other adults](aging-6.md)
+
+👵 [Exploring the mechanisms driving elderly Fintech engagement: the role of social influence and the elderly’s digital literacy](aging-7.md)

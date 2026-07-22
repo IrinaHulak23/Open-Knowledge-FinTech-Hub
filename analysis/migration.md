@@ -35,3 +35,5 @@
 🌐 [Customers' intentions to switch to internet-only banks: Perspective of the push-pull-mooring model](migration-16.md)
 
 🌐 [The financialization of remittances: governing through emotions](migration-17.md)
+
+🌐 [The effects of sending remittances on the financial capabilities of Zimbabwean migrants in the United Kingdom](migration-18.md)

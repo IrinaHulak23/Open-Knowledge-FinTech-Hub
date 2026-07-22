@@ -3,7 +3,7 @@
 ## Fintech and Financial Inclusion in Saudi Arabia
 
 ### 1. Назва статті (APA Style)
-Khan, S., & Alhadi, F. A. F. (2022). Fintech and Financial Inclusion in Saudi Arabia. *Review of Economics and Finance*, 20, 857–866. [https://doi.org/10.33429/ref.v20i1.980](https://doi.org/10.33429/ref.v20i1.980)
+Khan, S., & Alhadi, F. A. F. (2022). Fintech and Financial Inclusion in Saudi Arabia. *Review of Economics and Finance*, 20, 857–866. https://www.researchgate.net/publication/367766084_Fintech_and_Financial_Inclusion_in_Saudi_Arabia
 
 ### 2. Мета дослідження
 З’ясувати, які фактори визначають рівень фінансової інклюзії в Саудівській Аравії, які бар’єри заважають доступу населення до формальних фінансових послуг, а також як фінтех може сприяти розширенню фінансової інклюзії в країні.

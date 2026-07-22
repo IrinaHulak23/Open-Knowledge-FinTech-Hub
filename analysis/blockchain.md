@@ -29,3 +29,5 @@
 ⛓️ [Value Creation from a Decentralized Car Ledger](blockchain-13.md)
 
 ⛓️ [Transformation of the Transaction Cost and the Agency Cost in an Organization and the Applicability of Blockchain](blockchain-14.md)
+
+⛓️ [A Survey of the Application of Blockchain in Multiple Fields of Financial Services](blockchain-15.md)

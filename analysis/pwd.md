@@ -29,3 +29,5 @@
 ♿ [Financial inclusion in the age of FinTech platforms: Opportunities, inequalities, and regulatory dilemmas](pwd-13.md)
 
 ♿ [Financial inclusion for persons with disabilities: Experiences of providers and users of financial products and services in Kenya](pwd-14.md)
+
+♿ [Artificial intelligence adoption and equitable financial inclusion for persons living with disabilities in Nigeria's banking ecosystem](pwd-15.md)

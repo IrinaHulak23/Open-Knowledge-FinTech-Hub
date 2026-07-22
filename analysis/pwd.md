@@ -27,3 +27,5 @@
 ♿ [Financial inclusion for people with disability: A scoping review](pwd-12.md)
 
 ♿ [Financial inclusion in the age of FinTech platforms: Opportunities, inequalities, and regulatory dilemmas](pwd-13.md)
+
+♿ [Financial inclusion for persons with disabilities: Experiences of providers and users of financial products and services in Kenya](pwd-14.md)

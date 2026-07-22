@@ -1,5 +1,7 @@
 # 🌱 FinTech & Sustainability
 ---
+### [⬅ Назад до категорій](../Категорії.md)
+---
  🌱 [Discovering research trends and opportunities of green finance and energy policy: A data-driven scientometric analysis](sustainability-1.md)
  
  🌱 [The role of artificial intelligence and fintech in promoting eco-friendly investments and non-greenwashing practices in the US market](sustainability-2.md)

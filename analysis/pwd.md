@@ -41,3 +41,5 @@
 ♿ [Digital financial inclusion for blind and low-vision users in Pakistan: From formal recognition to substantive capability](pwd-19.md)
 
 ♿ [Expanding banks' customer base through the adaptation of digital interfaces for low-mobility population groups](pwd-20.md)
+
+♿ [Reshaping regulatory governance: Leveraging Fintech to enhance financial inclusion for persons living with a mental health condition](pwd-21.md)

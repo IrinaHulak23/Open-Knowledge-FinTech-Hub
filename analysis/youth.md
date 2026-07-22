@@ -26,3 +26,5 @@
 👦 [Adoption of Fintech Services in Young Students: Empirical Approach from a Developing Country](youth-11.md)
 
 👦 [Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region](youth-12.md)
+
+👦 [Female University Students and Fintech Literacy: Evidence from Somalia](youth-13.md)

@@ -3,7 +3,7 @@
 ## Digital financial inclusion for blind and low-vision users in Pakistan: From formal recognition to substantive capability
 
 ### 1. Назва статті (APA Style)
-Shabbir, M. (2026). Digital financial inclusion for blind and low-vision users in Pakistan: From formal recognition to substantive capability. *SSRN Electronic Journal*. [https://ssrn.com/abstract=6645999](https://ssrn.com/abstract=6645999)
+Shabbir, M. (2026). Banking on Rights: A Case Study of Digital Financial Inclusion for Blind Persons in Pakistan. *SSRN Electronic Journal*. [https://doi.org/10.2139/ssrn.6645999](https://doi.org/10.2139/ssrn.6645999)
 
 ### 2. Мета дослідження
 Проаналізувати розрив між формальним визнанням прав сліпих та людей з вадами зору у банківському регулюванні Пакистану та їхньою реальною здатністю самостійно, приватно та безпечно користуватися цифровими фінансовими послугами.

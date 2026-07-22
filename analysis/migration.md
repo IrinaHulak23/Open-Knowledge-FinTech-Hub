@@ -30,4 +30,4 @@
 
 🌐 [Difficult decisions: Migration from Small Island Developing States under climate change](migration-14.md)
 
-🌐 [Difficult decisions: Migration from Small Island Developing States under climate change](migration-15.md)
+🌐 [Remittances and natural disasters: Ex-post response and contribution to ex-ante preparedness](migration-15.md)

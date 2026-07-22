@@ -3,7 +3,7 @@
 ## Financial inclusion in the age of FinTech platforms: Opportunities, inequalities, and regulatory dilemmas
 
 ### 1. Назва статті (APA Style)
-Kumaraswamy, M., & Devi, D. S. (2026). Financial inclusion in the age of FinTech platforms: Opportunities, inequalities, and regulatory dilemmas. *International Journal of Economic Practices and Theories (IJEPT)*, 2026(1), 1–23. [https://ijapt.org/index.php/journal](https://ijapt.org/index.php/journal)
+Kumaraswamy, M., & Devi, D. S. (2026). Financial inclusion in the age of FinTech platforms: Opportunities, inequalities, and regulatory dilemmas. *International Journal of Economic Practices and Theories*, 2026, 448–470. [https://doi.org/10.52783/ijept.167](https://doi.org/10.52783/ijept.167)
 
 ### 2. Мета дослідження
 Дослідити зв'язок між FinTech-платформами, фінансовою інклюзією, соціально-економічними нерівностями та регуляторними дилемами.

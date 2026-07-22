@@ -13,3 +13,5 @@
 ♿ [Businesses for people with disabilities in the digital age: Protected or neglected? Revitalizing the law for an equal ecosystem](pwd-5.md)
 
 ♿ [Developing inclusive regulations for Muslim disabled entrepreneurs' access to Sharia fintech: Legal and accessibility perspectives](pwd-6.md)
+
+♿ [Advocacy as access work: How people with visual impairments gain access to digital banking in India](pwd-7.md)

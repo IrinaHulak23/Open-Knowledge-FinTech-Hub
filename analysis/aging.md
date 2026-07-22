@@ -25,3 +25,5 @@
 👵 [Generational Perspectives on Fintech Adoption: Challenges, Demographics, and Digital Inclusion](aging-11.md)
 
 👵 [Sending Money at the Speed of Light? Cryptocurrency and the Future of Money Transfer](aging-12.md)
+
+👵 [Understanding Sustainable Wealth Management](aging-13.md)

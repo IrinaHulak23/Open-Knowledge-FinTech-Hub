@@ -25,3 +25,5 @@
 ⛓️ [Business Process Modeling Patterns for Blockchain Application Development](blockchain-11.md)
 
 ⛓️ [Blockchain Technologies and Remittances](blockchain-12.md)
+
+⛓️ [Value Creation from a Decentralized Car Ledger](blockchain-13.md)

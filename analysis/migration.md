@@ -39,3 +39,5 @@
 🌐 [The effects of sending remittances on the financial capabilities of Zimbabwean migrants in the United Kingdom](migration-18.md)
 
 🌐 [Remittance micro-worlds and migrant infrastructure: Circulations, disruptions, and the movement of money](migration-19.md)
+
+🌐 [The medium is the message: The geographies of cryptocurrency remittances to Venezuela](migration-20.md)

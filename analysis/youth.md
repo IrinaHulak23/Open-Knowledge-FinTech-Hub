@@ -24,3 +24,5 @@
 👦 [Examining the factors influencing fintech adoption behaviour of gen Y in India](youth-10.md)
 
 👦 [Adoption of Fintech Services in Young Students: Empirical Approach from a Developing Country](youth-11.md)
+
+👦 [Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region](youth-12.md)

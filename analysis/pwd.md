@@ -15,3 +15,5 @@
 ♿ [Developing inclusive regulations for Muslim disabled entrepreneurs' access to Sharia fintech: Legal and accessibility perspectives](pwd-6.md)
 
 ♿ [Advocacy as access work: How people with visual impairments gain access to digital banking in India](pwd-7.md)
+
+♿ [Reinventing the future of financial technologies with autistic adults](pwd-8.md)

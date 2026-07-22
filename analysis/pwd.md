@@ -21,3 +21,5 @@
 ♿ [Accessibility and digital inclusion in Islamic banking for persons with disabilities in Indonesia](pwd-9.md)
 
 ♿ [“I forgot my numbers and the machine swallowed it up”: Adults with learning disabilities share their perspectives on the shift to a cashless society](pwd-10.md)
+
+♿ [An assessment of accessibility and usability of Saudi online FinTech services for people with disabilities](pwd-11.md)

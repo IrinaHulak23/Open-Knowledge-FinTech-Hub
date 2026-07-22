@@ -23,3 +23,5 @@
 👵 [Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions](aging-10.md)
 
 👵 [Generational Perspectives on Fintech Adoption: Challenges, Demographics, and Digital Inclusion](aging-11.md)
+
+👵 [Sending Money at the Speed of Light? Cryptocurrency and the Future of Money Transfer](aging-12.md)

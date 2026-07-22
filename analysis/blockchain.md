@@ -27,3 +27,5 @@
 ⛓️ [Blockchain Technologies and Remittances](blockchain-12.md)
 
 ⛓️ [Value Creation from a Decentralized Car Ledger](blockchain-13.md)
+
+⛓️ [Transformation of the Transaction Cost and the Agency Cost in an Organization and the Applicability of Blockchain](blockchain-14.md)

@@ -23,3 +23,5 @@
 ♿ [“I forgot my numbers and the machine swallowed it up”: Adults with learning disabilities share their perspectives on the shift to a cashless society](pwd-10.md)
 
 ♿ [An assessment of accessibility and usability of Saudi online FinTech services for people with disabilities](pwd-11.md)
+
+♿ [Financial inclusion for people with disability: A scoping review](pwd-12.md)

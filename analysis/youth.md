@@ -10,3 +10,5 @@
 👦 [Crowdfunding and Entrepreneurship among Music Students](youth-3.md)
 
 👦 [Fintech Adoption among Educated Romanian Consumers](youth-4.md)
+
+👦 [Financial Literacy and Fintech Use among Young Professionals in Mauritius](youth-5.md)

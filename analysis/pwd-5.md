@@ -3,7 +3,7 @@
 ## Businesses for people with disabilities in the digital age: Protected or neglected? Revitalizing the law for an equal ecosystem
 
 ### 1. Назва статті (APA Style)
-Farhani, S., & Fachri, M. R. (2026). Businesses for people with disabilities in the digital age: Protected or neglected? Revitalizing the law for an equal ecosystem. *Proceedings of the ICSI 2026*, 205–214. [https://journal.das-institute.com/index.php/proceeding](https://journal.das-institute.com/index.php/proceeding)
+Farhani, S., & Fachri, M. R. (2026). Businesses for people with disabilities in the digital age: Protected or neglected? Revitalizing the law for an equal ecosystem. *Proceedings of the ICSI 2026*, 205–214. [https://journal.das-institute.com/index.php/proceeding/article/view/1246](https://journal.das-institute.com/index.php/proceeding/article/view/1246)
 
 ### 2. Мета дослідження
 Проаналізувати правові та неправові виклики підприємців з інвалідністю в Індонезії, оцінити ефективність національної правової бази (Закон № 8/2016) та сформулювати модель правової ревіталізації для створення рівної цифрової екосистеми.

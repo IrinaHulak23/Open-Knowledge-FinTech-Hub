@@ -3,3 +3,5 @@
 ### [⬅ Назад до категорій](../Категорії.md)
 ---
 ♿ [Inclusive Digital Financial Services for Persons with Disabilities: Impact on Economic Empowerment and Financial Inclusion](pwd-1.md)
+
+♿ [Psycho-physiological impact of virtual non-verbal communication on Gen Z workforce: A study of memes](pwd-2.md)

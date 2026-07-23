@@ -3,7 +3,7 @@
 ## Blockchain, Business and the Fourth Industrial Revolution: Whence, Whither, Wherefore and How?
 
 ### 1. Назва статті (APA Style)
-Kimani, D., Adams, K., Attah-Boakye, R., Ullah, S., Frecknall-Hughes, J., & Kim, J. (2020). Blockchain, business and the fourth industrial revolution: Whence, whither, wherefore and how? *Technological Forecasting and Social Change*, 161, Article 120254. [https://doi.org/10.1016/j.techfore.2020.120254](https://doi.org/10.1016/j.techfore.2020.120254)
+> Kimani, D., Adams, K., Attah-Boakye, R., Ullah, S., Frecknall-Hughes, J., & Kim, J. (2020). Blockchain, business and the fourth industrial revolution: Whence, whither, wherefore and how? *Technological Forecasting and Social Change*, 161, Article 120254. [https://doi.org/10.1016/j.techfore.2020.120254](https://doi.org/10.1016/j.techfore.2020.120254)
 
 ### 2. Мета дослідження
 Пояснити, чому блокчейн важливий не лише для криптовалют, а й для ширшого бізнес-середовища. Проаналізувати перспективи та ризики застосування технології для банківських операцій, обліку, аудиту, оподаткування, корпоративного управління, міжнародної торгівлі та ланцюгів постачання в контексті Четвертої промислової революції.

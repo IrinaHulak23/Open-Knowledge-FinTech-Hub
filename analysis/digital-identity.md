@@ -23,3 +23,5 @@
 🪪 [A Blockchain-Based Distributed Network for Secure Credit Scoring](digital-identity-11.md)
 
 🪪 [Blockchain Alchemy: Unveiling the Digital Ledger's Transformative Power](digital-identity-12.md)
+
+🪪 [Blockchain–Cloud Integration for Cross-Border Invoice Factoring](digital-identity-13.md)

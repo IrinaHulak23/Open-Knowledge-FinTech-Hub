@@ -37,3 +37,5 @@
 👩 [The impact of FinTech start-ups on incumbent retail banks’ share prices](women-17.md)
 
 👩 [Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era](women-18.md)
+
+👩 [Gender-Inclusive development through fintech: Studying gender-based digital financial inclusion in a cross-country setting](women-19.md)

@@ -3,7 +3,7 @@
 ## A systematic literature review of fintech, financial inclusion and vulnerable groups
 
 ### 1. Назва статті (APA Style)
-Lye, C.-T., Tay, L.-Y., Ng, T.-H., & Ahmad-Nazmi, A. N. (2025). A systematic literature review of fintech, financial inclusion and vulnerable groups. *Discover Sustainability*, 6, 1467. [https://doi.org/10.1007/s43621-025-02368-2](https://doi.org/10.1007/s43621-025-02368-2)
+> Lye, C.-T., Tay, L.-Y., Ng, T.-H., & Ahmad-Nazmi, A. N. (2025). A systematic literature review of fintech, financial inclusion and vulnerable groups. *Discover Sustainability*, 6, 1467. [https://doi.org/10.1007/s43621-025-02368-2](https://doi.org/10.1007/s43621-025-02368-2)
 
 ### 2. Мета дослідження
 Систематично проаналізувати наукові публікації про взаємозв’язок між фінансовими технологіями, фінансовою інклюзією та вразливими групами населення. Автори прагнуть з’ясувати, як фінтех може розширювати доступ до фінансових послуг для груп, які традиційно мають менше можливостей користуватися банківськими та цифровими фінансовими сервісами.

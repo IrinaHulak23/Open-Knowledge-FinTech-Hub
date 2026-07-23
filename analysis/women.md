@@ -13,3 +13,5 @@
 👩 [A feminist approach to fintech: Exploring ‘buy now, pay later’ technologies and consumer fintech](women-5.md)
 
 👩 [The Role of Financial Institutions in Bridging the Financing Gap for Women Entrepreneurs in Sub-Saharan Africa](women-6.md)
+
+👩 [AI for women’s financial inclusion—analysis of product design and policy approaches in Nigeria](women-7.md)

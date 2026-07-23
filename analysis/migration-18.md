@@ -3,7 +3,8 @@
 ## The effects of sending remittances on the financial capabilities of Zimbabwean migrants in the United Kingdom
 
 ### 1. Назва статті (APA Style)
-Nyanhete, A. I., & Yeates, N. (2025). The effects of sending remittances on the financial capabilities of Zimbabwean migrants in the United Kingdom. *Journal of International and Comparative Social Policy*, 1–21.[https://doi.org/10.1017/ics.2026.10088](https://doi.org/10.1017/ics.2026.10088)
+> Nyanhete, A. I., & Yeates, N. (2025). The effects of sending remittances on the financial capabilities of Zimbabwean migrants in the United Kingdom. *Journal of International and Comparative Social Policy*, 1–21.[https://doi.org/10.1017/ics.2026.10088](https://doi.org/10.1017/ics.2026.10088)
+> 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з'ясувати, як регулярне відправлення грошових переказів на батьківщину впливає на особисте фінансове становище, поведінку та довгострокові фінансові спроможності самих мігрантів у країні перебування. Автори прагнуть розширити рамки розуміння «фінансової спроможності», оцінюючи не лише знання мігрантів, а й реальні обмеження, з якими вони стикаються через транснаціональні сімейні зобов'язання.
 

@@ -3,7 +3,7 @@
 ## Fintech services and the drivers of their implementation in small and medium enterprises
 
 ### 1. Назва статті (APA Style)
-> Moreira-Santos, D., Au-Yong-Oliveira, M., & Palma-Moreira, A. (2022). Fintech services and the drivers of their implementation in small and medium enterprises. *Information*, 13(9), 409. https://doi.org/10.1016/j.info13090409
+> Moreira-Santos, D., Au-Yong-Oliveira, M., & Palma-Moreira, A. (2022). Fintech services and the drivers of their implementation in small and medium enterprises. *Information*, 13(9), Article 409. https://doi.org/10.3390/info13090409
 
 ### 2. Мета дослідження
 З'ясувати, які чинники спонукають малі та середні підприємства (МСП) впроваджувати фінтех-послуги. Автори будують та перевіряють концептуальну модель на основі рамки TOE (Technology - Organization - Environment), аналізуючи вплив технологічного, організаційного та зовнішнього контекстів на рішення компанії прийняти фінтех, а також оцінюють роль пандемії COVID-19 у цьому процесі.

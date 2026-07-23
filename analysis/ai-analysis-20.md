@@ -3,7 +3,7 @@
 ## The making of AI society: AI futures frames in German political and media discourses
 
 ### 1. Назва статті (APA Style)
-Köstler, L., & Ossewaarde, R. (2022). The making of AI society: AI futures frames in German political and media discourses. *AI & Society*, 37, 249–263. [https://doi.org/10.1186/s40854-021-00326-1](https://doi.org/10.1186/s40854-021-00326-1)
+> Köstler, L., & Ossewaarde, R. (2022). The making of AI society: AI futures frames in German political and media discourses. *AI & Society*, 37, 249–263. [https://doi.org/10.1186/s40854-021-00326-1](https://doi.org/10.1186/s40854-021-00326-1)
 
 ### 2. Мета дослідження
 Виявити, як уряд Німеччини стратегічно конструює бачення «майбутнього з ШІ» (future visions) та як ці ідеї транслюються або критикуються у німецьких засобах масової інформації, щоб зрозуміти, чиї інтереси захищає цей дискурс.

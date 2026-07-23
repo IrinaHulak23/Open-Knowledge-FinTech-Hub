@@ -3,7 +3,7 @@
 ## Blockchain–Cloud Integration for Cross-Border Invoice Factoring: A Secure and Scalable Framework for Sustainable Trade Finance
 
 ### 1. Назва статті (APA Style)
-Sellappan, P., Shanmugam, K., Antonyaj, V. A., & Sarda, V. (2025). Blockchain–Cloud Integration for Cross-Border Invoice Factoring: A Secure and Scalable Framework for Sustainable Trade Finance. *2025 IEEE International Conference on Distributed Ledger Technologies (ICDLT)*. https://doi.org/10.1109/ICDLT66400.2025.11466504
+> Sellappan, P., Shanmugam, K., Antonyaj, V. A., & Sarda, V. (2025). Blockchain–Cloud Integration for Cross-Border Invoice Factoring: A Secure and Scalable Framework for Sustainable Trade Finance. *2025 IEEE International Conference on Distributed Ledger Technologies (ICDLT)*. https://doi.org/10.1109/ICDLT66400.2025.11466504
 
 ### 2. Мета дослідження
 Метою дослідження є розроблення гібридної рамкової моделі Blockchain–Cloud Integrated Trade Finance (TF) Framework для подолання операційних та регуляторних прогалин у системах транскордонного факторингу рахунків-фактур. Автори порівнюють традиційні та блокчейн-орієнтовані TF-системи, виявляють їхні обмеження та пропонують рішення, що поєднує незмінність блокчейну з масштабованістю хмарних обчислень, зі зв'язком із цілями сталого розвитку (SDG 8, 9, 12, 13 та 16).

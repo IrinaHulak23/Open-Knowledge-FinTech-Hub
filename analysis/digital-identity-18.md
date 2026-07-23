@@ -3,7 +3,7 @@
 ## Investigating the State of Blockchain Adoption in the South African Finance Industry
 
 ### 1. Назва статті (APA Style)
-Adams, I., Van Belle, J.-P., & Oosterwyk, G. (2023). Investigating the State of Blockchain Adoption in the South African Finance Industry. In *2023 18th Iberian Conference on Information Systems and Technologies (CISTI)*, Aveiro, Portugal, 20–23 June 2023. 10.23919/CISTI58278.2023.10211902
+Adams, I., Van Belle, J.-P., & Oosterwyk, G. (2023). Investigating the State of Blockchain Adoption in the South African Finance Industry. In *2023 18th Iberian Conference on Information Systems and Technologies (CISTI)*, Aveiro, Portugal, 20–23 June 2023. https://doi.org/10.23919/CISTI58278.2023.10211902
 ### 2. Мета дослідження
 Метою дослідження є аналіз поточного стану впровадження блокчейну у фінансовій галузі Південної Африки. Автори прагнуть виявити фактори, що впливають на прийняття технології, дослідити актуальні сприйняття блокчейну серед галузевих експертів, а також визначити реальні та потенційні варіанти використання технології — на противагу переважній більшості існуючих досліджень, зосереджених виключно на теоретичних перевагах.
 

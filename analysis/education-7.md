@@ -3,7 +3,7 @@
 ## ICT growth and the fintech boom: A mismatched capability perspective from Nigeria
 
 ### 1. Назва статті (APA Style)
-> Lange, T. (2024). ICT growth and the fintech boom: A mismatched capability perspective from Nigeria. *African Studies Quarterly*, 22(3), 96–101.
+> Lange, T. (2024). ICT growth and the fintech boom: A mismatched capability perspective from Nigeria. *African Studies Quarterly*, 22(3), 96–101. https://doi.org/10.32473/asq.22.3.136643
 
 ### 2. Мета дослідження
 Проаналізувати стійкість та довгострокові перспективи розвитку фінтех-сектору Нігерії в контексті швидкого зростання ІКТ та цифрової економіки. Автор прагне показати, що попри стрімке розширення фінтех-ринку, існує суттєвий дисбаланс між попитом на цифрові навички та їх пропозицією, що підриває стійкість розвитку сектору.

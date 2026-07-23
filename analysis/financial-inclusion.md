@@ -33,3 +33,5 @@
 🌍 [Financial technology and consumer financial satisfaction](financial-inclusion-15.md)
 
 🌍 [Determinants of digital financial inclusion in Latin America and the Caribbean](financial-inclusion-16.md)
+
+🌍 [Adopting FinTech to promote financial inclusion](financial-inclusion-17.md)

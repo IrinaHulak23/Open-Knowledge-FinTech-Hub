@@ -3,7 +3,7 @@
 ## Childhood matters: Family education and financial inclusion
 
 ### 1. Назва статті (APA Style)
-Logvynchuk, V. (2020). Childhood matters: Family education and financial inclusion. *Pacific-Basin Finance Journal*, 64, 101489. [https://doi.org/10.1016/j.pacfin.2020.101489](https://doi.org/10.1016/j.pacfin.2020.101489)
+>(2020). Childhood matters: Family education and financial inclusion. *Pacific-Basin Finance Journal*, 64, 101489. [https://doi.org/10.1016/j.pacfin.2020.101489](https://doi.org/10.1016/j.pacfin.2020.101489)
 
 ### 2. Мета дослідження
 Метою даного дослідження є з'ясування того, як якість сімейного середовища (виховання) у дитинстві та формальна шкільна освіта впливають на рівень фінансової інклюзії дорослої людини. Автор прагне визначити, як дитячий інтелектуальний досвід формує схильність та спроможність використовувати офіційні банківські послуги.

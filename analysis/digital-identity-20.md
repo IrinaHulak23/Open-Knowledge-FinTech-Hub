@@ -3,7 +3,7 @@
 ## Emerging Technologies Shaping the Future of Finance and Identity Protection
 
 ### 1. Назва статті (APA Style)
-The road ahead: emerging technologies shaping the future of finance and identity protection. In *Emerging Technologies in Finance and Identity Protection*. Deep Science Publishing. https://doi.org/10.70593/978-93-49910-16-4_12
+> The road ahead: emerging technologies shaping the future of finance and identity protection. In *Emerging Technologies in Finance and Identity Protection*. Deep Science Publishing. https://doi.org/10.70593/978-93-49910-16-4_12
 
 ### 2. Мета дослідження
 Метою розділу є комплексний огляд технологічного ландшафту у сфері фінансів та захисту ідентичності — від поточних кіберзагроз до перспективних технологій (ШІ, блокчейн, IoT, квантові обчислення). Автори прагнуть запропонувати нову таксономію кіберзагроз у FinTech та систематизувати захисні стратегії, надаючи практично корисні інсайти для академічної спільноти та галузевих стейкхолдерів.

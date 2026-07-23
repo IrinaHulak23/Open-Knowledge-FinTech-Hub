@@ -3,7 +3,7 @@
 ## Fintech and big tech credit: Drivers of the growth of digital lending
 
 ### 1. Назва статті (APA Style)
-Cornelli, G., Frost, J., Gambacorta, L., Rau, P. R., Wardrop, R., & Ziegler, T. (2023). Fintech and big tech credit: Drivers of the growth of digital lending. *Journal of Banking & Finance*, 148, 106742. [https://doi.org/10.1016/j.jbankfin.2022.106742](https://doi.org/10.1016/j.jbankfin.2022.106742)
+> Cornelli, G., Frost, J., Gambacorta, L., Rau, P. R., Wardrop, R., & Ziegler, T. (2023). Fintech and big tech credit: Drivers of the growth of digital lending. *Journal of Banking & Finance*, 148, 106742. [https://doi.org/10.1016/j.jbankfin.2022.106742](https://doi.org/10.1016/j.jbankfin.2022.106742)
 
 ### 2. Мета дослідження
 З’ясувати, які саме макроекономічні та інституційні фактори стимулюють швидке зростання цифрового кредитування (фінтех та бігтех) у світі, створивши для цього нову унікальну глобальну базу даних.

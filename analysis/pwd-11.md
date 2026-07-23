@@ -3,7 +3,7 @@
 ## An assessment of accessibility and usability of Saudi online FinTech services for people with disabilities
 
 ### 1. Назва статті (APA Style)
-Nour, R. (2022). An assessment of accessibility and usability of Saudi online FinTech services for people with disabilities. *Computational and Mathematical Methods in Medicine*, 2022, Article ID 8610844, 1–9. [https://doi.org/10.1155/2022/8610844](https://doi.org/10.1155/2022/8610844)
+> Nour, R. (2022). An assessment of accessibility and usability of Saudi online FinTech services for people with disabilities. *Computational and Mathematical Methods in Medicine*, 2022, Article ID 8610844, 1–9. [https://doi.org/10.1155/2022/8610844](https://doi.org/10.1155/2022/8610844)
 
 ### 2. Мета дослідження
 Проаналізувати доступність та зручність використання 32 вебсайтів саудівських FinTech-компаній для людей з інвалідністю за допомогою автоматизованих інструментів та ручної перевірки.

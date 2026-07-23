@@ -3,7 +3,7 @@
 ## Reshaping regulatory governance: Leveraging Fintech to enhance financial inclusion for persons living with a mental health condition
 
 ### 1. Назва статті (APA Style)
-Bajakic, I., & Branica, V. (2025). Reshaping regulatory governance: Leveraging Fintech to enhance financial inclusion for persons living with a mental health condition. *Cogent Social Sciences*, 11(1), 2474193. [https://doi.org/10.1080/23311886.2025.2474193](https://doi.org/10.1080/23311886.2025.2474193)
+> Bajakic, I., & Branica, V. (2025). Reshaping regulatory governance: Leveraging Fintech to enhance financial inclusion for persons living with a mental health condition. *Cogent Social Sciences*, 11(1), 2474193. [https://doi.org/10.1080/23311886.2025.2474193](https://doi.org/10.1080/23311886.2025.2474193)
 
 ### 2. Мета дослідження
 Дослідити, як Fintech може сприяти фінансовій інклюзії людей з психічними розладами, та запропонувати модель регуляторного управління через міжсекторальну співпрацю на прикладі Хорватії.

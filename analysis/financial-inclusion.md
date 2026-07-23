@@ -27,3 +27,5 @@
 🌍 [Defeating the dark sides of FinTech](financial-inclusion-12.md)
 
 🌍 [Exploring the impact and risks of fintech adoption on income inequality](financial-inclusion-13.md)
+
+🌍 [Opportunities and barriers for FinTech in SAARC and ASEAN countries](financial-inclusion-14.md)

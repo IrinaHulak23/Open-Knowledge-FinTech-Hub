@@ -43,3 +43,7 @@
 ⛓️ [Crypto Art: A Decentralized View](blockchain-20.md)
 
 ⛓️ [The 51% Attack on Blockchains: A Mining Behavior Study](blockchain-21.md)
+
+⛓️ [The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions](blockchain-22.md)
+
+⛓️ [The Medium is the Message: The Geographies of Cryptocurrency Remittances to Venezuela](blockchain-23.md)

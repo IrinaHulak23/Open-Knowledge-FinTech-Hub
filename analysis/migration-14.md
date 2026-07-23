@@ -3,7 +3,7 @@
 ## Difficult decisions: Migration from Small Island Developing States under climate change
 
 ### 1. Назва статті (APA Style)
-Kelman, I. (2015). Difficult decisions: Migration from Small Island Developing States under climate change. *Earth’s Future*, 3(4), 133–142. [https://doi.org/10.1002/2014EF000278](https://doi.org/10.1002/2014EF000278)
+> Kelman, I. (2015). Difficult decisions: Migration from Small Island Developing States under climate change. *Earth’s Future*, 3(4), 133–142. [https://doi.org/10.1002/2014EF000278](https://doi.org/10.1002/2014EF000278)
 
 ### 2. Мета дослідження
 Автор прагне запропонувати, проаналізувати та критично оцінити теоретичну схему (блок-схему) прийняття рішень для Малих острівних держав, що розвиваються (SIDS), які стикаються з потребою міграції через зміни клімату. Дослідження має на меті виявити ключові проблеми, з якими стикаються ці громади, та визначити, яка саме міжнародна підтримка їм потрібна для самостійного прийняття рішень на власних умовах.

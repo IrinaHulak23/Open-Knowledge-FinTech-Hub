@@ -3,7 +3,7 @@
 ## Fear of Missing Out and the Future of Facial Recognition Payments in the Blue Economy
 
 ### 1. Назва статті (APA Style)
-Estareja, A., & Rupeika-Apoga, R. (2025). Fear of Missing Out and the Future of Facial Recognition Payments in the Blue Economy. In V. Sharma, T. Singh, A. de Bem Machado, & R. Rupeika-Apoga (Eds.), *FinTech for Sustainable Finance and a Well-Blue Economy* (pp. 277–289). Springer. https://doi.org/10.1007/978-3-031-92390-6_14
+> Estareja, A., & Rupeika-Apoga, R. (2025). Fear of Missing Out and the Future of Facial Recognition Payments in the Blue Economy. In V. Sharma, T. Singh, A. de Bem Machado, & R. Rupeika-Apoga (Eds.), *FinTech for Sustainable Finance and a Well-Blue Economy* (pp. 277–289). Springer. https://doi.org/10.1007/978-3-031-92390-6_14
 
 ### 2. Мета дослідження
 Метою дослідження є розробка комплексної теоретичної рамки для розуміння намірів користувачів щодо прийняття систем оплати з розпізнаванням обличчя (Facial Recognition Payment Systems, FRPS) шляхом інтеграції класичної Моделі прийняття технологій (Technology Acceptance Model, TAM) з когнітивним упередженням «Страх пропустити щось важливе» (Fear of Missing Out, FOMO). Автори прагнуть довести, що емоційні та соціальні чинники — поряд із раціональними оцінками корисності та зручності — відіграють суттєву роль у прийнятті рішень щодо використання нових цифрових платіжних систем. Додатковою метою є обґрунтування потенціалу FRPS для сприяння фінансовій інклюзивності та екологічній стійкості в контексті «блакитної економіки» — морських та прибережних індустрій.

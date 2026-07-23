@@ -3,7 +3,7 @@
 ## Migrating from monolithic to serverless: A FinTech case study
 
 ### 1. Назва статті (APA Style)
-Goli, A., Hajihassani, O., Khazaei, H., Ardakanian, O., Rashidi, M., & Dauphinee, T. (2020). Migrating from monolithic to serverless: A FinTech case study. In *Proceedings of the 3rd Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf '20)* (pp. 33–40). Association for Computing Machinery. [https://doi.org/10.1145/3375555.3384380](https://doi.org/10.1145/3375555.3384380)
+> Goli, A., Hajihassani, O., Khazaei, H., Ardakanian, O., Rashidi, M., & Dauphinee, T. (2020). Migrating from monolithic to serverless: A FinTech case study. In *Proceedings of the 3rd Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf '20)* (pp. 33–40). Association for Computing Machinery. [https://doi.org/10.1145/3375555.3384380](https://doi.org/10.1145/3375555.3384380)
 
 ### 2. Мета дослідження
 Автори прагнуть дослідити практичний процес, технічні виклики та фінансово-операційні наслідки переведення (міграції) системи обробки документів у сфері фінансових технологій (FinTech) з традиційної монолітної архітектури на сучасну безсерверну (*serverless*) хмарову архітектуру. Головна ідея — перевірити, чи дійсно безсерверний підхід покращує швидкість роботи системи та чи є це економічно вигідним для реального FinTech-бізнесу.

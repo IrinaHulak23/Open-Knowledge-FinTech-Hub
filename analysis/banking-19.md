@@ -2,8 +2,8 @@
 
 ## Benefit–Risk Perceptions of FinTech Adoption for Sustainability from Bank Consumers’ Perspective: The Moderating Role of Fear of COVID-19
 
-### 1. Метадані статті (APA Style)
-Abdul-Rahim, R., Bohari, S. A., Aman, A., & Awang, Z. (2022). Benefit–risk perceptions of FinTech adoption for sustainability from bank consumers’ perspective: The moderating role of fear of COVID-19. *Sustainability*, 14(14), Article 8357. [https://doi.org/10.3390/su14148357](https://doi.org/10.3390/su14148357)
+### 1. Назва статті (APA Style)
+> Abdul-Rahim, R., Bohari, S. A., Aman, A., & Awang, Z. (2022). Benefit–risk perceptions of FinTech adoption for sustainability from bank consumers’ perspective: The moderating role of fear of COVID-19. *Sustainability*, 14(14), Article 8357. [https://doi.org/10.3390/su14148357](https://doi.org/10.3390/su14148357)
 
 ### 2. Мета дослідження
 З'ясувати, чи впливають сприйняття переваг та ризиків на фактичне використання фінансових технологій (FinTech) споживачами банків, яку роль у цьому відіграє страх перед COVID-19, і чи сприяє впровадження FinTech сталому розвитку суспільства.

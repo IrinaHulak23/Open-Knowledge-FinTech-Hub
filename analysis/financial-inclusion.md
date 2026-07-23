@@ -31,3 +31,5 @@
 🌍 [Opportunities and barriers for FinTech in SAARC and ASEAN countries](financial-inclusion-14.md)
 
 🌍 [Financial technology and consumer financial satisfaction](financial-inclusion-15.md)
+
+🌍 [Determinants of digital financial inclusion in Latin America and the Caribbean](financial-inclusion-16.md)

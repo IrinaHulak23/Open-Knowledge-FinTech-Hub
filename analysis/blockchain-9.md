@@ -3,7 +3,7 @@
 ## Blockchain Technology Diffusion in Tourism
 
 ### 1. Назва статті (APA Style)
-Maythu, Y., Kwok, A. O. J., & Teh, P.-L. (2024). Blockchain technology diffusion in tourism: Evidence from early enterprise adopters and innovators. *Heliyon*, 10(4), e24675. https://doi.org/10.1016/j.heliyon.2024.e24675
+> Maythu, Y., Kwok, A. O. J., & Teh, P.-L. (2024). Blockchain technology diffusion in tourism: Evidence from early enterprise adopters and innovators. *Heliyon*, 10(4), e24675. https://doi.org/10.1016/j.heliyon.2024.e24675
 
 ### 2. Мета дослідження
 Мета дослідження у формулюванні статті: автори досліджують, які чинники впливають на поширення блокчейну в туризмі та як ця технологічна інновація поширюється серед туристичних підприємств. Особлива увага приділена раннім користувачам і новаторам, тобто компаніям, які вже почали застосовувати блокчейн у своїй діяльності.

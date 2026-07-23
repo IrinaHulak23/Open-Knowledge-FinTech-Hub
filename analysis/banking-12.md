@@ -2,7 +2,7 @@
 
 ## Fintech Innovation in the Financial Sector: Influence of E-Money Products
 
-### 1. Метадані статті (APA Style)
+### 1. Назва статті (APA Style)
 > Omodero, C. O. (2021). Fintech innovation in the financial sector: influence of e-money products on a growing economy. *Studia Universitatis “Vasile Goldis” Arad. Economics Series*, 31(4), 40-53. [https://doi.org/10.2478/sues-2021-0018](https://doi.org/10.2478/sues-2021-0018)
 
 ### 2. Мета дослідження

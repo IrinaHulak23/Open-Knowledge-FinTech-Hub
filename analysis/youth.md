@@ -34,3 +34,5 @@
 👦 [Digital transformation of Islamic endowments (Waqf): What appeals to Generation Z in e-cash Waqf?](youth-15.md)
 
 👦 [Banks take on fintech for the youth market](youth-16.md)
+
+👦 [Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region](youth-17.md)

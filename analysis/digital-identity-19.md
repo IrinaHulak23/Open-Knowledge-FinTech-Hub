@@ -3,7 +3,7 @@
 ## Self Sovereign Identity in E-Governance: Blockchain Solutions for FinTech Compliance and Citizen-Centric Financial Services
 
 ### 1. Назва статті (APA Style)
-Nair, A. J., Manohar, S., & Rao, S. A. B. (2025). Self sovereign identity in e-governance: blockchain solutions for fintech compliance and citizen-centric financial services. *Humanities and Social Sciences Communications*, 12, 1562. https://doi.org/10.1057/s41599-025-05880-y
+> Nair, A. J., Manohar, S., & Rao, S. A. B. (2025). Self sovereign identity in e-governance: blockchain solutions for fintech compliance and citizen-centric financial services. *Humanities and Social Sciences Communications*, 12, 1562. https://doi.org/10.1057/s41599-025-05880-y
 
 ### 2. Мета дослідження
 Метою дослідження є розробка та валідація вдосконаленої рамкової моделі управління цифровою ідентичністю (DIMF) для систем електронного урядування, що інтегрує блокчейн-технологію, стратегії гіг-економіки та інструменти сервісних інновацій. Автори прагнуть довести, що поєднання цих трьох компонентів підвищує безпеку, ефективність та доступність транзакцій у е-governance-застосунках.

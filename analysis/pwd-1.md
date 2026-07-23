@@ -3,7 +3,7 @@
 ## Inclusive Digital Financial Services for Persons with Disabilities: Impact on Economic Empowerment and Financial Inclusion
 
 ### 1. Назва статті (APA Style)
-Santoso, B. (2023). Inclusive Digital Financial Services for Persons with Disabilities: Impact on Economic Empowerment and Financial Inclusion. *Indonesian Journal of Disability Studies*, 10(1), 105–124. [https://doi.org/10.21776/ub.ijds.2023.010.01.10](https://doi.org/10.21776/ub.ijds.2023.010.01.10)
+> Santoso, B. (2023). Inclusive Digital Financial Services for Persons with Disabilities: Impact on Economic Empowerment and Financial Inclusion. *Indonesian Journal of Disability Studies*, 10(1), 105–124. [https://doi.org/10.21776/ub.ijds.2023.010.01.10](https://doi.org/10.21776/ub.ijds.2023.010.01.10)
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб дослідити рівень фінансової інклюзії осіб з інвалідністю (PwD), виявити бар’єри, які вони долають при доступі до фінансових послуг, а також оцінити, як цифрові фінансові послуги можуть сприяти їхньому економічному розширенню прав та можливостей.

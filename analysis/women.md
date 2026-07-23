@@ -41,3 +41,5 @@
 👩 [Gender-Inclusive development through fintech: Studying gender-based digital financial inclusion in a cross-country setting](women-19.md)
 
 👩 [The triple glass ceiling: FinTech gender inequalities](women-20.md)
+
+👩 [Unveiling the dynamics of financial literacy and inclusion in women digital loan decision making](women-21.md)

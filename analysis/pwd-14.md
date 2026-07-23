@@ -3,7 +3,7 @@
 ## Financial inclusion for persons with disabilities: Experiences of providers and users of financial products and services in Kenya
 
 ### 1. Назва статті (APA Style)
-Muuo, S. W., Virendrakumar, B., Okello, G., Chege, M., Angwenyi, V., Gichohi, K., Kibet, H., Nduta, S., Bechange, S., Schmidt, E., Brown, S., & Jolley, E. (2025). Financial inclusion for persons with disabilities: Experiences of providers and users of financial products and services in Kenya. *PLoS ONE*, 20(4), e0321493. [https://doi.org/10.1371/journal.pone.0321493](https://doi.org/10.1371/journal.pone.0321493)
+> Muuo, S. W., Virendrakumar, B., Okello, G., Chege, M., Angwenyi, V., Gichohi, K., Kibet, H., Nduta, S., Bechange, S., Schmidt, E., Brown, S., & Jolley, E. (2025). Financial inclusion for persons with disabilities: Experiences of providers and users of financial products and services in Kenya. *PLoS ONE*, 20(4), e0321493. [https://doi.org/10.1371/journal.pone.0321493](https://doi.org/10.1371/journal.pone.0321493)
 
 ### 2. Мета дослідження
 Зрозуміти досвід надання та використання фінансових продуктів і послуг з точки зору людей з інвалідністю та представників фінансових установ у Кенії.

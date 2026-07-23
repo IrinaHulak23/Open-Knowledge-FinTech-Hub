@@ -3,7 +3,7 @@
 ## Decentralized Finance
 
 ### 1. Метадані статті (APA Style)
-Zetzsche, D. A., Arner, D. W., & Buckley, R. P. (2020). Decentralized finance. *Journal of Financial Regulation*, 6(2), 172–203. [https://doi.org/10.1093/jfr/fjaa010](https://doi.org/10.1093/jfr/fjaa010)
+> Zetzsche, D. A., Arner, D. W., & Buckley, R. P. (2020). Decentralized finance. *Journal of Financial Regulation*, 6(2), 172–203. [https://doi.org/10.1093/jfr/fjaa010](https://doi.org/10.1093/jfr/fjaa010)
 
 ### 2. Мета дослідження
 Проаналізувати концепцію децентралізованих фінансів (DeFi) не як технологічну мрію, а як реальне явище. Автори прагнуть зрозуміти, як розвиток DeFi впливає на традиційну фінансову систему та які виклики це створює для державного управління і фінансового регулювання.

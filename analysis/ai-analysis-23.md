@@ -3,7 +3,7 @@
 ## Data science and AI in FinTech: an overview
 
 ### 1. Назва статті (APA Style)
-Cao, L., Yang, Q., & Yu, P. S. (2021). Data science and AI in FinTech: an overview. *International Journal of Data Science and Analytics*, 12, 81–99. [https://doi.org/10.1186/s40854-021-00326-1](https://doi.org/10.1186/s40854-021-00326-1)
+> Cao, L., Yang, Q., & Yu, P. S. (2021). Data science and AI in FinTech: an overview. *International Journal of Data Science and Analytics*, 12, 81–99. [https://doi.org/10.1186/s40854-021-00326-1](https://doi.org/10.1186/s40854-021-00326-1)
 
 ### 2. Мета дослідження
 Надати науковий огляд того, як методи науки про дані та штучного інтелекту (DSAI) перетворюють традиційні фінанси на «Smart FinTech» — інтелектуальну, автоматизовану та персоналізовану фінансову екосистему.

@@ -4,7 +4,7 @@
 ## Designing an AI-enhanced blockchain and FinTech curriculum for youth: a case study of educational and industrial collaboration
 
 ### 1. Назва статті (APA Style)
-> Kwangmuang, P., Somabut, A., & Duangngern, P. (2024). *Designing an AI-enhanced blockchain and FinTech curriculum for youth: a case study of educational and industrial collaboration*. Khon Kaen University.
+> Kwangmuang, P., Somabut, A., & Duangngern, P. (2024). *Designing an AI-enhanced blockchain and FinTech curriculum for youth: a case study of educational and industrial collaboration*. Khon Kaen University. https://doi.org/10.1007/s10639-025-13384-0
 
 ### 2. Мета дослідження
 Метою даного дослідження є подолання дефіциту розробок у сфері створення практичних навчальних програм для професій майбутнього через співпрацю між закладами вищої освіти та індустріальними партнерами. Автори прагнуть підготувати молодь (віком 15–24 роки) до професійної діяльності у сферах FinTech та блокчейну з використанням штучного інтелекту, інтегруючи технічні навички (програмування, ШІ) з м'якими навичками (*soft skills*), а також розробити універсальну модель освітньо-промислового партнерства.

@@ -3,7 +3,7 @@
 ## Crypto Art: A Decentralized View
 
 ### 1. Назва статті (APA Style)
-Franceschet, M., Colavizza, G., Smith, T., Finucane, B., Ostachowski, M. L., Scalet, S., Perkins, J., Morgan, J., & Hernández, S. (2021). Crypto art: A decentralized view. *Leonardo*, 54(4), 402–405. [https://doi.org/10.1162/leon_a_02003](https://doi.org/10.1162/leon_a_02003)
+> Franceschet, M., Colavizza, G., Smith, T., Finucane, B., Ostachowski, M. L., Scalet, S., Perkins, J., Morgan, J., & Hernández, S. (2021). Crypto art: A decentralized view. *Leonardo*, 54(4), 402–405. [https://doi.org/10.1162/leon_a_02003](https://doi.org/10.1162/leon_a_02003)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори прагнуть пояснити феномен криптомистецтва з різних позицій: художників, колекціонерів, галеристів, істориків мистецтва та дослідників даних. Для цього вони створюють “децентралізований” позиційний текст, у якому різні учасники системи незалежно подають свої погляди на криптомистецтво, його цінності, економіку, технологічні можливості та відкриті виклики.

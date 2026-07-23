@@ -3,7 +3,7 @@
 ## Consumer lending efficiency: commercial banks versus a fintech lender
 
 ### 1. Назва статті (APA Style)
-Hughes, J. P., Jagtiani, J., & Moon, C.-G. (2022). Consumer lending efficiency: commercial banks versus a fintech lender. *Financial Innovation*, 8(38). [https://doi.org/10.1186/s40854-021-00326-1](https://doi.org/10.1186/s40854-021-00326-1)
+> Hughes, J. P., Jagtiani, J., & Moon, C.-G. (2022). Consumer lending efficiency: commercial banks versus a fintech lender. *Financial Innovation*, 8(38). [https://doi.org/10.1186/s40854-021-00326-1](https://doi.org/10.1186/s40854-021-00326-1)
 
 ### 2. Мета дослідження
 Порівняти ефективність надання необіцяних споживчих кредитів між традиційними комерційними банками та відомим фінтех-кредитором (LendingClub), щоб з'ясувати, чи дійсно фінтехи працюють ефективніше без підвищення ризиків.

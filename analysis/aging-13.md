@@ -3,7 +3,7 @@
 ## Understanding Sustainable Wealth Management
 
 ### 1. Назва статті (APA Style)
-Baki, N. (2025). Understanding Sustainable Wealth Management. In K. Wendt & M. Ra (Eds.), *Sustainable Wealth Management Revisited* (pp. 5–14). Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-02530-2_2
+> Baki, N. (2025). Understanding Sustainable Wealth Management. In K. Wendt & M. Ra (Eds.), *Sustainable Wealth Management Revisited* (pp. 5–14). Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-02530-2_2
 
 ### 2. Мета дослідження
 Мета статті полягає у поясненні сутності сталого управління капіталом та демонстрації того, як фінансові рішення можуть бути поєднані з особистими цінностями інвестора, етичними принципами, довгостроковою фінансовою стійкістю та позитивним впливом на суспільство й довкілля. Авторка розглядає sustainable wealth management не лише як інструмент збереження та примноження активів, а як підхід «wealth with purpose», тобто управління багатством із метою та відповідальністю.

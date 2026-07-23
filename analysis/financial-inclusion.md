@@ -25,3 +25,5 @@
 🌍 [The combined role of FinTech innovation and financial literacy in sustainable financial inclusion in Nigeria](financial-inclusion-11.md)
 
 🌍 [Defeating the dark sides of FinTech](financial-inclusion-12.md)
+
+🌍 [Exploring the impact and risks of fintech adoption on income inequality](financial-inclusion-13.md)

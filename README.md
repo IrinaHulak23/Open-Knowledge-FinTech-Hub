@@ -13,17 +13,29 @@ Open Knowledge FinTech Hub — це відкритий освітньо-наук
 * **Над окремими тематиками огляду фінтех працювали**:
 
 Бікташева Анастасія - 👩 FinTech & Women
+
 Валько Яна - 🌱 FinTech & Sustainability
+
 Заколодяжна Марія - 👩‍🎓 FinTech & Youth
+
 Коломієць Юрій - 👵 FinTech & Aging 
+
 Марвінський Станіслав - 🤖 FinTech & Artificial Intelligence
+
 Масик Олег - 🏦 FinTech & Banking 
+
 Меркулова Дар`я - ⛓️ FinTech & Blockchain 
+
 Мовчан Віктор - 🪪 FinTech & Digital Identity 
-Москалець Анастасія - 🎓 FinTech & Education  
+
+Москалець Анастасія - 🎓 FinTech & Education
+
 Петрова Софія - 🌍 FinTech & Financial Inclusion 
+
 Пономаренко Денис - ⚔️ FinTech & War 
+
 Хоменко Артем - ♿ FinTech & Persons with Disabilities (PwD) 
+
 Чижова Діана - 🌐 FinTech & Migration
 
 ---

@@ -3,7 +3,7 @@
 ## Digital Identity in India
 
 ### 1. Назва статті (APA Style)
-Chowdhry, B., Goyal, A., & Ahmed, S. A. (2021). Digital Identity in India. In R. Rau, R. Wardrop, & L. Zingales (Eds.), *The Palgrave Handbook of Technological Finance* (pp. 837–853). Palgrave Macmillan. https://doi.org/10.1007/978-3-030-65117-6_30
+> Chowdhry, B., Goyal, A., & Ahmed, S. A. (2021). Digital Identity in India. In R. Rau, R. Wardrop, & L. Zingales (Eds.), *The Palgrave Handbook of Technological Finance* (pp. 837–853). Palgrave Macmillan. https://doi.org/10.1007/978-3-030-65117-6_30
 
 ### 2. Мета дослідження
 Метою дослідження є всебічний аналіз індійської системи цифрової ідентифікації Aadhaar — найбільшого у світі проєкту біометричної ідентифікації населення, яка охопила понад 1 мільярд жителів Індії. Автори прагнуть критично оцінити технологічний задум, операційні виклики, соціально-економічні вигоди та недоліки Aadhaar як моделі цифрової ідентифікації для країн, що розвиваються. Особлива увага приділяється суперечності між потенціалом системи для розширення фінансової інклюзивності та реальними ризиками виключення найбільш вразливих груп населення, а також питанням конфіденційності та суверенітету персональних даних.

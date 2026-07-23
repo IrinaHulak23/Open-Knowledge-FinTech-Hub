@@ -3,7 +3,7 @@
 ## Transfers in an aging European Union
 
 ### 1. Назва статті (APA Style)
-Kluge, F. A., Goldstein, J. R., & Vogt, T. C. (2019). Transfers in an aging European Union. *The Journal of the Economics of Ageing*, 13, 45-54. [https://ideas.repec.org/a/eee/joecag/v13y2019icp45-54.html](https://ideas.repec.org/a/eee/joecag/v13y2019icp45-54.html)
+> Kluge, F. A., Goldstein, J. R., & Vogt, T. C. (2019). Transfers in an aging European Union. *The Journal of the Economics of Ageing*, 13, 45-54. [https://ideas.repec.org/a/eee/joecag/v13y2019icp45-54.html](https://ideas.repec.org/a/eee/joecag/v13y2019icp45-54.html)
 
 ### 2. Мета дослідження
 Метою авторів є оцінка того, як демографічне старіння населення вплине на державні фінанси (бюджети) окремих країн Європейського Союзу в період з 2020 по 2050 роки. Крім того, дослідники прагнуть змоделювати, що станеться з бюджетами країн, якщо вони будуть долати старіння самотужки, порівняно із гіпотетичним сценарієм створення «трансферного союзу» (де країни фінансово допомагають одна одній на рівні ЄС). Також оцінюється економічний ефект від збільшення тривалості робочого життя та міграційних потоків всередині ЄС.

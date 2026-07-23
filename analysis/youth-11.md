@@ -3,7 +3,7 @@
 ## Fintech Adoption among Young Students in Colombia
 
 ### 1. Назва статті (APA Style)
-Bermeo-Giraldo, M. C., Valencia-Arias, A., Palacios-Moya, L., & Valencia, J. (2023). Adoption of Fintech Services in Young Students: Empirical Approach from a Developing Country. *Economies*, 11(9), 226. https://doi.org/10.3390/economies11090226
+> Bermeo-Giraldo, M. C., Valencia-Arias, A., Palacios-Moya, L., & Valencia, J. (2023). Adoption of Fintech Services in Young Students: Empirical Approach from a Developing Country. *Economies*, 11(9), 226. https://doi.org/10.3390/economies11090226
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб визначити чинники, які впливають на прийняття fintech-сервісів молодими студентами в Колумбії як країні, що розвивається. Автори аналізують поєднання фінансової освіти, соціального впливу, цифрової грамотності, сприйнятої корисності та регулювання, оскільки студенти можуть користуватися фінансовими технологіями заради практичної вигоди (швидші транзакції, зручність мобільних платформ), навіть не знаючи чітко самого терміна Fintech.

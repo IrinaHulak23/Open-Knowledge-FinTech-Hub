@@ -3,7 +3,7 @@
 ## Banks, microfinance institutions and fintech: how the ratio of male and female entrepreneurs moderates their capacity for financial inclusion
 
 ### 1. Назва статті (APA Style)
-Ndione, M., Ashta, A., & Bako Liba, B. B. (2024). Banks, microfinance institutions and fintech: how the ratio of male and female entrepreneurs moderates their capacity for financial inclusion. *Cogent Economics & Finance*, 12(1), 2402031. [https://doi.org/10.1080/23322039.2024.2402031](https://doi.org/10.1080/23322039.2024.2402031)
+> Ndione, M., Ashta, A., & Bako Liba, B. B. (2024). Banks, microfinance institutions and fintech: how the ratio of male and female entrepreneurs moderates their capacity for financial inclusion. *Cogent Economics & Finance*, 12(1), 2402031. [https://doi.org/10.1080/23322039.2024.2402031](https://doi.org/10.1080/23322039.2024.2402031)
 
 ### 2. Мета дослідження
 Висвітлити детермінанти фінансової інклюзії в країнах Західноафриканського економічного і валютного союзу (WAEMU), зосередивши увагу на модераційній ролі рівня чоловічого та жіночого підприємництва.

@@ -3,7 +3,7 @@
 ## Crowdfunding and Entrepreneurship among Music Students
 
 ### 1. Назва статті (APA Style)
-Montero, P., Albort Morant, G., Palacín-Sánchez, M.-J., & Oliver Alfonso, M. D. (2025). The use of crowdfunding among music students: Analysis of key drivers and barriers. *TEC Empresarial*, 19(3), 51–75. https://doi.org/10.18845/te.v19i3.8135
+> Montero, P., Albort Morant, G., Palacín-Sánchez, M.-J., & Oliver Alfonso, M. D. (2025). The use of crowdfunding among music students: Analysis of key drivers and barriers. *TEC Empresarial*, 19(3), 51–75. https://doi.org/10.18845/te.v19i3.8135
 
 ### 2. Мета дослідження
 Мета дослідження полягає у з’ясуванні того, які чинники пов’язані з підприємницькими намірами студентів-музикантів та з їхньою готовністю використовувати crowdfunding для фінансування майбутніх музичних проєктів. Автори розглядають crowdfunding як важливий фінансовий інструмент, що допомагає артистам залучати кошти незалежно від традиційних джерел, підтримувати контакт з аудиторією та розвивати професійну автономію.

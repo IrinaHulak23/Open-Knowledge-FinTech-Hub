@@ -3,7 +3,7 @@
 ## The Role of FinTech Governance in Enhancing Financial Inclusion and Reducing Income Inequality
 
 ### 1. Метадані статті (APA Style)
-Khatatbeh, I. N., Mustafa, J. A., Alhusban, M. I., Abu Alfoul, M. N., & Shammout, E. (2026). The role of FinTech governance in enhancing financial inclusion and reducing income inequality in MENA countries. *Journal of Governance and Regulation*, 15(1), 150–159. [https://doi.org/10.22495/jgrv15i1art12](https://doi.org/10.22495/jgrv15i1art12)
+> Khatatbeh, I. N., Mustafa, J. A., Alhusban, M. I., Abu Alfoul, M. N., & Shammout, E. (2026). The role of FinTech governance in enhancing financial inclusion and reducing income inequality in MENA countries. *Journal of Governance and Regulation*, 15(1), 150–159. [https://doi.org/10.22495/jgrv15i1art12](https://doi.org/10.22495/jgrv15i1art12)
 
 ### 2. Мета дослідження
 з’ясувати, як впровадження фінансових технологій (FinTech) впливає на фінансову інклюзію та рівень нерівності доходів у країнах Близького Сходу та Північної Африки (регіон MENA). Автори прагнуть довести, що FinTech допомагає зменшити економічну прірву між багатими та бідними.

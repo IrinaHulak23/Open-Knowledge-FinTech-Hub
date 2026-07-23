@@ -3,7 +3,7 @@
 ## Measurement of users acceptance of selected financial technology products and services
 
 ### 1. Назва статті (APA Style)
-Jasti, K., & Varalakshmi, C. (2023). Measurement of users acceptance of selected financial technology products and services. *International Journal of Professional Business Review*, 8(2), e01530. [https://doi.org/10.26668/businessreview/2023.v8i2.1530](https://doi.org/10.26668/businessreview/2023.v8i2.1530)
+> Jasti, K., & Varalakshmi, C. (2023). Measurement of users acceptance of selected financial technology products and services. *International Journal of Professional Business Review*, 8(2), e01530. [https://doi.org/10.26668/businessreview/2023.v8i2.1530](https://doi.org/10.26668/businessreview/2023.v8i2.1530)
 
 ### 2. Мета дослідження
 Визначити, наскільки добре користувачі приймають конкретні фінансово-технологічні продукты та послуги, аналізуючи вплив таких факторів, як частота використання, рівень обізнаності, задоволеність, мета використання та готовність користуватися ними в майбутньому.

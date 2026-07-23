@@ -3,7 +3,7 @@
 ## FinTech-Enabled Microfinance for Last-Mile Communities: A Pathway Toward SDG 1 and SDG 8
 
 ### 1. Назва статті (APA Style)
-Gudipati, K., Kaur, G., Ji, C., Mokashi, M. K., Bhoite, S. P., & Ingole, P. K. (2025). FinTech-Enabled Microfinance for Last-Mile Communities: A Pathway Toward SDG 1 and SDG 8. *Enterprise Development and Microfinance*, 35(2), 113–125.
+> Gudipati, K., Kaur, G., Ji, C., Mokashi, M. K., Bhoite, S. P., & Ingole, P. K. (2025). FinTech-Enabled Microfinance for Last-Mile Communities: A Pathway Toward SDG 1 and SDG 8. *Enterprise Development and Microfinance*, 35(2), 113–125.
 
 ### 2. Мета дослідження
 Розробка та обґрунтування гібридної ФінТех-мікрофінансової моделі, здатної подолати обмеження традиційного мікрофінансування та забезпечити фінансову інклюзивність для так званих «останньомильних» спільнот — тобто груп населення, які через географічну віддаленість, низькі доходи або відсутність кредитної історії не мають доступу до формальних фінансових послуг. Автори прагнуть довести, що інтеграція мобільних додатків, цифрової ідентифікації, кредитного скорингу на основі штучного інтелекту та моніторингу в реальному часі дозволяє не лише розширити охоплення, а й досягти вимірюваних результатів у сфері скорочення бідності та гідної праці відповідно до Цілей сталого розвитку (ЦСР) 1 та 8.

@@ -7,3 +7,5 @@
 🌍 [How does financial literacy impact on inclusive finance?](financial-inclusion-2.md)
 
 🌍 [Culture and FinTech in Driving Financial Inclusion: Evidence from Saudi Arabia's Vision 2030](financial-inclusion-3.md)
+
+🌍 [Nurturing a FinTech ecosystem: The case of a youth microloan startup in China](financial-inclusion-4.md)

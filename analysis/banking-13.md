@@ -2,7 +2,7 @@
 
 ## Decentralized Finance
 
-### 1. Метадані статті (APA Style)
+### 1. Назва статті (APA Style)
 > Zetzsche, D. A., Arner, D. W., & Buckley, R. P. (2020). Decentralized finance. *Journal of Financial Regulation*, 6(2), 172–203. [https://doi.org/10.1093/jfr/fjaa010](https://doi.org/10.1093/jfr/fjaa010)
 
 ### 2. Мета дослідження

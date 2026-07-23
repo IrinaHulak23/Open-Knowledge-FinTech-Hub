@@ -3,7 +3,7 @@
 ## Female University Students and Fintech Literacy
 
 ### 1. Назва статті (APA Style)
-Abdulle, M. A., Kulmie, D. A., Awale, A. A., Ibrahim, M. S., & Adan, A. T. (2025). Female University Students and Fintech Literacy: Evidence from Somalia. *International Journal of Economics and Financial Issues*, 15(2), 226–234. https://doi.org/10.32479/ijefi.17773    
+> Abdulle, M. A., Kulmie, D. A., Awale, A. A., Ibrahim, M. S., & Adan, A. T. (2025). Female University Students and Fintech Literacy: Evidence from Somalia. *International Journal of Economics and Financial Issues*, 15(2), 226–234. https://doi.org/10.32479/ijefi.17773    
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з’ясувати, наскільки студентки університетів у Сомалі обізнані з базовими поняттями фінансових технологій. Автори аналізують не лише загальне знання терміна FinTech, а й розуміння конкретних тем (blockchain, smart contracts, neo-banking, crowdfunding, cloud computing, big data analytics, robo-advisors, artificial intelligence, Internet of Things) та перевіряють, чи достатньо університетські програми готують студенток до роботи у FinTech-індустрії.
@@ -17,7 +17,7 @@ Abdulle, M. A., Kulmie, D. A., Awale, A. A., Ibrahim, M. S., & Adan, A. T. (2025
 * З’ясувати думку студенток про те, чи потрібен окремий курс із FinTech.
 * Визначити, чи відповідають наявні університетські курси потребам сучасного фінансового ринку.
 
-### 4. Характеристика вибірки / джерельної бази
+### 4. Характеристика вибірки 
 У дослідженні взяли участь 92 студентки бакалаврського рівня з чотирьох університетів у Могадішо (Jamhuriya University, Banadir University, SIMAD University та University of Somalia).
 * **Демографія та спеціальність:** 80,4% респонденток були віком 20–25 років. За спеціальністю: фінанси (41,3%), облік (31,5%), бізнес-адміністрування (16,3%), економіка (10,9%). Більшість (52,2%) навчалися на четвертому курсі.
 

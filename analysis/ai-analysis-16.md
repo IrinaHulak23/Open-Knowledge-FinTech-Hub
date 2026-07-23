@@ -3,7 +3,7 @@
 ##  Artificial Intelligence-Enhanced Predictive Insights for Advancing Financial Inclusion: A Human-Centric AI-Thinking Approach
 
 ### 1. Назва статті (APA Style)
-How, M.-L., Cheah, S.-M., Khor, A. C., & Chan, Y. J. (2020). Artificial Intelligence-Enhanced Predictive Insights for Advancing Financial Inclusion: A Human-Centric AI-Thinking Approach. *Big Data and Cognitive Computing*, 4(2), 8. [https://doi.org/10.3390/bdcc4020008](https://doi.org/10.3390/bdcc4020008)
+> How, M.-L., Cheah, S.-M., Khor, A. C., & Chan, Y. J. (2020). Artificial Intelligence-Enhanced Predictive Insights for Advancing Financial Inclusion: A Human-Centric AI-Thinking Approach. *Big Data and Cognitive Computing*, 4(2), 8. [https://doi.org/10.3390/bdcc4020008](https://doi.org/10.3390/bdcc4020008)
 
 ### 2. Мета дослідження
 Запропонувати практичний підхід («human-centric AI-thinking») для фінансових установ, який дозволяє їм використовувати ШІ для аналізу застарілих даних (legacy data) і кращого розуміння потреб незахищених верств населення для покращення фінансової інклюзії.

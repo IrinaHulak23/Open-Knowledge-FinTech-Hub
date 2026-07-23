@@ -3,7 +3,7 @@
 ##  FinTech enablers, use cases, and role of future internet of things
 
 ### 1. Назва статті (APA Style)
-Bhat, J. R., AlQahtani, S. A., & Nekovee, M. (2023). FinTech enablers, use cases, and role of future internet of things. *Journal of King Saud University - Computer and Information Sciences*, 35(1), 87-101. [https://doi.org/10.1016/j.jksuci.2022.11.002](https://doi.org/10.1016/j.jksuci.2022.11.002)
+> Bhat, J. R., AlQahtani, S. A., & Nekovee, M. (2023). FinTech enablers, use cases, and role of future internet of things. *Journal of King Saud University - Computer and Information Sciences*, 35(1), 87-101. [https://doi.org/10.1016/j.jksuci.2022.11.002](https://doi.org/10.1016/j.jksuci.2022.11.002)
 
 ### 2. Мета дослідження
 Спрогнозувати майбутні тенденції та сценарії використання фінансових технологій (до 2030 року) і запропонувати архітектурні моделі того, як такі новітні технології як Інтернет речей (IoT), 5G/6G, цифрові двійники та Метавсесвіт будуть інтегровані для створення інноваційних фінансових послуг.

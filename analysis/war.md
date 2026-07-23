@@ -21,4 +21,4 @@
 
 ⚔️ [On the time-varying responses of Fintech stock returns to geopolitical, financial and market sentiment shocks](war-9.md)
 
-⚔️ [On the time-varying responses of Fintech stock returns to geopolitical, financial and market sentiment shocks](war-10.md)
+⚔️ [The impact of Covid-19 and Russia–Ukraine war on the financial asset volatility: Evidence from equity, cryptocurrency and alternative assets](war-10.md)

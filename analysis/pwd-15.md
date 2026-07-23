@@ -3,7 +3,7 @@
 ## Artificial intelligence adoption and equitable financial inclusion for persons living with disabilities in Nigeria's banking ecosystem
 
 ### 1. Назва статті (APA Style)
-Nwachukwu, K. K., Ibrahim, S. O., Owu, G., Igiri, C. R., & Dankurma, R. A. (2026). Artificial intelligence adoption and equitable financial inclusion for persons living with disabilities in Nigeria's banking ecosystem. *Mediterranean Journal of Economics and Finance Research and Business Development*, 11(7), 145–185. [https://doi.org/10.70382/mejfrbd.v11i7.087](https://doi.org/10.70382/mejfrbd.v11i7.087)
+> Nwachukwu, K. K., Ibrahim, S. O., Owu, G., Igiri, C. R., & Dankurma, R. A. (2026). Artificial intelligence adoption and equitable financial inclusion for persons living with disabilities in Nigeria's banking ecosystem. *Mediterranean Journal of Economics and Finance Research and Business Development*, 11(7), 145–185. [https://doi.org/10.70382/mejfrbd.v11i7.087](https://doi.org/10.70382/mejfrbd.v11i7.087)
 
 ### 2. Мета дослідження
 Дослідити, як впровадження банківських інструментів на основі штучного інтелекту (AIPBT) впливає на справедливу фінансову інклюзію людей з інвалідністю у банківській екосистемі Нігерії.

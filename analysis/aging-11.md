@@ -3,7 +3,7 @@
 ## Generational Perspectives on Fintech Adoption: Challenges, Demographics, and Digital Inclusion
 
 ### 1. Назва статті (APA Style)
-Dhillon, A. S. (2025). Generational Perspectives on Fintech Adoption: Challenges, Demographics, and Digital Inclusion. *Mercados y Negocios*, 26(56), 81–108. https://doi.org/10.32870/myn.vi56.7827
+> Dhillon, A. S. (2025). Generational Perspectives on Fintech Adoption: Challenges, Demographics, and Digital Inclusion. *Mercados y Negocios*, 26(56), 81–108. https://doi.org/10.32870/myn.vi56.7827
 
 ### 2. Мета дослідження
 Метою статті є дослідити, як різні покоління в Індії приймають і використовують фінтех-сервіси, а також визначити основні бар’єри, які стримують поширення цифрових фінансових послуг. Автор зосереджується на порівнянні покоління Z, міленіалів і покоління X, враховуючи демографічні характеристики користувачів (вік, стать, дохід, освіту та професійну зайнятість).

@@ -3,7 +3,7 @@
 ## Cooperative financial institutions: A review of the literature
 
 ### 1. Назва статті (APA Style)
-McKillop, D., French, D., Quinn, B., Sobiech, A. L., & Wilson, J. O. S. (2020). Cooperative financial institutions: A review of the literature. *International Review of Financial Analysis*, 71, 101520. [https://doi.org/10.1016/j.irfa.2020.101520](https://doi.org/10.1016/j.irfa.2020.101520)
+> McKillop, D., French, D., Quinn, B., Sobiech, A. L., & Wilson, J. O. S. (2020). Cooperative financial institutions: A review of the literature. *International Review of Financial Analysis*, 71, 101520. [https://doi.org/10.1016/j.irfa.2020.101520](https://doi.org/10.1016/j.irfa.2020.101520)
 
 ### 2. Мета дослідження
 Зробити всебічний огляд існуючої наукової літератури з економіки та фінансів за останні 50 років щодо діяльності кооперативних фінансових установ[cite: 3]. Автори прагнуть підсумувати знання про те, як працюють ці організації, у чому їхні структурні особливості та як вони сприяють розвитку реальної економіки[cite: 3].

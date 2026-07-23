@@ -3,7 +3,7 @@
 ## Psycho-physiological impact of virtual non-verbal communication on Gen Z workforce: A study of memes
 
 ### 1. Назва статті (APA Style)
-Lamba, P. S., & Jain, N. (2025). Psycho-physiological impact of virtual non-verbal communication on Gen Z workforce: A study of memes. *Acta Psychologica*, 253, 104848. [https://doi.org/10.1016/j.actpsy.2025.104848](https://doi.org/10.1016/j.actpsy.2025.104848)
+> Lamba, P. S., & Jain, N. (2025). Psycho-physiological impact of virtual non-verbal communication on Gen Z workforce: A study of memes. *Acta Psychologica*, 253, 104848. [https://doi.org/10.1016/j.actpsy.2025.104848](https://doi.org/10.1016/j.actpsy.2025.104848)
 
 ### 2. Мета дослідження
 З’ясувати психофізіологічний вплив мемів на працівників покоління Z та виявити різницю у цьому впливі між чоловіками та жінками.

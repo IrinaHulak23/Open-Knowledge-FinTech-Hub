@@ -3,7 +3,7 @@
 ## The Rise of Decentralized Cryptocurrency Exchanges: Evaluating the Role of Airdrops and Governance Tokens
 
 ### 1. Назва статті (APA Style)
-Makridis, C. A., Fröwis, M., Sridhar, K., & Böhme, R. (2023). The rise of decentralized cryptocurrency exchanges: Evaluating the role of airdrops and governance tokens. *Journal of Corporate Finance*, 79, 102358. [https://doi.org/10.1016/j.jcorpfin.2023.102358](https://doi.org/10.1016/j.jcorpfin.2023.102358)
+> Makridis, C. A., Fröwis, M., Sridhar, K., & Böhme, R. (2023). The rise of decentralized cryptocurrency exchanges: Evaluating the role of airdrops and governance tokens. *Journal of Corporate Finance*, 79, 102358. [https://doi.org/10.1016/j.jcorpfin.2023.102358](https://doi.org/10.1016/j.jcorpfin.2023.102358)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Проаналізувати чинники та механізми швидкого зростання децентралізованих криптовалютних бірж (DEXs) порівняно з централізованими платормами (CEXs) у 2018–2021 роках, а також оцінити роль роздач токенів (airdrops) та токенів управління (governance tokens) у залученні користувачів, розширенні мережевих ефектів, збільшенні торговельних обсягів і підвищенні ринкової капіталізації. Додатково автори прагнуть з'ясувати, чи зумовлене стрімке поширення децентралізованої моделі перевагами у безпеці даних, регуляторним арбітражем чи спекулятивними інтересами ринку.

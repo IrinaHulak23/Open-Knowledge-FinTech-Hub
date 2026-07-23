@@ -3,7 +3,7 @@
 ## Wired for stability: The role of infrastructure and Fintech in migrant employment
 
 ### 1. Назва статті (APA Style)
-Přívara, A. (2025). Wired for stability: The role of infrastructure and Fintech in migrant employment. *Equilibrium. Quarterly Journal of Economics and Economic Policy*, 20(1), 285-325. [https://doi.org/10.24136/eq.2025.008](https://journals.economic-research.pl/eq/article/view/3573)
+> Přívara, A. (2025). Wired for stability: The role of infrastructure and Fintech in migrant employment. *Equilibrium. Quarterly Journal of Economics and Economic Policy*, 20(1), 285-325. [https://doi.org/10.24136/eq.2025.008](https://journals.economic-research.pl/eq/article/view/3573)
 
 ### 2. Мета дослідження
 Автор прагне з'ясувати, яким чином державні інвестиції в інфраструктуру (зокрема транспортну та цифрову) та розвиток сучасних фінтех-послуг (зокрема мобільних додатків для грошових переказів) допомагають іноземним робітникам-мігрантам довше та стабільніше утримуватися на своїх робочих місцях у Словаччині. Мета полягає в тому, щоб довести, що закріплення мігрантів на ринку праці залежить не лише від умов конкретного роботодавця, а й від загального розвитку цифрового та фізичного середовища країни, яка їх приймає.

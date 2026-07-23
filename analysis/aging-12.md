@@ -3,7 +3,8 @@
 ## Sending Money at the Speed of Light? Cryptocurrency and the Future of Money Transfer
 
 ### 1. Назва статті (APA Style)
-Augustine, R., Krishnaveni, A., & Uthup, S. (2026). Sending Money at the Speed of Light? Cryptocurrency and the Future of Money Transfer. In S. Krishnan, R. Kumar, & S. Ramakrishnan (Eds.), *Unveiling Blockchain Enabled Business Applications* (pp. 319–343). Springer Nature Singapore. https://doi.org/10.1007/978-981-95-2337-5_15
+> Augustine, R., Krishnaveni, A., & Uthup, S. (2026). Sending Money at the Speed of Light? Cryptocurrency and the Future of Money Transfer. In S. Krishnan, R. Kumar, & S. Ramakrishnan (Eds.), *Unveiling Blockchain Enabled Business Applications* (pp. 319–343). Springer Nature Singapore. https://doi.org/10.1007/978-981-95-2337-5_15
+
 ### 2. Мета дослідження
 Визначити, яким чином криптовалюти та блокчейн можуть змінити систему міжнародних грошових переказів, зробивши їх швидшими, дешевшими, прозорішими та доступнішими для користувачів, які недостатньо охоплені традиційними фінансовими інститутами. Автори також прагнуть показати не лише переваги криптовалют, а й ризики, які обмежують їх масове використання: волатильність, кіберзагрози, регуляторну невизначеність і недостатній рівень фінансової грамотності.
 

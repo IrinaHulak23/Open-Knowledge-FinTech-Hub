@@ -3,7 +3,7 @@
 ## Herding and Anchoring in Cryptocurrency Markets
 
 ### 1. Назва статті (APA Style)
-Gurdgiev, C., & O’Loughlin, D. (2020). Herding and anchoring in cryptocurrency markets: Investor reaction to fear and uncertainty. *Journal of Behavioral and Experimental Finance*, 25, Article 100271. [https://doi.org/10.1016/j.jbef.2020.100271](https://doi.org/10.1016/j.jbef.2020.100271)
+> Gurdgiev, C., & O’Loughlin, D. (2020). Herding and anchoring in cryptocurrency markets: Investor reaction to fear and uncertainty. *Journal of Behavioral and Experimental Finance*, 25, Article 100271. [https://doi.org/10.1016/j.jbef.2020.100271](https://doi.org/10.1016/j.jbef.2020.100271)
 
 ### 2. Мета дослідження
 Автори досліджують, як цінова динаміка криптовалют залежить від взаємодії поведінкових чинників інвесторських рішень і публічно доступних інформаційних потоків. Для цього вони використовують аналіз настроїв інвесторів щодо фінансових ринків загалом і криптовалют зокрема.

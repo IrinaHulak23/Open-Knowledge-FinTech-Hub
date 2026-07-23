@@ -3,7 +3,7 @@
 ## The Role of Digital Identity (e-KYC) in Expanding Microfinance Access: Contribution to SDG 10 and SDG 16
 
 ### 1. Назва статті (APA Style)
-Hardas, B. M., Patil, M., Feng, J., Chavan, P., Narayana, A., & Kumari, N. (2025). The Role of Digital Identity (e-KYC) in Expanding Microfinance Access: Contribution to SDG 10 and SDG 16. *Enterprise Development and Microfinance*, 35(2), 341–353.
+> Hardas, B. M., Patil, M., Feng, J., Chavan, P., Narayana, A., & Kumari, N. (2025). The Role of Digital Identity (e-KYC) in Expanding Microfinance Access: Contribution to SDG 10 and SDG 16. *Enterprise Development and Microfinance*, 35(2), 341–353.
 
 ### 2. Мета дослідження
 Метою дослідження є емпіричне обґрунтування ролі систем цифрової ідентифікації, зокрема електронної верифікації клієнтів (e-KYC), у розширенні доступу до мікрофінансування та підвищенні інституційної ефективності в країнах, що розвиваються. Автори прагнуть кількісно довести, що e-KYC є не просто інструментом відповідності регуляторним вимогам, а стратегічним механізмом подолання ідентифікаційних бар'єрів, що обмежують доступ маргіналізованих груп до мікрокредитування. Дослідження також ставить за мету встановити прямий та вимірюваний зв'язок між впровадженням цифрової ідентифікації та досягненням ЦСР 10 (Скорочення нерівності) та ЦСР 16 (Мир, правосуддя та ефективні інституції).

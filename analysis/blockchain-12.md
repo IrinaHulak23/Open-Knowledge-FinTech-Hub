@@ -3,7 +3,7 @@
 ## Blockchain Technologies and Remittances: From Financial Inclusion to Correspondent Banking
 
 ### 1. Назва статті (APA Style)
-Rella, L. (2019). Blockchain technologies and remittances: From financial inclusion to correspondent banking. *Frontiers in Blockchain*, 2, Article 14. [https://doi.org/10.3389/fbloc.2019.00014](https://doi.org/10.3389/fbloc.2019.00014)
+> Rella, L. (2019). Blockchain technologies and remittances: From financial inclusion to correspondent banking. *Frontiers in Blockchain*, 2, Article 14. [https://doi.org/10.3389/fbloc.2019.00014](https://doi.org/10.3389/fbloc.2019.00014)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автор досліджує, як блокчейн-технології застосовуються до міжнародних грошових переказів не лише з позиції фінансової інклюзії, а насамперед через інфраструктуру кореспондентського банкінгу. Особливу увагу приділено кейсу Ripple, щоб показати, як блокчейн-рішення вписуються в наявні платіжні системи, бізнес-моделі та регуляторні структури.

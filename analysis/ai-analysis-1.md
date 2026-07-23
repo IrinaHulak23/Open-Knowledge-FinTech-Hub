@@ -3,7 +3,7 @@
 ##  From Man vs. Machine to Man + Machine: The art and AI of stock analyses
 
 ### 1. Назва статті (APA Style)
-Cao, S., Jiang, W., Wang, J., & Yang, B. (2024). From Man vs. Machine to Man + Machine: The art and AI of stock analyses. *Journal of Financial Economics*, 160, 103910. [https://doi.org/10.1016/j.jfineco.2024.103910](https://doi.org/10.1016/j.jfineco.2024.103910)  
+> Cao, S., Jiang, W., Wang, J., & Yang, B. (2024). From Man vs. Machine to Man + Machine: The art and AI of stock analyses. *Journal of Financial Economics*, 160, 103910. [https://doi.org/10.1016/j.jfineco.2024.103910](https://doi.org/10.1016/j.jfineco.2024.103910)  
 
 ### 2. Мета дослідження
 Порівняти точність прогнозування прибутковості акцій між штучним інтелектом (ШІ) та живими фінансовими аналітиками, а головне — дослідити потенціал синергії (взаємовигідної співпраці) від об'єднання зусиль людини та алгоритмів (модель «Людина + Машина»).

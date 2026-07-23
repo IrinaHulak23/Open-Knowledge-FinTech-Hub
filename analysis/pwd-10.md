@@ -3,7 +3,7 @@
 ## “I forgot my numbers and the machine swallowed it up”: Adults with learning disabilities share their perspectives on the shift to a cashless society
 
 ### 1. Назва статті (APA Style)
-Watts, P., Hoskin, J., Upadhyay, R., Tapley, E., & Kwiatkowska, G. (2025). “I forgot my numbers and the machine swallowed it up”: Adults with learning disabilities share their perspectives on the shift to a cashless society. *British Journal of Learning Disabilities*, 53(1), 103–112. [https://doi.org/10.1111/bld.12621](https://doi.org/10.1111/bld.12621)
+> Watts, P., Hoskin, J., Upadhyay, R., Tapley, E., & Kwiatkowska, G. (2025). “I forgot my numbers and the machine swallowed it up”: Adults with learning disabilities share their perspectives on the shift to a cashless society. *British Journal of Learning Disabilities*, 53(1), 103–112. [https://doi.org/10.1111/bld.12621](https://doi.org/10.1111/bld.12621)
 
 ### 2. Мета дослідження
 Дослідити перспективи людей з інтелектуальними порушеннями у Великобританії щодо переходу до безготівкового суспільства, виявити, як вони управляють фінансами в умовах цифровізації, оцінити бар'єри доступу та потреби в підтримці, включивши їх голоси через інклюзивний підхід.

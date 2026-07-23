@@ -3,7 +3,7 @@
 ## An Exploration of Biometrics Payment Technology to Combat Online Banking Fraud and Digital Identity in the South African Banking Industry
 
 ### 1. Назва статті (APA Style)
-Marakalala, M. C. (2025). An Exploration of Biometrics Payment Technology to Combat Online Banking Fraud and Digital Identity in the South African Banking Industry. *OIDA International Journal of Sustainable Development*, 18(12), 1262–1276. https://doi.org/10.70593/978-93-49910-16-4_12
+Marakalala, M. C. (2025). An Exploration of Biometrics Payment Technology to Combat Online Banking Fraud and Digital Identity in the South African Banking Industry. *OIDA International Journal of Sustainable Development*, 18(12), 1262–1276. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5939454
 
 ### 2. Мета дослідження
 Метою дослідження є аналіз проблем онлайн-шахрайства та захисту цифрової ідентичності у банківській галузі Південної Африки, а також оцінка біометричних платіжних технологій як ключового інструменту протидії цим загрозам. Автор прагне визначити прогалини в системах виявлення шахрайства, обґрунтувати переваги і виклики біометричної автентифікації та сформулювати рекомендації для банківського сектору і регуляторів ПАР.

@@ -21,3 +21,5 @@
 👩 [Gender impact on customer satisfaction and loyalty in Vietnam’s FinTech-enabled banking services](women-9.md)
 
 👩 [FinTech and women’s entrepreneurship in africa: The case of burkina faso and cameroon](women-10.md)
+
+👩 [Sectoral comparison of sustainable digital financial inclusion of women workforce with the mediation of digital banking adoption intention: An empirical analysis](women-11.md)

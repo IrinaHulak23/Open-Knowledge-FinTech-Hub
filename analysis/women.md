@@ -5,3 +5,5 @@
 👩 [The Impact of FinTech on Gender Inequality in the Labour Market: Novel Evidence from Turkey](women-1.md)
 
 👩 [Factors influencing fintech adoption for women in the post-covid-19 pandemic](women-2.md)
+
+👩 [Digital micro-savings behaviour among women entrepreneurs: Implications for SDG 5 and SDG 8](women-3.md)

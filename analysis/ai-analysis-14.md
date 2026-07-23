@@ -3,7 +3,7 @@
 ##  AI in Finance: Challenges, Techniques, and Opportunities
 
 ### 1. Назва статті (APA Style)
-Cao, L. (2020). AI in Finance: Challenges, Techniques, and Opportunities. *AI in Finance: Challenges, Techniques, and Opportunities*. [https://doi.org/10.1080/14765284.2022.2077632](https://doi.org/10.1080/14765284.2022.2077632)
+> Cao, L. (2020). AI in Finance: Challenges, Techniques, and Opportunities. *AI in Finance: Challenges, Techniques, and Opportunities*. [https://doi.org/10.1080/14765284.2022.2077632](https://doi.org/10.1080/14765284.2022.2077632)
 
 ### 2. Мета дослідження
 Надати всеосяжний огляд застосування методів штучного інтелекту (ШІ) та науки про дані у фінансовій сфері, систематизувати існуючі виклики, технічні підходи та майбутні можливості для досліджень.

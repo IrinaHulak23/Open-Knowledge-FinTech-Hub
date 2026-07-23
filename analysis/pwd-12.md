@@ -3,7 +3,7 @@
 ## Financial inclusion for people with disability: A scoping review
 
 ### 1. Назва статті (APA Style)
-Puli, L., Layton, N., Bell, D., & Shahriar, A. Z. (2024). Financial inclusion for people with disability: A scoping review. *Global Health Action*, 17(1), 2342634. [https://doi.org/10.1080/16549716.2024.2342634](https://doi.org/10.1080/16549716.2024.2342634)
+> Puli, L., Layton, N., Bell, D., & Shahriar, A. Z. (2024). Financial inclusion for people with disability: A scoping review. *Global Health Action*, 17(1), 2342634. [https://doi.org/10.1080/16549716.2024.2342634](https://doi.org/10.1080/16549716.2024.2342634)
 
 ### 2. Мета дослідження
 Виявити існуючі бар'єри та фактори, що сприяють фінансовій інклюзії людей з інвалідністю в країнах з низьким та середнім рівнем доходу (LMIC), а також дослідити потенціал фінансової освіти та використання інформаційно-комунікаційних технологій (ІКТ) як життєздатних стратегій для підвищення фінансової інклюзії.

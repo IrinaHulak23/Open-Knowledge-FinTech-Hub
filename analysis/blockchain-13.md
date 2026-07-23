@@ -3,7 +3,7 @@
 ## Value Creation from a Decentralized Car Ledger
 
 ### 1. Назва статті (APA Style)
-Bauer, I., Zavolokina, L., Leisibach, F., & Schwabe, G. (2020). Value creation from a decentralized car ledger. *Frontiers in Blockchain*, 2, Article 30. [https://doi.org/10.3389/fbloc.2019.00030](https://doi.org/10.3389/fbloc.2019.00030)
+> Bauer, I., Zavolokina, L., Leisibach, F., & Schwabe, G. (2020). Value creation from a decentralized car ledger. *Frontiers in Blockchain*, 2, Article 30. [https://doi.org/10.3389/fbloc.2019.00030](https://doi.org/10.3389/fbloc.2019.00030)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори досліджують, як компанії можуть створювати цінність за допомогою децентралізованого автомобільного реєстру. Вони аналізують проєкт Car Dossier, у якому кілька учасників автомобільної екосистеми спільно створюють блокчейн-платформу для зберігання даних про життєвий цикл автомобіля.

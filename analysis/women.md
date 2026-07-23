@@ -31,3 +31,5 @@
 👩 [Digital financial literacy and its impact on financial decision-making of women: Evidence from india](women-14.md)
 
 👩 [Assessing the implementation and impact of inclusivity and accessibility in the free state south african banking sector](women-15.md)
+
+👩 [Exchange rate policy and nigeria's economic growth: A granger causality impact assessment](women-16.md)

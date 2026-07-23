@@ -3,7 +3,7 @@
 ## Role and actions of businesses in promoting financial inclusion for persons with disabilities
 
 ### 1. Назва статті (APA Style)
-Gutterman, A. S. (2024). Role and actions of businesses in promoting financial inclusion for persons with disabilities. *SSRN Electronic Journal*. [https://doi.org/10.2139/ssrn.5032205](https://doi.org/10.2139/ssrn.5032205)
+> Gutterman, A. S. (2024). Role and actions of businesses in promoting financial inclusion for persons with disabilities. *SSRN Electronic Journal*. [https://doi.org/10.2139/ssrn.5032205](https://doi.org/10.2139/ssrn.5032205)
 
 ### 2. Мета дослідження
 Охарактеризувати бар'єри, що перешкоджають фінансовій інклюзії людей з інвалідністю (PWD), та описати конкретні дії, які можуть вживати фінансові установи та інші підприємства для подолання цих бар'єрів.

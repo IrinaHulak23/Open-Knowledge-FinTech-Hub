@@ -3,7 +3,7 @@
 ## The financialization of remittances: governing through emotions
 
 ### 1. Назва статті (APA Style)
-Kunz, R., Maisenbacher, J., & Paudel, L. N. (2021). The financialization of remittances: governing through emotions. *Review of International Political Economy*, 28(6), 1607–1631. [https://doi.org/10.1080/09692290.2020.1785923](https://doi.org/10.1080/09692290.2020.1785923)
+> Kunz, R., Maisenbacher, J., & Paudel, L. N. (2021). The financialization of remittances: governing through emotions. *Review of International Political Economy*, 28(6), 1607–1631. [https://doi.org/10.1080/09692290.2020.1785923](https://doi.org/10.1080/09692290.2020.1785923)
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з'ясувати, як міжнародні фінансові інституції та державні органи спонукають мігрантів спрямовувати свої грошові перекази у банківський сектор та інвестиційні інструменти замість звичайного споживання. Автори прагнуть розкрити механізм, за допомогою якого фінансові суб'єкти навмисно використовують та переформатовують емоційні зв'язки мігрантів (такі як любов до родини, обов'язок, патріотизм або почуття провини), щоб перетворити приватні гроші на капітал для фінансових ринків.

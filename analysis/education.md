@@ -17,3 +17,5 @@
 🎓 [ICT growth and the fintech boom: A mismatched capability perspective from Nigeria](education-7.md)
 
 🎓 [Adjustment of central bank policies and the establishment of fintech programs in higher education institutions](education-8.md)
+
+🎓 [Fintech and urban–rural integrated development: a human capital perspective](education-9.md)

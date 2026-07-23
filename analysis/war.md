@@ -20,3 +20,5 @@
 ⚔️ [Dynamic connectedness between FinTech and energy markets: Evidence from fat tails, serial dependence, and Bayesian approach](war-8.md)
 
 ⚔️ [Dynamic connectedness between FinTech and energy markets: Evidence from fat tails, serial dependence, and Bayesian approach](war-9.md)
+
+⚔️ [On the time-varying responses of Fintech stock returns to geopolitical, financial and market sentiment shocks](war-10.md)

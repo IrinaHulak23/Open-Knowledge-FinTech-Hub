@@ -3,7 +3,7 @@
 ## Bitcoin, Crypto-Coins, and Global Anti-Money Laundering Governance
 
 ### 1. Назва статті (APA Style)
-Campbell-Verduyn, M. (2018). Bitcoin, crypto-coins, and global anti-money laundering governance. *Crime, Law and Social Change*, 69, 283–305. https://doi.org/10.1007/s10611-017-9756-5
+> Campbell-Verduyn, M. (2018). Bitcoin, crypto-coins, and global anti-money laundering governance. *Crime, Law and Social Change*, 69, 283–305. https://doi.org/10.1007/s10611-017-9756-5
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автор оцінює, які наслідки криптомонети, зокрема Bitcoin, мають для глобального управління протидією відмиванню коштів, і наскільки ефективно міжнародний режим протидії відмиванню коштів балансує між викликами та можливостями, які створюють ці цифрові токени.

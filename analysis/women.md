@@ -15,3 +15,5 @@
 👩 [The Role of Financial Institutions in Bridging the Financing Gap for Women Entrepreneurs in Sub-Saharan Africa](women-6.md)
 
 👩 [AI for women’s financial inclusion—analysis of product design and policy approaches in Nigeria](women-7.md)
+
+👩 [Assessing the impact of mobile money on improving the financial inclusion of Nairobi women](women-8.md)

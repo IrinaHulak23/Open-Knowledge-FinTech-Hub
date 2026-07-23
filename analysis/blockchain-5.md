@@ -3,7 +3,7 @@
 ## A Conceptual Model and Case Study of Blockchain-Enabled Social Media Platform
 
 ### 1. Назва статті (APA Style)
-Zhan, Y., Xiong, Y., & Xing, X. (2023). A conceptual model and case study of blockchain-enabled social media platform. *Technovation*, 119, 102610. [https://doi.org/10.1016/j.technovation.2022.102610](https://doi.org/10.1016/j.technovation.2022.102610)
+> Zhan, Y., Xiong, Y., & Xing, X. (2023). A conceptual model and case study of blockchain-enabled social media platform. *Technovation*, 119, 102610. [https://doi.org/10.1016/j.technovation.2022.102610](https://doi.org/10.1016/j.technovation.2022.102610)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Стаття має на меті, використовуючи кейс Pixie, визначити концептуальну модель blockchain-enabled social media, яка пояснює успішну бізнес-стратегію та операції таких фірм. Автори також прагнуть показати виклики, наслідки з позиції agency theory та напрями майбутніх досліджень.

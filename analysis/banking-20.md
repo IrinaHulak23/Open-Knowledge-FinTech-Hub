@@ -2,8 +2,8 @@
 
 ## The Impact of Fintech on Financial Institutions: The Case of Georgia
 
-### 1. Метадані статті (APA Style)
-Boyarchuk, A., Ebralidze, L., Lashkhi, M., & Charaia, V. (2022). The impact of fintech on financial institutions: The case of Georgia. *TalTech Journal of European Studies*, 12(2), 20–42. [https://doi.org/10.2478/bjes-2022-0012](https://doi.org/10.2478/bjes-2022-0012)
+### 1. Назва статті (APA Style)
+> Boyarchuk, A., Ebralidze, L., Lashkhi, M., & Charaia, V. (2022). The impact of fintech on financial institutions: The case of Georgia. *TalTech Journal of European Studies*, 12(2), 20–42. [https://doi.org/10.2478/bjes-2022-0012](https://doi.org/10.2478/bjes-2022-0012)
 
 ### 2. Мета дослідження
 Проаналізувати екосистему фінансових технологій (фінтеху) в Грузії та з'ясувати, як фінтех-компанії впливають на традиційні банківські установи. Автори прагнуть зрозуміти, чи несуть стартапи загрозу для банків, та як ці інновації спрощують життя споживачам.

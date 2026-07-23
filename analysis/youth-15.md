@@ -3,7 +3,7 @@
 ## E-Cash Waqf Intention among Generation Z
 
 ### 1. Назва статті (APA Style)
-Canggih, C., Mawardi, I., Johan, Z. J., & Timur, Y. P. (2025). Digital transformation of Islamic endowments (Waqf): What appeals to Generation Z in e-cash Waqf? *Journal of Information Systems Engineering and Business Intelligence*, 11(3). http://e-journal.unair.ac.id/index.php/JISEBI
+> Canggih, C., Mawardi, I., Johan, Z. J., & Timur, Y. P. (2025). Digital transformation of Islamic endowments (Waqf): What appeals to Generation Z in e-cash Waqf? *Journal of Information Systems Engineering and Business Intelligence*, 11(3). http://e-journal.unair.ac.id/index.php/JISEBI
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з’ясувати чинники, які впливають на намір покоління Z в Індонезії брати участь у цифровому грошовому вакфі (e-cash waqf), роблячи благодійні внески через онлайн-платформи. Автори досліджують грамотність щодо грошового вакфу, сприйняту легкість використання, довіру до інституцій-назирів та релігійність, а також порівнюють відмінності між чоловічою та жіночою групами респондентів.
@@ -18,7 +18,7 @@ Canggih, C., Mawardi, I., Johan, Z. J., & Timur, Y. P. (2025). Digital transform
 * Перевірити роль релігійності як прямого фактора та модератора.
 * Провести багатогруповий аналіз для порівняння результатів між чоловіками та жінками.
 
-### 4. Характеристика вибірки / джерельної бази
+### 4. Характеристика вибірки 
 Вибірка складається з 645 валідних відповідей мусульманського покоління Z в Індонезії (вікова група 18–28 років).
 * **Формування та демографія:** Дані зібрано через онлайн-опитування методом цілеспрямованої вибірки (purposive sampling). Незбалансованість за статтю: 72% (467) — жінки, 28% (178) — чоловіки. Освіта: 68,4% (441) мали середню освіту, 31% (202) — ступінь бакалавра.
 

@@ -13,3 +13,5 @@
 🪪 [Fear of Missing Out and the Future of Facial Recognition Payments in the Blue Economy](digital-identity-6.md)
 
 🪪 [Visa Inc. and the Future of B2B Payments: A Blockchain-Based Strategy Within the EU MiCA Compliance](digital-identity-7.md)
+
+🪪 [reKYC for Fintech Security: A Privacy-Preserving Approach to Digital Wallet Verification](digital-identity-8.md)

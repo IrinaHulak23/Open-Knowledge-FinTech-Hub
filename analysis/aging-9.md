@@ -3,7 +3,7 @@
 ## Cryptocurrency Adoption among Generation X: The Mediating Role of Cashless Payment Acceptance in Thailand
 
 ### 1. Назва статті (APA Style)
-Wongpun, S., Podaras, A., Suwannahong, R., & Inmor, S. (2026). Cryptocurrency Adoption among Generation X: The Mediating Role of Cashless Payment Acceptance in Thailand. *Global Business & Finance Review*, 31(3), 1–14. [https://doi.org/10.17549/gbfr.2026.31.3.1](https://doi.org/10.17549/gbfr.2026.31.3.1)
+> Wongpun, S., Podaras, A., Suwannahong, R., & Inmor, S. (2026). Cryptocurrency Adoption among Generation X: The Mediating Role of Cashless Payment Acceptance in Thailand. *Global Business & Finance Review*, 31(3), 1–14. [https://doi.org/10.17549/gbfr.2026.31.3.1](https://doi.org/10.17549/gbfr.2026.31.3.1)
 
 ### 2. Мета дослідження
 Визначити, як фінансова грамотність і сприйнятий ризик впливають на прийняття криптовалют серед представників покоління X у Таїланді, а також перевірити, чи виступає прийняття безготівкових платежів посередником у цих зв’язках.

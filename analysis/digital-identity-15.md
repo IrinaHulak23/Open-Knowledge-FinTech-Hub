@@ -3,7 +3,7 @@
 ## Towards a Universal Digital Identity: a blockchain-based framework for borderless verification
 
 ### 1. Назва статті (APA Style)
-Akhison, G. (2025). Towards a Universal Digital Identity: a blockchain-based framework for borderless verification. *Frontiers in Blockchain*, 8, 1688287. https://doi.org/10.3389/fbloc.2025.1688287
+> Akhison, G. (2025). Towards a Universal Digital Identity: a blockchain-based framework for borderless verification. *Frontiers in Blockchain*, 8, 1688287. https://doi.org/10.3389/fbloc.2025.1688287
 
 ### 2. Мета дослідження
 Метою дослідження є обґрунтування необхідності та концептуальне проєктування Універсальної Цифрової Ідентичності (UDI) — єдиного глобально визнаного цифрового облікового запису на децентралізованому блокчейні, що замінює фізичні документи. Автор прагне довести, що така трансформація є не лише можливою, а й неминучою з огляду на конвергенцію технологій, глобалізацію та потреби цифрової економіки.

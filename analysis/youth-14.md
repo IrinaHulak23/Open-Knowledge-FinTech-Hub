@@ -3,7 +3,7 @@
 ## Financial Socialization and Start-up Intention among Korean University Students
 
 ### 1. Назва статті (APA Style)
-Kang, G.-L., Park, C.-W., & Jang, S.-H. (2025). A Study on the Impact of Financial Socialization and Financial Management Behavior on Start-up Intention: Mediating Effect of Entrepreneurship. *International Review of Management and Marketing*, 15(2), 230–239. https://doi.org/10.32479/irmm.17877
+> Kang, G.-L., Park, C.-W., & Jang, S.-H. (2025). A Study on the Impact of Financial Socialization and Financial Management Behavior on Start-up Intention: Mediating Effect of Entrepreneurship. *International Review of Management and Marketing*, 15(2), 230–239. https://doi.org/10.32479/irmm.17877
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з’ясувати, як фінансова соціалізація та поведінка фінансового управління студентів університетів у Кореї впливають на їхній намір започаткувати власну справу після пандемії COVID-19. Автори також перевіряють, чи виступає підприємництво медіатором у цьому зв'язку.

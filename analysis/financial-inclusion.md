@@ -43,3 +43,5 @@
 🌍 [Sharia fintech in the digital age: Human rights in sharia fintech through criminal law safeguards](financial-inclusion-20.md)
 
 🌍 [Public acceptance of the government wallet application and implications for Thailand’s economic sustainability](financial-inclusion-21.md)
+
+🌍 [Penetration of digital transactions in rural India and financial inclusion: An analysis of progress and problems](financial-inclusion-22.md)

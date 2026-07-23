@@ -3,7 +3,7 @@
 ## FinTech and older adults: a global synthesis of enablers, barriers, and research trends for inclusive digital finance
 
 ### 1. Назва статті (APA Style)
-Anupama, S., & Sengupta, A. (2025). FinTech and older adults: a global synthesis of enablers, barriers, and research trends for inclusive digital finance. *Humanities and Social Sciences Communications*, 12, Article 6077. [https://doi.org/10.1057/s41599-025-06077-z](https://doi.org/10.1057/s41599-025-06077-z)
+> Anupama, S., & Sengupta, A. (2025). FinTech and older adults: a global synthesis of enablers, barriers, and research trends for inclusive digital finance. *Humanities and Social Sciences Communications*, 12, Article 6077. [https://doi.org/10.1057/s41599-025-06077-z](https://doi.org/10.1057/s41599-025-06077-z)
 
 ### 2. Мета дослідження
 Комплексно узагальнити наукові дослідження щодо використання фінансових технологій літніми людьми, визначити основні чинники, бар’єри та наукові тенденції, які впливають на інклюзивний розвиток цифрових фінансів для цієї вікової групи.

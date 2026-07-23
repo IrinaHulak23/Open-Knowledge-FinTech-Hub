@@ -3,7 +3,7 @@
 ## Remittances and public finances: Evidence from oil-price shocks
 
 ### 1. Назва статті (APA Style)
-Asatryan, Z., Bittschi, B., & Doerrenberg, P. (2017). Remittances and public finances: Evidence from oil-price shocks. *Journal of Public Economics*, 155, 122-137. [https://doi.org/10.1016/j.jpubeco.2017.09.009](https://doi.org/10.1016/j.jpubeco.2017.09.009).
+> Asatryan, Z., Bittschi, B., & Doerrenberg, P. (2017). Remittances and public finances: Evidence from oil-price shocks. *Journal of Public Economics*, 155, 122-137. [https://doi.org/10.1016/j.jpubeco.2017.09.009](https://doi.org/10.1016/j.jpubeco.2017.09.009).
 
 ### 2. Мета дослідження
 Автори прагнуть з'ясувати, як грошові перекази від мігрантів (ремітенси), що надходять у країну, впливають на її державні фінанси. Зокрема, мета полягає у вивченні двох аспектів: по-перше, як ці фінансові надходження змінюють рівень та структуру податкових доходів держави (наприклад, податку на додану вартість (ПДВ) та податку на доходи фізичних осіб (ПДФО)), а по-друге, як уряди країн реагують на такі фінансові шоки через зміну податкових ставок або впровадження нових податкових систем.

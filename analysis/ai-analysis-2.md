@@ -3,7 +3,7 @@
 ##  Explainable FinTech lending
 
 ### 1. Назва статті (APA Style)
-Babaei, G., Giudici, P., & Raffinetti, E. (2023). Explainable FinTech lending. *Journal of Economics and Business*, 125-126, 106126. [https://doi.org/10.1016/j.jeconbus.2023.106126](https://doi.org/10.1016/j.jeconbus.2023.106126)
+> Babaei, G., Giudici, P., & Raffinetti, E. (2023). Explainable FinTech lending. *Journal of Economics and Business*, 125-126, 106126. [https://doi.org/10.1016/j.jeconbus.2023.106126](https://doi.org/10.1016/j.jeconbus.2023.106126)
 
 ### 2. Мета дослідження
 Розробити метод відбору змінних для моделей машинного навчання, який дозволить створити систему кредитного скорингу (оцінки ризиків) для малого та середнього бізнесу, що буде одночасно високоточною та зрозумілою (пояснюваною) для користувачів і регуляторів.

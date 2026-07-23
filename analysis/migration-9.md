@@ -3,7 +3,7 @@
 ## Reinforcing DevOps Generic Process
 
 ### 1. Назва статті (APA Style)
-Mejia, J., Muñoz, M., Rocha, Á., & Calvo-Manzano, J. A. (Eds.). (2020). Reinforcing DevOps Generic Process. *Trends and Applications in Software Engineering*, 1071, 15-28. [https://doi.org/10.1007/978-3-030-33547-2](https://doi.org/10.1007/978-3-030-33547-2)
+> Mejia, J., Muñoz, M., Rocha, Á., & Calvo-Manzano, J. A. (Eds.). (2020). Reinforcing DevOps Generic Process. *Trends and Applications in Software Engineering*, 1071, 15-28. [https://doi.org/10.1007/978-3-030-33547-2](https://doi.org/10.1007/978-3-030-33547-2)
 
 ### 2. Мета дослідження
 Мета цього дослідження полягає в тому, щоб систематизувати розріснені знання про методологію DevOps та розробити єдину уніфіковану (загальну) модель процесу DevOps. Автори прагнуть чітко визначити фази, конкретні активності, ролі учасників, завдання та очікувані результати роботи, щоб допомогти ІТ-компаніям ефективно впроваджувати автоматизацію та згладжувати взаємодію між командами розробки та підтримки.

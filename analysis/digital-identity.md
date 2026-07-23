@@ -43,3 +43,5 @@
 🪪 [Emerging Technologies Shaping the Future of Finance and Identity Protection](digital-identity-20.md)
 
 🪪 [An Exploration of Biometrics Payment Technology to Combat Online Banking Fraud and Digital Identity in the South African Banking Industry](digital-identity-21.md)
+
+🪪 [The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions](digital-identity-22.md)

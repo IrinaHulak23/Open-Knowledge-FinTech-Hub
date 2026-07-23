@@ -3,7 +3,7 @@
 ##  Artificial intelligence and resource optimization: A study of Fintech start-ups
 
 ### 1. Назва статті (APA Style)
-Almansour, M. (2023). Artificial intelligence and resource optimization: A study of Fintech start-ups. *Resources Policy*, 80, 103250. [https://doi.org/10.1016/j.resourpol.2022.103250](https://doi.org/10.1016/j.resourpol.2022.103250)
+> Almansour, M. (2023). Artificial intelligence and resource optimization: A study of Fintech start-ups. *Resources Policy*, 80, 103250. [https://doi.org/10.1016/j.resourpol.2022.103250](https://doi.org/10.1016/j.resourpol.2022.103250)
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з'ясувати, як саме впровадження штучного інтелекту (ШІ) та інших підривних технологій впливає на внутрішні організаційні ресурси фінтех-стартапів (особливо на працівників), а також на зовнішні ресурси (клієнтів, довкілля та природні копасні копалини).

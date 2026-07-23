@@ -3,7 +3,7 @@
 ##  FinTech as a Game Changer: Overview of Research Frontiers
 
 ### 1. Назва статті (APA Style)
-Hendershott, T., Zhang, X. (M.), Zhao, J. L., & Zheng, Z. (E.). (2021). FinTech as a Game Changer: Overview of Research Frontiers. *Information Systems Research*, 32(1), 1–17. [https://doi.org/10.1007/s10664-021-09993-1](https://doi.org/10.1007/s10664-021-09993-1)
+> Hendershott, T., Zhang, X. (M.), Zhao, J. L., & Zheng, Z. (E.). (2021). FinTech as a Game Changer: Overview of Research Frontiers. *Information Systems Research*, 32(1), 1–17. [https://doi.org/10.1007/s10664-021-09993-1](https://doi.org/10.1007/s10664-021-09993-1)
 
 ### 2. Мета дослідження
 Надати комплексний огляд наукових рубежів у сфері фінтеху, систематизувати ключові зміни, які він вносить у фінансові ринки та бізнес-моделі, а також визначити напрямки для майбутніх досліджень.

@@ -3,7 +3,7 @@
 ## Analysing credit risk in persons with disabilities as an instrument of financial inclusion
 
 ### 1. Назва статті (APA Style)
-Lara-Rubio, J., Galvez-Sanchez, F. J., Molina-Moreno, V., & Navarro-Galera, A. (2025). Analysing credit risk in persons with disabilities as an instrument of financial inclusion. *Journal of Social and Economic Development*, 27(2), 581–603. [https://doi.org/10.1007/s40847-024-00346-4](https://doi.org/10.1007/s40847-024-00346-4)
+> Lara-Rubio, J., Galvez-Sanchez, F. J., Molina-Moreno, V., & Navarro-Galera, A. (2025). Analysing credit risk in persons with disabilities as an instrument of financial inclusion. *Journal of Social and Economic Development*, 27(2), 581–603. [https://doi.org/10.1007/s40847-024-00346-4](https://doi.org/10.1007/s40847-024-00346-4)
 
 ### 2. Мета дослідження
 Виявити фактори, що впливають на кредитний ризик людей з інвалідністю (PWD) в Іспанії, та визначити, чи відрізняється цей ризик від ризику людей без інвалідності, з метою сприяння їхній фінансовій інклюзії.

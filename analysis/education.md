@@ -13,3 +13,5 @@
 🎓 [Reverse FinTech Socialisation: A Remedy for Financial Exclusion in the Digital Era](education-5.md)
 
 🎓 [The role of acquaintances’ characteristics in shaping digital payment technology usage](education-6.md)
+
+🎓 [ICT growth and the fintech boom: A mismatched capability perspective from Nigeria](education-7.md)

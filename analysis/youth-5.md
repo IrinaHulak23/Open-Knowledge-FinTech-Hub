@@ -3,7 +3,7 @@
 ## Financial Literacy and Fintech Use among Young Professionals in Mauritius
 
 ### 1. Назва статті (APA Style)
-Boolaky, A., Mauree-Narrainen, D., & Padachi, K. (2021). Financial Literacy of Young Professionals in the Context of Financial Technology Developments in Mauritius. *Journal of Social Economics Research*, 8(2), 119–134. https://doi.org/10.18488/journal.35.2021.82.119.134
+> Boolaky, A., Mauree-Narrainen, D., & Padachi, K. (2021). Financial Literacy of Young Professionals in the Context of Financial Technology Developments in Mauritius. *Journal of Social Economics Research*, 8(2), 119–134. https://doi.org/10.18488/journal.35.2021.82.119.134
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб оцінити фінансову грамотність молодих професіоналів у Маврикії в умовах розвитку фінансових технологій. Автори прагнуть зрозуміти, наскільки молоді фахівці володіють фінансовими знаннями, як вони ухвалюють фінансові рішення і як ставляться до використання Fintech-інструментів для базового управління грошима та інвестицій.
@@ -18,7 +18,7 @@ Boolaky, A., Mauree-Narrainen, D., & Padachi, K. (2021). Financial Literacy of Y
 * Перевірити, чи впливає використання Fintech на рівень фінансової грамотності.
 * Дослідити роль віку, доходу, статі та професійної сфери у формуванні фінансової грамотності.
 
-### 4. Характеристика вибірки / джерельної бази
+### 4. Характеристика вибірки 
 У дослідженні використано 324 валідні анкети молодих професіоналів у Маврикії, які представляли різні сфери (бізнес, інженерію, освіту, ІКТ, охорону здоров’я та право). 
 * **Формування вибірки:** Спочатку застосовувалася стратифікована випадкова вибірка, а через низьку відповідь у деяких групах — метод снігової кулі (snowball sampling).
 * **Характеристики:** Респонденти були представниками різних професійних груп із різним рівнем доходу та віку, що дозволило охопити активну частину працюючої молоді.

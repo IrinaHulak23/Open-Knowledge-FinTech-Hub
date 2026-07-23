@@ -3,7 +3,7 @@
 ## Financial Inclusion, FinTech and Youth Labour Force Participation in MENA
 
 ### 1. Назва статті (APA Style)
-Elmasmari, H., & Amaghouss, J. (2024). Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region. *Economics and Business Review*, 10(4). https://journals.ue.poznan.pl/ebr/article/view/1668
+> Elmasmari, H., & Amaghouss, J. (2024). Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region. *Economics and Business Review*, 10(4). https://journals.ue.poznan.pl/ebr/article/view/1668
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з’ясувати чинники доступу молоді (у регіоні MENA) до традиційних і цифрових фінансових послуг, а також оцінити, чи пов’язана фінансова інклюзія та FinTech із більшою ймовірністю працювати чи активно шукати роботу. Фінансові послуги розглядаються як важливий інструмент економічного залучення та управління доходами молоді.
@@ -17,7 +17,7 @@ Elmasmari, H., & Amaghouss, J. (2024). Analysis of the impact of financial inclu
 * Виявити бар’єри фінансової інклюзії (вартість, нестача документів, релігійні обмеження).
 * Оцінити вплив формальних і цифрових фінансових послуг на участь молоді в робочій силі.
 
-### 4. Характеристика вибірки / джерельної бази
+### 4. Характеристика вибірки 
 Використано дані бази World Bank Global Findex 2021 для країн MENA з нижчим рівнем доходу (9052 загалом, із них 4655 — молоді люди віком 15–35 років).
 * **Демографія вибірки:** Середній вік молоді — 25,6 року; 52% чоловіків, 48% жінок; 93% мешкають у містах. Освіта: 21% початкова, 58% середня, 21% вища. Доступ до технологій: 94% мають мобільний телефон, 87% — інтернет.
 * **Рівень інклюзії:** 38% мають формальний банківський рахунок, 10% — формальні заощадження, 5% — формальний кредит, 7% — мобільний грошовий рахунок, 31% здійснювали/отримували цифрові платежі.

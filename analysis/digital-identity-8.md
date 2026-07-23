@@ -3,7 +3,7 @@
 ## reKYC for Fintech Security: A Privacy-Preserving Approach to Digital Wallet Verification
 
 ### 1. Назва статті (APA Style)
-Mohamed, I. A., Abdulla, H., Mohabilasha, M. M., Ahmed, F., Chandre, P., & Mahalle, P. (2026). reKYC for Fintech Security: A Privacy-Preserving Approach to Digital Wallet Verification. In A. Iglesias, J. Shin, N. Bhatt, & A. Joshi (Eds.), *Information Systems for Intelligent Systems: Proceedings of ISBM 2025, Volume 10* (pp. 420–434). Springer. https://doi.org/10.1007/978-3-032-13203-1_40
+> Mohamed, I. A., Abdulla, H., Mohabilasha, M. M., Ahmed, F., Chandre, P., & Mahalle, P. (2026). reKYC for Fintech Security: A Privacy-Preserving Approach to Digital Wallet Verification. In A. Iglesias, J. Shin, N. Bhatt, & A. Joshi (Eds.), *Information Systems for Intelligent Systems: Proceedings of ISBM 2025, Volume 10* (pp. 420–434). Springer. https://doi.org/10.1007/978-3-032-13203-1_40
 
 ### 2. Мета дослідження
 Метою дослідження є систематичний огляд та порівняльний аналіз методів збереження приватності у процесах повторної верифікації клієнтів (reKYC) у фінтех-екосистемах, зокрема для цифрових гаманців, а також розробка оригінальної референсної архітектури reKYC-системи. Автори прагнуть подолати ключову суперечність сучасних систем KYC: необхідність дотримання регуляторних вимог (AML, CTF, GDPR, PSD2) при одночасному захисті персональних даних користувачів від витоків, несанкціонованого доступу та зловживань, притаманних централізованим моделям зберігання ідентифікаційних даних.

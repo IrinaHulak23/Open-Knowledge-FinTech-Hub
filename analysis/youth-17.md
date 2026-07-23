@@ -4,7 +4,7 @@
 ## Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region
 
 ### 1. Назва статті (APA Style)
-Elmasmari, H., & Amaghouss, J. (2024). Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region. *Economics and Business Review*, 10(4), 56–79. [https://doi.org/10.18559/ebr.2024.4.1668](https://doi.org/10.18559/ebr.2024.4.1668)
+> Elmasmari, H., & Amaghouss, J. (2024). Analysis of the impact of financial inclusion and FinTech on youth labour force participation in the MENA region. *Economics and Business Review*, 10(4), 56–79. [https://doi.org/10.18559/ebr.2024.4.1668](https://doi.org/10.18559/ebr.2024.4.1668)
 
 ### 2. Мета дослідження
 Метою даного дослідження є з'ясування факторів фінансової інклюзії та FinTech серед молоді, а також оцінка їхнього безпосереднього впливу на рівень участі молоді у робочій силі та ринку праці в регіоні MENA (Близький Схід і Північна Африка).

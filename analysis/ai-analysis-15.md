@@ -3,7 +3,7 @@
 ##  A survey of AI in finance
 
 ### 1. Назва статті (APA Style)
-Cao, Y., & Zhai, J. (2022). A survey of AI in finance. *Journal of Chinese Economic and Business Studies*, 20(2), 125-137. [https://doi.org/10.1080/14765284.2022.2077632](https://doi.org/10.1080/14765284.2022.2077632)
+> Cao, Y., & Zhai, J. (2022). A survey of AI in finance. *Journal of Chinese Economic and Business Studies*, 20(2), 125-137. [https://doi.org/10.1080/14765284.2022.2077632](https://doi.org/10.1080/14765284.2022.2077632)
 
 ### 2. Мета дослідження
 Проаналізувати стан впровадження штучного інтелекту у фінансову індустрію, систематизувати ключові сфери застосування технологій ШІ та оцінити, як вони змінюють ефективність фінансових послуг.

@@ -3,7 +3,7 @@
 ## Does the bank’s FinTech innovation reduce its risk-taking? Evidence from China’s banking industry
 
 ### 1. Назва статті (APA Style)
-Li, C., He, S., Tian, Y., Sun, S., & Ning, L. (2022). Does the bank’s FinTech innovation reduce its risk-taking? Evidence from China’s banking industry. *Journal of Innovation & Knowledge*, 7(3), 100219. [https://doi.org/10.1016/j.jik.2022.100219](https://doi.org/10.1016/j.jik.2022.100219)
+> Li, C., He, S., Tian, Y., Sun, S., & Ning, L. (2022). Does the bank’s FinTech innovation reduce its risk-taking? Evidence from China’s banking industry. *Journal of Innovation & Knowledge*, 7(3), 100219. [https://doi.org/10.1016/j.jik.2022.100219](https://doi.org/10.1016/j.jik.2022.100219)
 
 ### 2. Мета дослідження
 З'ясувати, чи здатне використання фінансових технологій (FinTech) самими комерційними банками покращити їхнє управління ризиками та зменшити схильність до ризику.

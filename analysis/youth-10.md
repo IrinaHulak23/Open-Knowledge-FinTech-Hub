@@ -3,7 +3,7 @@
 ## Fintech Adoption Behaviour of Gen Y in India
 
 ### 1. Назва статті (APA Style)
-Aggarwal, M., Nayak, K. M., & Bhatt, V. (2023). Examining the factors influencing fintech adoption behaviour of gen Y in India. *Cogent Economics & Finance*, 11(1), 2197699. https://doi.org/10.1080/23322039.2023.2197699
+> Aggarwal, M., Nayak, K. M., & Bhatt, V. (2023). Examining the factors influencing fintech adoption behaviour of gen Y in India. *Cogent Economics & Finance*, 11(1), 2197699. https://doi.org/10.1080/23322039.2023.2197699
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб пояснити чинники, які впливають на прийняття фінансових технологій представниками покоління Y в Індії. Автори розширюють Theory of Planned Behaviour за допомогою таких змінних, як якість інформації та готовність платити за додаткові привілеї, досліджуючи поведінковий ланцюг від отримання інформації та ставлення до наміру і реального використання fintech.

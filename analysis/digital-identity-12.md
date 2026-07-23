@@ -3,7 +3,7 @@
 ## Blockchain Alchemy: Unveiling the Digital Ledger's Transformative Power
 
 ### 1. Назва статті (APA Style)
-Choudhary, A. P., Bhagat, A. P., Choudhary, P. S., & Kothari, D. D. (2025). Blockchain Alchemy: Unveiling the Digital Ledger's Transformative Power. In *Proceedings of the 6th International Conference on Electronics and Sustainable Communication Systems (ICESC-2025)* (pp. 997–1004). IEEE. https://doi.org/10.1109/ICESC65114.2025.11212541
+> Choudhary, A. P., Bhagat, A. P., Choudhary, P. S., & Kothari, D. D. (2025). Blockchain Alchemy: Unveiling the Digital Ledger's Transformative Power. In *Proceedings of the 6th International Conference on Electronics and Sustainable Communication Systems (ICESC-2025)* (pp. 997–1004). IEEE. https://doi.org/10.1109/ICESC65114.2025.11212541
 
 ### 2. Мета дослідження
 Метою дослідження є критичне дослідження того, як блокчейн-технологія трансформує фундаментальні принципи довіри, підзвітності та співпраці в різних галузях, а також розробка оригінальної концептуальної рамки «Blockchain Alchemy» — тришарової аналітичної моделі, яка систематизує трансформаційний потенціал, галузеві застосування та виклики блокчейну. Автори позиціонують блокчейн не лише як деструктивну технологію, а як фундаментальну інфраструктуру, здатну переосмислити спосіб обміну цінностями, інформацією та повноваженнями в цифрових екосистемах.

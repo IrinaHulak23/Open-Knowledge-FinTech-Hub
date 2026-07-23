@@ -3,7 +3,7 @@
 ## Visa Inc. and the Future of B2B Payments: A Blockchain-Based Strategy Within the EU MiCA Compliance
 
 ### 1. Назва статті (APA Style)
-Banat, G., Jahn, M., Zarifoglu, S., Nicoara-Popescu, D., & Bariviera, A. F. (2025). Visa Inc. and the Future of B2B Payments: A Blockchain-Based Strategy Within the EU MiCA Compliance. In S. Ajour El Zein & C. Morillo (Eds.), *Business Entrepreneurship and Innovation: The Advocacy for a Tech-Corporate Ecosystem* (pp. 215–232). Springer. https://doi.org/10.1007/978-3-032-05730-3_13
+> Banat, G., Jahn, M., Zarifoglu, S., Nicoara-Popescu, D., & Bariviera, A. F. (2025). Visa Inc. and the Future of B2B Payments: A Blockchain-Based Strategy Within the EU MiCA Compliance. In S. Ajour El Zein & C. Morillo (Eds.), *Business Entrepreneurship and Innovation: The Advocacy for a Tech-Corporate Ecosystem* (pp. 215–232). Springer. https://doi.org/10.1007/978-3-032-05730-3_13
 
 ### 2. Мета дослідження
 Метою дослідження є оцінка стратегічної та фінансової доцільності інвестиції компанії Visa Inc. у дозволену блокчейн-систему B2B-платежів у межах регуляторної рамки ЄС «Markets in Crypto-Assets» (MiCA). Автори прагнуть довести, що такий стратегічний крок дозволить Visa одночасно відповісти на зростаючу конкурентну загрозу з боку FinTech-компаній та децентралізованих фінансів (DeFi), знизити регуляторні ризики, пов'язані з антимонопольними позовами, і створити довгострокову акціонерну вартість. Додатковою метою є обґрунтування конкретної технічної архітектури системи — з визначенням оптимального механізму консенсусу, управління цифровими ідентичностями та відповідності вимогам KYC/AML.

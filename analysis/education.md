@@ -19,3 +19,5 @@
 🎓 [Adjustment of central bank policies and the establishment of fintech programs in higher education institutions](education-8.md)
 
 🎓 [Fintech and urban–rural integrated development: a human capital perspective](education-9.md)
+
+🎓 [Australia’s FinTech leaders: Education, work experience, and eagerness of self-employment](education-10.md)

@@ -3,7 +3,7 @@
 ## Technology, Trust, and Neuroscience: Exploring FinTech Adoption among Gen X in India through a Socio-Cultural Lens
 
 ### 1. Назва статті (APA Style)
-Gupta, A., Mishra, M. K., Srivastava, A., Nasseif, G., Al-Ramahi, N., & Bhargave, H. (2025). Technology, Trust, and Neuroscience: Exploring FinTech Adoption among Gen X in India through a Socio-Cultural Lens. *Scientific Culture*, 11(2), 261–271. https://doi.org/10.5281/zenodo.17353628
+> Gupta, A., Mishra, M. K., Srivastava, A., Nasseif, G., Al-Ramahi, N., & Bhargave, H. (2025). Technology, Trust, and Neuroscience: Exploring FinTech Adoption among Gen X in India through a Socio-Cultural Lens. *Scientific Culture*, 11(2), 261–271. https://doi.org/10.5281/zenodo.17353628
 
 ### 2. Мета дослідження
 Метою статті є визначити ключові чинники, які впливають на прийняття FinTech-сервісів представниками покоління X в Індії, а також з’ясувати, чи виконує нейромаркетинг роль модератора у формуванні сприйняття фінансових технологій.
@@ -18,7 +18,7 @@ Gupta, A., Mishra, M. K., Srivastava, A., Nasseif, G., Al-Ramahi, N., & Bhargave
 * Оцінити модераційний ефект нейромаркетингу щодо FinTech-адопції.
 * Сформулювати практичні висновки для компаній, розробників та регуляторів.
 
-### 4. Характеристика вибірки / джерельної бази
+### 4. Характеристика вибірки 
 Емпіричну базу становлять відповіді представників покоління X (народжених у 1965–1980 роках), які проживають в урбанізованому середовищі Індії, зокрема у всіх 11 районах Делі. 
 * З розповсюджених приблизно 850 анкет для аналізу використано 671 коректну відповідь (ефективний рівень відповідей 79%).
 * Вибірка включала 70% чоловіків (470 осіб) та 30% жінок (201 особа).

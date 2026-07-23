@@ -3,7 +3,7 @@
 ## The impact of the FinTech revolution on the future of banking: Opportunities and risks
 
 ### 1. Назва статті (APA Style)
-Murinde, V., Rizopoulos, E., & Zachariadis, M. (2022). The impact of the FinTech revolution on the future of banking: Opportunities and risks. *International Review of Financial Analysis*, 81, 102103. [https://doi.org/10.1016/j.irfa.2022.102103](https://doi.org/10.1016/j.irfa.2022.102103)
+> Murinde, V., Rizopoulos, E., & Zachariadis, M. (2022). The impact of the FinTech revolution on the future of banking: Opportunities and risks. *International Review of Financial Analysis*, 81, 102103. [https://doi.org/10.1016/j.irfa.2022.102103](https://doi.org/10.1016/j.irfa.2022.102103)
 
 ### 2. Мета дослідження
 З'ясувати вплив фінансових технологій (фінтеху) на майбутнє банківської сфери, оцінити можливості та ризики для традиційних банків на основі огляду літератури та аналізу глобальних статистичних даних.

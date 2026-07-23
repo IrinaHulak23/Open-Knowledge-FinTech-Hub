@@ -29,3 +29,5 @@
 🪪 [Digital Identity Systems and Their Role in Driving Economic Participation in Underbanked Regions](digital-identity-14.md)
 
 🪪 [Towards a Universal Digital Identity: a blockchain-based framework for borderless verification](digital-identity-15.md)
+
+🪪 [Global Digital Identity Systems](digital-identity-16.md)

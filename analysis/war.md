@@ -32,3 +32,5 @@
 ⚔️ [Spillover analysis across FinTech, ESG, and renewable energy indices before and during the Russia-Ukraine war: International evidence](war-14.md)
 
 ⚔️ [Fintech services and the drivers of their implementation in small and medium enterprises](war-15.md)
+
+⚔️ [Risk transmission to Fintech firms: Is WAR different from COVID?](war-16.md)

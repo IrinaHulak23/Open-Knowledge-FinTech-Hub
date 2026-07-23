@@ -34,3 +34,5 @@
 ⚔️ [Fintech services and the drivers of their implementation in small and medium enterprises](war-15.md)
 
 ⚔️ [Risk transmission to Fintech firms: Is WAR different from COVID?](war-16.md)
+
+⚔️ [An investigation of dynamic connectedness between robotic, artificial intelligence development, and carbon risk by quantile spillovers](war-17.md)

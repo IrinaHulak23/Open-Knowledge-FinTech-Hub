@@ -2,8 +2,8 @@
 
 ## Fintech and Banks as Complements in Microentrepreneurship
 
-### 1. Метадані статті (APA Style)
-Abdi, A., & Natarajan, S. (2023). Fintech and banks as complements in microentrepreneurship. *Strategic Entrepreneurship Journal*, 17(3), 643–676. [https://doi.org/10.1002/sej.1472](https://doi.org/10.1002/sej.1472)
+### 1. Назва статті (APA Style)
+> Abdi, A., & Natarajan, S. (2023). Fintech and banks as complements in microentrepreneurship. *Strategic Entrepreneurship Journal*, 17(3), 643–676. [https://doi.org/10.1002/sej.1472](https://doi.org/10.1002/sej.1472)
 
 ### 2. Мета дослідження
 з’ясувати, як використання фінансових технологій (зокрема мобільних грошей) допомагає найбіднішим верствам населення та жінкам заощаджувати кошти для створення та розвитку мікропідприємств. Автори прагнуть довести, що максимальний позитивний ефект від фінтеху досягається не тоді, коли він замінює банки, а коли доповнюється доступом до офіційних банківських рахунків.

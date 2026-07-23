@@ -3,7 +3,7 @@
 ## Blockchain-Based Application at a Governmental Level: Disruption or Illusion? The Case of Estonia
 
 ### 1. Назва статті (APA Style)
-Semenzin, S., Rozas, D., & Hassan, S. (2022). Blockchain-based application at a governmental level: Disruption or illusion? The case of Estonia. *Policy and Society*, 41(3), 386–401. https://doi.org/10.1093/polsoc/puac014
+> Semenzin, S., Rozas, D., & Hassan, S. (2022). Blockchain-based application at a governmental level: Disruption or illusion? The case of Estonia. *Policy and Society*, 41(3), 386–401. https://doi.org/10.1093/polsoc/puac014
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори досліджують, які блокчейн-інструменти фактично були створені естонським урядом, чому вони були створені та наскільки державні блокчейн-застосування в Естонії відповідають початковим обіцянкам «підривної» децентралізованої технології.

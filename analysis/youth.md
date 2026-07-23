@@ -32,3 +32,5 @@
 👦 [A Study on the Impact of Financial Socialization and Financial Management Behavior on Start-up Intention: Mediating Effect of Entrepreneurship](youth-14.md)
 
 👦 [Digital transformation of Islamic endowments (Waqf): What appeals to Generation Z in e-cash Waqf?](youth-15.md)
+
+👦 [Banks take on fintech for the youth market](youth-16.md)

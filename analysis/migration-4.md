@@ -3,7 +3,7 @@
 ## Rural-urban migration, financial literacy, and entrepreneurship
 
 ### 1. Назва статті (APA Style)
-Wen, X., Cheng, Z., & Tani, M. (2024). Rural-urban migration, financial literacy, and entrepreneurship. *Journal of Business Research*, 175, 114302. [https://doi.org/10.1016/j.jbusres.2023.114302](https://doi.org/10.1016/j.jbusres.2023.114302).
+> Wen, X., Cheng, Z., & Tani, M. (2024). Rural-urban migration, financial literacy, and entrepreneurship. *Journal of Business Research*, 175, 114302. [https://doi.org/10.1016/j.jbusres.2023.114302](https://doi.org/10.1016/j.jbusres.2023.114302).
 
 ### 2. Мета дослідження
 Автори прагнуть з'ясувати, як рівень фінансової грамотності сільських мігрантів, які переїхали до міст, впливає на їхнє прагнення та готовність відкрити власний бізнес (стати підприємцями). Окрім виявлення цього прямого зв'язку, мета дослідження полягає в тому, щоб розкрити приховані соціально-економічні механізми (канали), через які фінансова грамотність допомагає вразливим верствам мігрантів долати труднощі та успішно трансформуватися у самозайнятих підприємців на новому місці проживання.

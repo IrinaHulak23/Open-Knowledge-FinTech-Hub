@@ -3,7 +3,7 @@
 ## Global Digital Identity Systems: Interdisciplinary Insights into Surveillance, Governance, and Prophetic Implications
 
 ### 1. Назва статті (APA Style)
-Sangwa, S. (2025). Global Digital Identity Systems: Interdisciplinary Insights into Surveillance, Governance, and Prophetic Implications. *Open Journal of Science, Philosophy & Theology*, 1(2). https://doi.org/10.5281/zenodo.17610738
+> Sangwa, S. (2025). Global Digital Identity Systems: Interdisciplinary Insights into Surveillance, Governance, and Prophetic Implications. *Open Journal of Science, Philosophy & Theology*, 1(2). https://doi.org/10.5281/zenodo.17610738
 
 ### 2. Мета дослідження
 Метою дослідження є міждисциплінарний критичний аналіз глобальних систем цифрової ідентичності крізь призму теорій наглядового капіталізму (Zuboff), біополітики (Foucault) та технократії. Автор прагне розкрити розрив між інклюзивною риторикою цих систем та їхніми реальними наслідками у вигляді умовного доступу до послуг, концентрації влади та потенційного порушення прав людини, а також провести паралель із біблійним пророцтвом (Одкровення 13:16–17).

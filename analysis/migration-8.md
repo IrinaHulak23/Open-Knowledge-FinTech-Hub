@@ -3,7 +3,7 @@
 ## Time banking concepts as an effective tool for healthcare access in UK
 
 ### 1. Назва статті (APA Style)
-Dash, B., & Sandhu, N. (2019). Time banking concepts as an effective tool for healthcare access in UK. *Journal Transition Studies Review*, 26(2), 85-100. [https://doi.org/10.14665/1614-4007-26-007](https://transitionacademiapress.org/jtsr/article/view/233)
+> Dash, B., & Sandhu, N. (2019). Time banking concepts as an effective tool for healthcare access in UK. *Journal Transition Studies Review*, 26(2), 85-100. [https://doi.org/10.14665/1614-4007-26-007](https://transitionacademiapress.org/jtsr/article/view/233)
 
 ### 2. Мета дослідження
 Автори прагнуть з'ясувати, як використання ідей взаємного обміну часом та волонтерства (на прикладі мовної програми «Talking Together») допомагає мігрантам подолати мовний бар'єр, вийти з соціальної ізоляції та в результаті отримати значно кращий і вчасний доступ до медичних послуг у Великій Британії. Мета статті — довести, що навіть якщо соціальний проєкт офіційно не називає себе «банком часу», він усе одно працює за його принципами та ефективно вирішує складні проблеми державної системи охорони здоров'я.

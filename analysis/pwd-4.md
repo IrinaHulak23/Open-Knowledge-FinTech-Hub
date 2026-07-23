@@ -3,7 +3,7 @@
 ## Blockchain and cryptocurrency paradox: The dawn of a new era
 
 ### 1. Назва статті (APA Style)
-Agrawal, S., Gupta, P., Bansal, B., Agrawal, S., & Tomar, P. (2025). Blockchain and cryptocurrency paradox: The dawn of a new era. In N. Mansour, A. K. Singh, & V. Garg (Eds.), *Regulation and inclusivity in finance and accounting: Navigating regulatory frameworks and technological advancements* (pp. 487–505). Springer. [https://doi.org/10.1007/978-3-032-01677-5_22](https://doi.org/10.1007/978-3-032-01677-5_22)
+> Agrawal, S., Gupta, P., Bansal, B., Agrawal, S., & Tomar, P. (2025). Blockchain and cryptocurrency paradox: The dawn of a new era. In N. Mansour, A. K. Singh, & V. Garg (Eds.), *Regulation and inclusivity in finance and accounting: Navigating regulatory frameworks and technological advancements* (pp. 487–505). Springer. [https://doi.org/10.1007/978-3-032-01677-5_22](https://doi.org/10.1007/978-3-032-01677-5_22)
 
 ### 2. Мета дослідження
 Проаналізувати внутрішні суперечності (парадокси) технології блокчейн та криптовалют, які виникають між їхніми фундаментальними принципами та реальними практичними наслідками впровадження, а також розглянути сучасний глобальний регуляторний ландшафт і запропонувати шляхи гармонізації міжнародного регулювання.

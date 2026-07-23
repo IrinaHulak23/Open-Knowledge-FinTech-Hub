@@ -2,7 +2,7 @@
 
 ## Enabling Responsible Banking Through the Application of Blockchain
 
-### 1. Метадані статті (APA Style)
+### 1. Назва статті (APA Style)
 > Griffiths, P. D. R., & Baudier, P. (2023). Enabling Responsible Banking through the Application of Blockchain. *Journal of Innovation Economics & Management*, 41(2), 17–49. https://doi.org/10.3917/e.jie.pr1.0126
 
 ### 2. Мета дослідження

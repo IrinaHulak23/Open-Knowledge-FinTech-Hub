@@ -25,3 +25,5 @@
 👩 [Sectoral comparison of sustainable digital financial inclusion of women workforce with the mediation of digital banking adoption intention: An empirical analysis](women-11.md)
 
 👩 [Fintech and financial inclusion of Moroccan women working in the informal sector: An empirical analysis based on the Technology Acceptance Theory](women-12.md)
+
+👩 [The effect of financial inclusion and financial technology on women’s empowerment](women-13.md)

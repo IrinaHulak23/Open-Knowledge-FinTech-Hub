@@ -3,7 +3,7 @@
 ## AI lifecycle models need to be revised: An exploratory study in Fintech
 
 ### 1. Назва статті (APA Style)
-Haakman, M., Cruz, L., Huijgens, H., & van Deursen, A. (2021). AI lifecycle models need to be revised: An exploratory study in Fintech. *Empirical Software Engineering*, 26, 95. [https://doi.org/10.1007/s41060-021-00278-w](https://doi.org/10.1007/s41060-021-00278-w)
+> Haakman, M., Cruz, L., Huijgens, H., & van Deursen, A. (2021). AI lifecycle models need to be revised: An exploratory study in Fintech. *Empirical Software Engineering*, 26, 95. [https://doi.org/10.1007/s41060-021-00278-w](https://doi.org/10.1007/s41060-021-00278-w)
 
 ### 2. Мета дослідження
 Зрозуміти, як насправді розробляються системи на основі штучного інтелекту (ШІ) у великих фінансових організаціях, та оцінити, чи відповідають існуючі академічні моделі «життєвого циклу» (lifecycle models) реальним потребам індустрії.

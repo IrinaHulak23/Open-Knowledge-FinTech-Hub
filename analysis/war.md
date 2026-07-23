@@ -18,3 +18,5 @@
 ⚔️ [Effect of Russia-Ukraine war sentiment on blockchain and FinTech stocks](war-7.md)
 
 ⚔️ [Dynamic connectedness between FinTech and energy markets: Evidence from fat tails, serial dependence, and Bayesian approach](war-8.md)
+
+⚔️ [Dynamic connectedness between FinTech and energy markets: Evidence from fat tails, serial dependence, and Bayesian approach](war-9.md)

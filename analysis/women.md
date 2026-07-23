@@ -19,3 +19,5 @@
 👩 [Assessing the impact of mobile money on improving the financial inclusion of Nairobi women](women-8.md)
 
 👩 [Gender impact on customer satisfaction and loyalty in Vietnam’s FinTech-enabled banking services](women-9.md)
+
+👩 [FinTech and women’s entrepreneurship in africa: The case of burkina faso and cameroon](women-10.md)

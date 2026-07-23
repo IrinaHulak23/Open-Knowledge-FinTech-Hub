@@ -3,7 +3,7 @@
 ## Digital Identity Systems and Their Role in Driving Economic Participation in Underbanked Regions
 
 ### 1. Назва статті (APA Style)
-Khatri, V., Pachauri, P., Garg, V., & Pandey, R. (2025). Digital Identity Systems and Their Role in Driving Economic Participation in Underbanked Regions. *2025 1st IEEE Uttar Pradesh Section Women in Engineering International Conference on Electrical Electronics and Computer Engineering (UPWIECON)*. https://doi.org/10.1109/UPWIECON67212.2025.11390511
+> Khatri, V., Pachauri, P., Garg, V., & Pandey, R. (2025). Digital Identity Systems and Their Role in Driving Economic Participation in Underbanked Regions. *2025 1st IEEE Uttar Pradesh Section Women in Engineering International Conference on Electrical Electronics and Computer Engineering (UPWIECON)*. https://doi.org/10.1109/UPWIECON67212.2025.11390511
 
 ### 2. Мета дослідження
 Метою дослідження є аналіз ролі систем цифрової ідентичності у розширенні економічної участі незабанківських спільнот Південної Азії та Африки на південь від Сахари. Автори порівнюють мобільні (MID) та блокчейн-орієнтовані системи самосуверенної ідентичності (SSI), виявляють їхні переваги й обмеження, а також пропонують гібридну рамкову модель на основі Zero-Knowledge Proofs (ZKP), що поєднує доступність мобільних рішень із захистом приватності блокчейн-архітектур.

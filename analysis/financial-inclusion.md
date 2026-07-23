@@ -23,3 +23,5 @@
 🌍 [How does financial literacy impact on inclusive finance?](financial-inclusion-10.md)
 
 🌍 [The combined role of FinTech innovation and financial literacy in sustainable financial inclusion in Nigeria](financial-inclusion-11.md)
+
+🌍 [Defeating the dark sides of FinTech](financial-inclusion-12.md)

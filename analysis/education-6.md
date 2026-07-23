@@ -3,7 +3,7 @@
 ## The role of acquaintances’ characteristics in shaping digital payment technology usage
 
 ### 1. Назва статті (APA Style)
-> Nyakurukwa, K., Seetharam, Y., & Chipeta, C. (2025). The role of acquaintances’ characteristics in shaping digital payment technology usage. *Finance Research Letters*, 76, Article 106976. https://doi.org/10.1016/j.frl.2024.106976
+> Nyakurukwa, K., Seetharam, Y., & Chipeta, C. (2025). The role of acquaintances’ characteristics in shaping digital payment technology usage. *Finance Research Letters*, 76(3), Article 106976. https://doi.org/10.1016/j.frl.2025.106976
 
 ### 2. Мета дослідження
 Проаналізувати, як характеристики соціального оточення (рівень освіти, дохід та статус зайнятості друзів, родини й колег) впливають на інтенсивність використання різних типів цифрових платіжних технологій. Дослідження фокусується не лише на факті прийняття фінтех-рішень, а й на частоті та інтенсивності їх застосування.

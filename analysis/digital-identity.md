@@ -1,5 +1,7 @@
 # 🪪 FinTech & Digital Identity
 ---
+### [← Назад до категорій](../Категорії.md)
+---
 🪪 [Blockchain for Smart Finance](digital-identity-1.md)
 
 🪪 [FinTech-Enabled Microfinance for Last-Mile Communities](digital-identity-2.md)

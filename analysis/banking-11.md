@@ -2,7 +2,7 @@
 
 ## Financial Technology, Sustainable Dimensions, and Economic Growth
 
-### 1. Метадані статті (APA Style)
+### 1. Назва статті (APA Style)
 > Qawqzeh, H. K., Irshoud, J., Qadorah, A. A. M., & Zureigat, B. N. (2025). Financial technology, sustainable dimensions, and economic growth of the developing countries: Evidence from the Middle East countries. *Corporate Governance and Sustainability Review*, 9(4), 125–134. [https://doi.org/10.22495/cgsrv9i4p11](https://doi.org/10.22495/cgsrv9i4p11)
 
 ### 2. Мета дослідження

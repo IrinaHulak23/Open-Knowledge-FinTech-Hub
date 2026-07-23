@@ -3,7 +3,7 @@
 ## Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era
 
 ### 1. Назва статті (APA Style)
-> Módosné Szalai, S., Jenei, S., & Németh, E. (2024). Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era. *Journal of Business Research* (or relevant publication context).
+> Módosné Szalai, S., Jenei, S., & Németh, E. (2025). Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era. *FinTech*, 4(4), 75. [https://doi.org/10.3390/fintech4040075](https://doi.org/10.3390/fintech4040075)
 
 ### 2. Мета дослідження
 Мета дослідження полягає у вивченні того, як об’єктивні фінансові знання (тестові результати) та суб’єктивна фінансова впевненість (самооцінка) взаємодіють між собою та пов’язані з цифровою фінансовою поведінкою, використанням фінтех-інструментів і сприйнятою фінансовою безпекою.

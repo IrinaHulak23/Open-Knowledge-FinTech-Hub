@@ -11,3 +11,5 @@
 🎓 [Demand and Supply-Side Determinants of Conditional Cash Transfer Program Effectiveness](education-4.md)
 
 🎓 [Reverse FinTech Socialisation: A Remedy for Financial Exclusion in the Digital Era](education-5.md)
+
+🎓 [The role of acquaintances’ characteristics in shaping digital payment technology usage](education-6.md)

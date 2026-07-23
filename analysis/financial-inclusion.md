@@ -11,3 +11,5 @@
 🌍 [Nurturing a FinTech ecosystem: The case of a youth microloan startup in China](financial-inclusion-4.md)
 
 🌍 [Childhood matters: Family education and financial inclusion](financial-inclusion-5.md)
+
+🌍 [Mobile money and entrepreneurship in East Africa: the mediating roles of digital savings and access to digital credit](financial-inclusion-6.md)

@@ -31,3 +31,5 @@
 🪪 [Towards a Universal Digital Identity: a blockchain-based framework for borderless verification](digital-identity-15.md)
 
 🪪 [Global Digital Identity Systems](digital-identity-16.md)
+
+🪪 [Digital Identity Verification in Finance](digital-identity-17.md)

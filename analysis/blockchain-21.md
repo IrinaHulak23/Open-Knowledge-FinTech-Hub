@@ -3,7 +3,7 @@
 ## The 51% Attack on Blockchains: A Mining Behavior Study
 
 ### 1. Назва статті (APA Style)
-Aponte-Novoa, F. A., Sandoval Orozco, A. L., Villanueva-Polanco, R., & Wightman, P. (2021). The 51% attack on blockchains: A mining behavior study. *IEEE Access*, 9, 140549–140564. https://doi.org/10.1109/ACCESS.2021.3119291
+> Aponte-Novoa, F. A., Sandoval Orozco, A. L., Villanueva-Polanco, R., & Wightman, P. (2021). The 51% attack on blockchains: A mining behavior study. *IEEE Access*, 9, 140549–140564. https://doi.org/10.1109/ACCESS.2021.3119291
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори проводять детальну характеристику майнерів у блокчейнах Bitcoin і Crypto Ethereum, щоб перевірити припущення про розподіл обчислювальної потужності та створити профілі, які можуть допомогти виявляти аномальну поведінку й запобігати атакам 51%.

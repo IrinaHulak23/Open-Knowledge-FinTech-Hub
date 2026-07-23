@@ -3,7 +3,7 @@
 ## The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions
 
 ### 1. Назва статті (APA Style)
-Sami, H., Hammoud, A., Arafeh, M., Wazzeh, M., Arisdakessian, S., Chahoud, M., Wehbi, O., Ajaj, M., Mourad, A., Otrok, H., Abdel Wahab, O., Mizouni, R., Bentahar, J., Talhi, C., Dziong, Z., Damiani, E., & Guizani, M. (2024). The metaverse: Survey, trends, novel pipeline ecosystem & future directions. *IEEE Communications Surveys & Tutorials*, 26(4), 2914–2960. https://doi.org/10.1109/COMST.2024.3392642
+> Sami, H., Hammoud, A., Arafeh, M., Wazzeh, M., Arisdakessian, S., Chahoud, M., Wehbi, O., Ajaj, M., Mourad, A., Otrok, H., Abdel Wahab, O., Mizouni, R., Bentahar, J., Talhi, C., Dziong, Z., Damiani, E., & Guizani, M. (2024). The metaverse: Survey, trends, novel pipeline ecosystem & future directions. *IEEE Communications Surveys & Tutorials*, 26(4), 2914–2960. https://doi.org/10.1109/COMST.2024.3392642
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори зазначають, що мета огляду — узагальнити наявні дослідження у структурований, послідовний спосіб і запропонувати екосистему pipeline для реалізації Metaverse, яка поєднує етапи розвитку, ключові технології та прикладні домени. Основна мета прямо сформульована як пропозиція Metaverse pipeline ecosystem, що складається з кількох етапів розвитку з інтеграцією enabling technologies and empowering domains.

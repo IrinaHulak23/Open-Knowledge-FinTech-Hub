@@ -3,7 +3,7 @@
 ## Digital Identity Verification in Finance
 
 ### 1. Назва статті (APA Style)
-Tabaku, E., & Duci, E. (2024). Digital Identity Verification in Finance. In *Proceedings of the 13th UBT Annual International Conference on Computer Science and Communication Engineering* (pp. 16–23). UBT. ISBN 978-9951-982-19-1
+Tabaku, E., & Duci, E. (2024). Digital Identity Verification in Finance. In *Proceedings of the 13th UBT Annual International Conference on Computer Science and Communication Engineering* (pp. 16–23). https://doi.org/10.33107/ubt-ic.2024.8
 
 ### 2. Мета дослідження
 Метою дослідження є комплексний огляд сучасних технологій цифрової верифікації ідентичності у банківському секторі, з особливою увагою до процесів KYC (Know Your Customer). Автори прагнуть проаналізувати, як машинне навчання, технологія 5G та блокчейн трансформують процеси верифікації, виявити їхні переваги та виклики, а також окреслити перспективи подальшого розвитку цифрової ідентичності у фінансовій сфері.

@@ -38,3 +38,5 @@
 ⚔️ [An investigation of dynamic connectedness between robotic, artificial intelligence development, and carbon risk by quantile spillovers](war-17.md)
 
 ⚔️ [A comparative analysis between FinTech and traditional stock markets: using Russia and Ukraine war data](war-18.md)
+
+⚔️ [Dynamic connectedness between FinTech innovation and energy volatility during the war in time of pandemic](war-19.md)

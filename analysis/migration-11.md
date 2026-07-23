@@ -3,7 +3,7 @@
 ## Financial behavior of Ukrainian migrants and internally displaced persons in wartime: Adaptation and personal finance strategies
 
 ### 1. Назва статті (APA Style)
-Polishchuk, Y., Tepliuk, M., Horbov, V., Ivashchenko, A., Tereshchenko, O., & Lavreniuk, V. (2024). Ukrainians in Poland and Ukraine: Is the war crisis able to change patterns of financial behaviour. *Financial and Credit Activity: Problems of Theory and Practice*, 4(57), 457-472. [https://doi.org/10.55643/fcaptp.4.57.2024.4414](https://doi.org/10.55643/fcaptp.4.57.2024.4414)
+> Polishchuk, Y., Tepliuk, M., Horbov, V., Ivashchenko, A., Tereshchenko, O., & Lavreniuk, V. (2024). Ukrainians in Poland and Ukraine: Is the war crisis able to change patterns of financial behaviour. *Financial and Credit Activity: Problems of Theory and Practice*, 4(57), 457-472. [https://doi.org/10.55643/fcaptp.4.57.2024.4414](https://doi.org/10.55643/fcaptp.4.57.2024.4414)
 
 ### 2. Мета дослідження
 Автори прагнуть з'ясувати, як повномасштабна війна змінила фінансові звички українців. Зокрема, дослідження порівнює дві групи людей: тих, хто змушений був переїхати в безпечніші регіони всередині України (ВПО), та тих, хто виїхав за кордон (мігранти до Польщі). Дослідники намагалися зрозуміти, як ці люди зараз планують свої витрати, чи заощаджують вони гроші, куди інвестують та наскільки активно використовують цифрові фінансові технології (фінтех) для виживання та адаптації.

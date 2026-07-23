@@ -1,6 +1,5 @@
 # 🌍 FinTech & Financial Inclusion
 ---
-
 ## Analysis of the determinants of financial inclusion in Central and West Africa
 
 ### 1. Назва статті (APA Style)

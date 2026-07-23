@@ -3,7 +3,7 @@
 ## Web3-Based Identity and KYC Innovations for Next-Generation FinTech
 
 ### 1. Назва статті (APA Style)
-Arshad, U., Tubaishat, A., Anwar, S., Halim, Z., Abualkishik, A., & Ullah, A. (2026). Web3-Based Identity and KYC Innovations for Next-Generation FinTech. *ACM Transactions on the Web*, 20(1), Article 10. https://doi.org/10.1145/3771991
+> Arshad, U., Tubaishat, A., Anwar, S., Halim, Z., Abualkishik, A., & Ullah, A. (2026). Web3-Based Identity and KYC Innovations for Next-Generation FinTech. *ACM Transactions on the Web*, 20(1), Article 10. https://doi.org/10.1145/3771991
 
 ### 2. Мета дослідження
 Метою дослідження є розробка та емпірична перевірка децентралізованої Web3-рамки ідентифікації для KYC-відповідності у FinTech, яка усуває фундаментальні вразливості централізованих систем зберігання персональних даних. Автори прагнуть довести, що поєднання блокчейну, самосуверенної ідентичності (SSI), верифікованих credentials (VCs), децентралізованих ідентифікаторів (DIDs) та доказів з нульовим розкриттям (ZKPs/zk-SNARKs) дозволяє одночасно забезпечити конфіденційність користувачів, автоматичне дотримання AML/GDPR-вимог та значне підвищення швидкості й вартісної ефективності KYC-процесів порівняно як з традиційними централізованими системами, так і з існуючими децентралізованими підходами.

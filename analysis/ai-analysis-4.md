@@ -3,7 +3,7 @@
 ##  Diversification in the age of the 4th industrial revolution: The role of artificial intelligence, green bonds and cryptocurrencies
 
 ### 1. Назва статті (APA Style)
-Huynh, T. L. D., Hille, E., & Nasir, M. A. (2020). Diversification in the age of the 4th industrial revolution: The role of artificial intelligence, green bonds and cryptocurrencies. *Technological Forecasting and Social Change*, 159, 120188. [https://doi.org/10.1016/j.techfore.2020.120188](https://doi.org/10.1016/j.techfore.2020.120188)
+> Huynh, T. L. D., Hille, E., & Nasir, M. A. (2020). Diversification in the age of the 4th industrial revolution: The role of artificial intelligence, green bonds and cryptocurrencies. *Technological Forecasting and Social Change*, 159, 120188. [https://doi.org/10.1016/j.techfore.2020.120188](https://doi.org/10.1016/j.techfore.2020.120188)
 
 ### 2. Мета дослідження
 Дослідити, як новітні активи епохи 4-ї промислової революції (акції компаній зі сфери штучного інтелекту, «зелені» облігації та криптовалюти) можуть використовувалися для диверсифікації інвестиційного портфеля та зниження загального рівня ризику.

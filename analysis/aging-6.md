@@ -3,7 +3,7 @@
 ## Age-dependent differences in using FinTech products and services—Young customers versus other adults
 
 ### 1. Назва статті (APA Style)
-Krupa, D., & Buszko, M. (2023). Age-dependent differences in using FinTech products and services—Young customers versus other adults. *PLOS ONE*, 18(10), e0293470. [https://doi.org/10.1371/journal.pone.0293470](https://doi.org/10.1371/journal.pone.0293470)
+> Krupa, D., & Buszko, M. (2023). Age-dependent differences in using FinTech products and services—Young customers versus other adults. *PLOS ONE*, 18(10), e0293470. [https://doi.org/10.1371/journal.pone.0293470](https://doi.org/10.1371/journal.pone.0293470)
 
 ### 2. Мета дослідження
 Визначити та оцінити відмінності у ставленні до використання фінтех-продуктів і послуг між двома віковими групами в Польщі: молодими клієнтами, народженими не раніше 1990 року, та іншими дорослими користувачами. Автори прагнули з’ясувати, чи покоління, яке зростало в умовах ринкової економіки та цифровізації, поводиться інакше у використанні FinTech, ніж старші покоління.

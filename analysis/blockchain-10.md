@@ -3,7 +3,7 @@
 ## Banking Beyond Banks and Money: A Guide to Banking Services in the Twenty-First Century
 
 ### 1. Назва статті (APA Style)
-Tasca, P., Aste, T., Pelizzon, L., & Perony, N. (Eds.). (2016). *Banking beyond banks and money: A guide to banking services in the twenty-first century*. Springer. https://doi.org/10.1007/978-3-319-42448-4
+> Tasca, P., Aste, T., Pelizzon, L., & Perony, N. (Eds.). (2016). *Banking beyond banks and money: A guide to banking services in the twenty-first century*. Springer. https://doi.org/10.1007/978-3-319-42448-4
 
 ### 2. Мета дослідження
 Мета джерела у формулюванні книги: книга має на меті показати технологічну революцію у банківській справі та фінансах з різних позицій: науковців, підприємців, политиків і практиків. У вступі прямо зазначено, що нові технології трансформують економічні системи, а децентралізовані однорангові технології створюють нову економіку, де фінансові послуги можуть надаватися поза традиційними банками.

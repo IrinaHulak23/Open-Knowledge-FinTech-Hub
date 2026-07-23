@@ -3,7 +3,7 @@
 ## Transformation of the Transaction Cost and the Agency Cost in an Organization and the Applicability of Blockchain—A Case Study of Peer-to-Peer Insurance
 
 ### 1. Назва статті (APA Style)
-Sun, R.-T., Garimella, A., Han, W., Chang, H.-L., & Shaw, M. J. (2020). Transformation of the transaction cost and the agency cost in an organization and the applicability of blockchain—A case study of peer-to-peer insurance. *Frontiers in Blockchain*, 3, Article 24. [https://doi.org/10.3389/fbloc.2020.00024](https://doi.org/10.3389/fbloc.2020.00024)
+> Sun, R.-T., Garimella, A., Han, W., Chang, H.-L., & Shaw, M. J. (2020). Transformation of the transaction cost and the agency cost in an organization and the applicability of blockchain—A case study of peer-to-peer insurance. *Frontiers in Blockchain*, 3, Article 24. [https://doi.org/10.3389/fbloc.2020.00024](https://doi.org/10.3389/fbloc.2020.00024)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори досліджують, як упровадження блокчейну змінює трансакційні витрати та агентські витрати організації. Вони використовують ці дві економічні теорії, щоб оцінити, коли блокчейн справді є корисним для бізнес-процесів, а коли його застосування може бути перебільшеним.

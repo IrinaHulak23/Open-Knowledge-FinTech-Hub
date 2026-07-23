@@ -3,7 +3,7 @@
 ## FinTech Ecosystem and Entrepreneurial Intentions in Tunisia
 
 ### 1. Назва статті (APA Style)
-Festa, G., Elbahri, S., Cuomo, M. T., Ossorio, M., & Rossi, M. (2022). FinTech ecosystem as influencer of young entrepreneurial intentions: empirical findings from Tunisia. *Journal of Intellectual Capital*, 23(7), 131–158. https://doi.org/10.1108/JIC-08-2021-0220
+> Festa, G., Elbahri, S., Cuomo, M. T., Ossorio, M., & Rossi, M. (2022). FinTech ecosystem as influencer of young entrepreneurial intentions: empirical findings from Tunisia. *Journal of Intellectual Capital*, 23(7), 131–158. https://doi.org/10.1108/JIC-08-2021-0220
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з’ясувати, чи може FinTech-екосистема впливати на підприємницькі наміри молодих людей у Тунісі як прикладі країни з економікою, що розвивається. Автори аналізують не FinTech загалом, а конкретні його елементи: crowdfunding, mobile payment і blockchain, щоб зрозуміти, чи стимулюють вони молодих підприємців створювати або розвивати бізнес.
@@ -18,7 +18,7 @@ Festa, G., Elbahri, S., Cuomo, M. T., Ossorio, M., & Rossi, M. (2022). FinTech e
 * Визначити значення підприємницької освіти, сприятливого регіону та статі для підприємницьких намірів.
 * Пояснити, як FinTech сприяє накопиченню інтелектуального капіталу.
 
-### 4. Характеристика вибірки / джерельної бази
+### 4. Характеристика вибірки
 Вибірка складається з 93 респондентів — молодих туніських підприємців або потенційних підприємців, пов’язаних із Junior Chamber International у Тунісі.
 * **Збір даних:** Онлайн-опитування через Google Forms у період з квітня до липня 2020 року.
 * **Стать і вік:** 78,5% чоловіків і 21,5% жінок. Найбільша вікова група — 25–29 років (58,1%); молодші за 25 років — 17,2%; 35–45 років — 14%; старші за 45 років — 8,6%.

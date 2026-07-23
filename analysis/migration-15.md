@@ -3,7 +3,7 @@
 ## Remittances and natural disasters: Ex-post response and contribution to ex-ante preparedness
 
 ### 1. Назва статті (APA Style)
-Mohapatra, S., Joseph, G., & Ratha, D. (2012). Remittances and natural disasters: Ex-post response and contribution to ex-ante preparedness. *Environmental Development and Sustainability*, 14(3), 365–387. [https://doi.org/10.1007/s10668-011-9330-8](https://doi.org/10.1007/s10668-011-9330-8)
+> Mohapatra, S., Joseph, G., & Ratha, D. (2012). Remittances and natural disasters: Ex-post response and contribution to ex-ante preparedness. *Environmental Development and Sustainability*, 14(3), 365–387. [https://doi.org/10.1007/s10668-011-9330-8](https://doi.org/10.1007/s10668-011-9330-8)
 
 ### 2. Мета дослідження
 Автори прагнуть комплексно дослідити подвійну роль грошових переказів від міжнародних мігрантів: як вони допомагають постраждалим домогосподарствам справлятися з наслідками природних катастроф одразу після їхнього настання (*ex-post*) та як ці фінансові надходження сприяють зміцненню стійкості й підготовці до майбутніх катаклізмів (*ex-ante*).

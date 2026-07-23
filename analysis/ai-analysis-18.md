@@ -3,7 +3,7 @@
 ##  Explainable AI in Fintech Risk Management
 
 ### 1. Назва статті (APA Style)
-Bussmann, N., Giudici, P., Marinelli, D., & Papenbrock, J. (2020). Explainable AI in Fintech Risk Management. *Frontiers in Artificial Intelligence*, 3, 26. [https://doi.org/10.1007/s00146-021-01161-9](https://doi.org/10.1007/s00146-021-01161-9)
+> Bussmann, N., Giudici, P., Marinelli, D., & Papenbrock, J. (2020). Explainable AI in Fintech Risk Management. *Frontiers in Artificial Intelligence*, 3, 26. [https://doi.org/10.1007/s00146-021-01161-9](https://doi.org/10.1007/s00146-021-01161-9)
 
 ### 2. Мета дослідження
 Розробити модель «пояснюваного штучного інтелекту» (Explainable AI — XAI), яка дозволяє фінансовим організаціям не лише точно прогнозувати кредитні ризики (наприклад, ймовірність дефолту у P2P-кредитуванні), а й прозоро інтерпретувати, чому саме алгоритм прийняв таке рішення.

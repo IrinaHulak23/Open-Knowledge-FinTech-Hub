@@ -13,3 +13,5 @@
 🌍 [Childhood matters: Family education and financial inclusion](financial-inclusion-5.md)
 
 🌍 [Mobile money and entrepreneurship in East Africa: the mediating roles of digital savings and access to digital credit](financial-inclusion-6.md)
+
+🌍 [From access to impact: How digital financial inclusion drives sustainable development](financial-inclusion-7.md)

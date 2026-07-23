@@ -19,3 +19,5 @@
 🪪 [Aid Nexus: A Blockchain-Based Financial Distribution System](digital-identity-9.md)
 
 🪪 [Web3-Based Identity and KYC Innovations for Next-Generation FinTech](digital-identity-10.md)
+
+🪪 [A Blockchain-Based Distributed Network for Secure Credit Scoring](digital-identity-11.md)

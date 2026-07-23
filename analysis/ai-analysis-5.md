@@ -3,7 +3,7 @@
 ##  Dynamic effect of Bitcoin, fintech and artificial intelligence stocks on eco-friendly assets, Islamic stocks and conventional financial markets: Another look using quantile-based approaches
 
 ### 1. Назва статті (APA Style)
-Abakah, E. J. A., Tiwari, A. K., Ghosh, S., & Doğan, B. (2023). Dynamic effect of Bitcoin, fintech and artificial intelligence stocks on eco-friendly assets, Islamic stocks and conventional financial markets: Another look using quantile-based approaches. *Technological Forecasting and Social Change*, 192, 122566. [https://doi.org/10.1016/j.techfore.2023.122566](https://doi.org/10.1016/j.techfore.2023.122566)
+> Abakah, E. J. A., Tiwari, A. K., Ghosh, S., & Doğan, B. (2023). Dynamic effect of Bitcoin, fintech and artificial intelligence stocks on eco-friendly assets, Islamic stocks and conventional financial markets: Another look using quantile-based approaches. *Technological Forecasting and Social Change*, 192, 122566. [https://doi.org/10.1016/j.techfore.2023.122566](https://doi.org/10.1016/j.techfore.2023.122566)
 
 ### 2. Мета дослідження
 Дослідити інвестиційну роль новітніх технологічних активів (біткоїн, акції фінтех-компаній та штучного інтелекту) та з'ясувати їхній динамічний взаємозв'язок (передбачуваність) з екологічними активами (зелені облігації, чиста енергетика, сталий розвиток), ісламськими акціями та традиційними фінансовими ринками.

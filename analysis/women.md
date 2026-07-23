@@ -33,3 +33,5 @@
 👩 [Assessing the implementation and impact of inclusivity and accessibility in the free state south african banking sector](women-15.md)
 
 👩 [Exchange rate policy and nigeria's economic growth: A granger causality impact assessment](women-16.md)
+
+👩 [The impact of FinTech start-ups on incumbent retail banks’ share prices](women-17.md)

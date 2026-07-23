@@ -3,7 +3,7 @@
 ## Financial technology as a tool to enhance financial consumer protection and reduce defaults on personal loans: to achieve financial inclusion and sustainable development in Jordan
 
 ### 1. Назва статті (APA Style)
-AlBataineh, A. F. (2026). Financial technology as a tool to enhance financial consumer protection and reduce defaults on personal loans: to achieve financial inclusion and sustainable development in Jordan. *Journal of Innovation and Entrepreneurship*, 15(8). [https://doi.org/10.1186/s13731-026-00620-1](https://doi.org/10.1186/s13731-026-00620-1)
+> AlBataineh, A. F. (2026). Financial technology as a tool to enhance financial consumer protection and reduce defaults on personal loans: to achieve financial inclusion and sustainable development in Jordan. *Journal of Innovation and Entrepreneurship*, 15(8). [https://doi.org/10.1186/s13731-026-00620-1](https://doi.org/10.1186/s13731-026-00620-1)
 
 ### 2. Мета дослідження
 Перевірити, як фінансові технології впливають на фінансову інклюзію та сталий розвиток у Йорданії, а також з’ясувати, яку роль у цьому процесі відіграють захист фінансових споживачів і зменшення дефолтів за персональними кредитами. Автор прагне показати, що фінтех може бути не лише інструментом розширення доступу до фінансових послуг, але й джерелом нових ризиків, якщо його розвиток не супроводжується належним регулюванням.

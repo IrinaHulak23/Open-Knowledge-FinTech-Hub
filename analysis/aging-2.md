@@ -3,7 +3,7 @@
 ## Bridging the gap: AI-powered FinTech and its impact on financial inclusion and financial well-being
 
 ### 1. Назва статті (APA Style)
-Sharma, V., & Priya, B. (2025). Bridging the gap: AI-powered FinTech and its impact on financial inclusion and financial well-being. *Discover Artificial Intelligence*, 5, 290. [https://doi.org/10.1007/s44163-025-00465-9](https://doi.org/10.1007/s44163-025-00465-9)
+> Sharma, V., & Priya, B. (2025). Bridging the gap: AI-powered FinTech and its impact on financial inclusion and financial well-being. *Discover Artificial Intelligence*, 5, 290. [https://doi.org/10.1007/s44163-025-00465-9](https://doi.org/10.1007/s44163-025-00465-9)
 
 ### 2. Мета дослідження
 З’ясувати, якою мірою AI-функції у фінтех-сервісах та усвідомлене використання ІТ впливають на фінансову інклюзію, фінансовий добробут користувачів і сприйняття якості фінансових послуг. Автори прагнуть показати, як штучний інтелект, технологічна й фінансова впевненість, технофобія та ризики приватності формують готовність користувачів взаємодіяти з фінтех-додатками.

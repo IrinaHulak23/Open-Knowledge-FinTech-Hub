@@ -3,7 +3,7 @@
 ## The medium is the message: The geographies of cryptocurrency remittances to Venezuela
 
 ### 1. Назва статті (APA Style)
-Robins, D. (2024). The medium is the message: The geographies of cryptocurrency remittances to Venezuela. *Transactions of the Institute of British Geographers*, 50(3), 1–15. [https://doi.org/10.1111/tran.12734](https://doi.org/10.1111/tran.12734)
+> Robins, D. (2024). The medium is the message: The geographies of cryptocurrency remittances to Venezuela. *Transactions of the Institute of British Geographers*, 50(3), 1–15. [https://doi.org/10.1111/tran.12734](https://doi.org/10.1111/tran.12734)
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб емпірично вивчити, як насправді функціонують грошові перекази у формі криптовалюти у повсякденному житті мігрантів та їхніх родин. Автор прагне розвінчати ідеологічні міфи як прихильників криптовалют (які бачать у них повну свободу від посередників), так і їхніх критиків, показавши реальні географічні, правові та соціальні бар'єри, з якими стикаються люди в умовах глибокої економічної кризи.

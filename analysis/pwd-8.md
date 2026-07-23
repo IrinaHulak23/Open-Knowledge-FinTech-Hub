@@ -3,7 +3,7 @@
 ## Reinventing the future of financial technologies with autistic adults
 
 ### 1. Назва статті (APA Style)
-Lyhme, H. M. (2025). Reinventing the future of financial technologies with autistic adults. In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25)* (Article 3707614, pp. 1–5). ACM. [https://doi.org/10.1145/3706599.3707614](https://doi.org/10.1145/3706599.3707614)
+> Lyhme, H. M. (2025). Reinventing the future of financial technologies with autistic adults. In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25)* (Article 3707614, pp. 1–5). ACM. [https://doi.org/10.1145/3706599.3707614](https://doi.org/10.1145/3706599.3707614)
 
 ### 2. Мета дослідження
 Дослідити, наскільки сучасні фінансові технології відповідають потребам дорослих аутистів, виявити фактори, що поглиблюють фінансову виключеність, та залучити аутистів до партисипативного дизайну для розробки альтернативних підходів.

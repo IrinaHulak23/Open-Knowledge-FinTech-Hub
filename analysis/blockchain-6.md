@@ -3,7 +3,7 @@
 ## Peer-to-Peer Energy and Carbon Trading Framework
 
 ### 1. Назва статті (APA Style)
-Hua, W., Jiang, J., Sun, H., & Wu, J. (2020). A blockchain based peer-to-peer trading framework integrating energy and carbon markets. *Applied Energy*, 279, Article 115539. [https://doi.org/10.1016/j.apenergy.2020.115539](https://doi.org/10.1016/j.apenergy.2020.115539)
+> Hua, W., Jiang, J., Sun, H., & Wu, J. (2020). A blockchain based peer-to-peer trading framework integrating energy and carbon markets. *Applied Energy*, 279, Article 115539. [https://doi.org/10.1016/j.apenergy.2020.115539](https://doi.org/10.1016/j.apenergy.2020.115539)
 
 ### 2. Мета дослідження
 Автори пропонують систему прямої торгівлі між учасниками на основі блокчейну, яка поєднує торгівлю електроенергією та дозволами на викиди вуглецю. У цій системі смарт-контракт автоматизує аукціон, а ціни купівлі й продажу мають стимулювати учасників змінювати виробництво та споживання енергії так, щоб досягати локального енергетичного балансу і зменшувати викиди CO₂.

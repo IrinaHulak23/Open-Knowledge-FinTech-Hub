@@ -3,7 +3,7 @@
 ## Customers' intentions to switch to internet-only banks: Perspective of the push-pull-mooring model
 
 ### 1. Назва статті (APA Style)
-Yoon, C., & Lim, D. (2021). Customers' intentions to switch to internet-only banks: Perspective of the push-pull-mooring model. *Sustainability*, 13(14), 8062. [https://doi.org/10.3390/su13148062](https://doi.org/10.3390/su13148062)
+> Yoon, C., & Lim, D. (2021). Customers' intentions to switch to internet-only banks: Perspective of the push-pull-mooring model. *Sustainability*, 13(14), 8062. [https://doi.org/10.3390/su13148062](https://doi.org/10.3390/su13148062)
 
 ### 2. Мета дослідження
 Мета дослідження — визначити та проаналізувати чинники, які спонукають користувачів традиційних банків змінювати їх на виключно цифрові (інтернет-банки), які не мають фізичних відділень. Автори прагнуть з'ясувати, як саме взаємодіють негативні фактори поточного банку, привабливі риси нового інтернет-банку та індивідуальні бар'єри (або звички) клієнта у процесі прийняття рішення про такий перехід.

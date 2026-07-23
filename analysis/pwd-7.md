@@ -3,7 +3,7 @@
 ## Advocacy as access work: How people with visual impairments gain access to digital banking in India
 
 ### 1. Назва статті (APA Style)
-Kameswaran, V., Vidhya, Y., & Marathe, M. (2023). Advocacy as access work: How people with visual impairments gain access to digital banking in India. *Proceedings of the ACM on Human-Computer Interaction*, 7(CSCW1), Article 120, 1–23. [https://doi.org/10.1145/3579596](https://doi.org/10.1145/3579596)
+> Kameswaran, V., Vidhya, Y., & Marathe, M. (2023). Advocacy as access work: How people with visual impairments gain access to digital banking in India. *Proceedings of the ACM on Human-Computer Interaction*, 7(CSCW1), Article 120, 1–23. [https://doi.org/10.1145/3579596](https://doi.org/10.1145/3579596)
 
 ### 2. Мета дослідження
 Вивчити виклики людей з вадами зору в Індії при отриманні доступу до цифрового банкінгу, виявити адвокаційну роботу, яку вони виконують для подолання цих викликів, та розширити поняття «адвокаційна робота» як форми «доступової роботи».

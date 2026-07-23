@@ -16,3 +16,5 @@
 ⚔️ [Dynamic connectedness, spillover, and optimal hedging strategy among FinTech, Sukuk, and Islamic equity markets](war-6.md)
 
 ⚔️ [Effect of Russia-Ukraine war sentiment on blockchain and FinTech stocks](war-7.md)
+
+⚔️ [Dynamic connectedness between FinTech and energy markets: Evidence from fat tails, serial dependence, and Bayesian approach](war-8.md)

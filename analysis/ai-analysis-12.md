@@ -3,7 +3,7 @@
 ## Big data management algorithms in artificial Internet of Things-based fintech
 
 ### 1. Назва статті (APA Style)
-Andronie, M., Iatagan, M., Uță, C., Hurloiu, I., Dijmărescu, A., & Dijmărescu, I. (2023). Big data management algorithms in artificial Internet of Things-based fintech. *Oeconomia Copernicana*, 14(3), 769-793. [https://doi.org/10.24136/oc.2023.023](https://doi.org/10.24136/oc.2023.023)
+> Andronie, M., Iatagan, M., Uță, C., Hurloiu, I., Dijmărescu, A., & Dijmărescu, I. (2023). Big data management algorithms in artificial Internet of Things-based fintech. *Oeconomia Copernicana*, 14(3), 769-793. [https://doi.org/10.24136/oc.2023.023](https://doi.org/10.24136/oc.2023.023)
 
 ### 2. Мета дослідження
 Довести, що впровадження фінансових технологій на базі штучного інтелекту (ШІ) та Інтернету речей (IoT) дозволяє знизити транзакційні витрати, зменшити інформаційну асиметрію та оптимізувати ліквідність компаній на ринках капіталу, тим самим зменшуючи їхню залежність від надмірних боргів.

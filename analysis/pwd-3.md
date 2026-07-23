@@ -3,7 +3,7 @@
 ## Islamic financial literacy and financial inclusion among persons with disabilities in Kano State: A socioeconomic analysis
 
 ### 1. Назва статті (APA Style)
-Shehu, F. M. (2025). Islamic financial literacy and financial inclusion among persons with disabilities in Kano State: A socioeconomic analysis. *Indonesian Journal of Disability Studies*, 12(1), 1–14. [https://ijidjournal.org/index.php/ijid/article/view/953](https://ijidjournal.org/index.php/ijid/article/view/953)
+> Shehu, F. M. (2025). Islamic financial literacy and financial inclusion among persons with disabilities in Kano State: A socioeconomic analysis. *Indonesian Journal of Disability Studies*, 12(1), 1–14. [https://ijidjournal.org/index.php/ijid/article/view/953](https://ijidjournal.org/index.php/ijid/article/view/953)
 
 ### 2. Мета дослідження
 Дослідити зв'язок між ісламською фінансовою грамотністю та фінансовою інклюзією осіб з інвалідністю (PWDs) у штаті Кано (Нігерія), а також виявити бар'єри, які заважають їм отримувати доступ до фінансових послуг, що відповідають нормам шаріату.

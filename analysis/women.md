@@ -7,3 +7,5 @@
 👩 [Factors influencing fintech adoption for women in the post-covid-19 pandemic](women-2.md)
 
 👩 [Digital micro-savings behaviour among women entrepreneurs: Implications for SDG 5 and SDG 8](women-3.md)
+
+👩 [Financial performance of female MSME actors: The role of digital financial literacy and financial technology by mediating financial inclusion](women-4.md)

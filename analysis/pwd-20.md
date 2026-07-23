@@ -3,7 +3,7 @@
 ## Expanding banks' customer base through the adaptation of digital interfaces for low-mobility population groups
 
 ### 1. Назва статті (APA Style)
-Sylvonychyk, K. (2025). Expanding banks' customer base through the adaptation of digital interfaces for low-mobility population groups. *Economics*, 12(3), 1–13. [https://doi.org/10.5281/zenodo.18798532](https://doi.org/10.5281/zenodo.18798532)
+> Sylvonychyk, K. (2025). Expanding banks' customer base through the adaptation of digital interfaces for low-mobility population groups. *Economics*, 12(3), 1–13. [https://doi.org/10.5281/zenodo.18798532](https://doi.org/10.5281/zenodo.18798532)
 
 ### 2. Мета дослідження
 Обґрунтувати адаптацію цифрових банківських інтерфейсів для подолання візуальних, когнітивних та поведінкових бар'єрів маломобільних груп населення з метою розширення клієнтської бази банків.

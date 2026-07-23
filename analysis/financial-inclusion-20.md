@@ -3,7 +3,7 @@
 ## Sharia fintech in the digital age: Human rights in sharia fintech through criminal law safeguards
 
 ### 1. Назва статті (APA Style)
-> Hartati, S. Y., Kontesa, E., & Baskara, A. (2023). Sharia fintech in the digital age: Human rights in sharia fintech through criminal law safeguards. *Indonesian Journal of Criminal Law Studies*, 8(2), 289–314. https://doi.org/10.15294/ijcls.v8i2.48833
+> Hartati, S. Y., Kontesa, E., & Baskara, A. (2023). Sharia fintech in the digital age: Human rights in sharia fintech through criminal law safeguards. *Indonesian Journal of Criminal Law Studies*, 8(2), 289–314. https://doi.org/10.15294/ijcls.v8i2.48678
 
 ### 2. Мета дослідження
 Метою даного дослідження є аналіз того, як розвиток Sharia FinTech впливає на права людини в умовах цифровізації, четвертої індустріальної революції (Industrial Revolution 4.0) та концепції Society 5.0. Автори розглядають Sharia FinTech не лише як фінансову інновацію, а як інструмент забезпечення фінансової інклюзії, соціальної справедливості та захисту економічних прав, який водночас потребує надійних кримінально-правових гарантій.

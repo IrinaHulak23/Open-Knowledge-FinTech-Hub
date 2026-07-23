@@ -3,7 +3,7 @@
 ## RegTech: Building a Better Financial System
 
 ### 1. Назва статті (APA Style)
-Arner, D. W., Barberis, J., & Buckley, R. P. (2018). RegTech: Building a Better Financial System. In D. L. K. Chuen & R. Deng (Eds.), *Handbook of Blockchain, Digital Finance, and Inclusion, Volume 1* (pp. 359–373). Elsevier. https://doi.org/10.1016/B978-0-12-810441-5.00016-6
+> Arner, D. W., Barberis, J., & Buckley, R. P. (2018). RegTech: Building a Better Financial System. In D. L. K. Chuen & R. Deng (Eds.), *Handbook of Blockchain, Digital Finance, and Inclusion, Volume 1* (pp. 359–373). Elsevier. https://doi.org/10.1016/B978-0-12-810441-5.00016-6
 
 ### 2. Мета дослідження
 Концептуальне обґрунтування RegTech як самостійного та стратегічно важливого напряму розвитку фінансового регулювання, що виходить за межі простого інструменту автоматизації відповідності вимогам. Автори прагнуть довести, що RegTech — це не підмножина FinTech, а окрема еволюційна сила, здатна спричинити парадигмальний зсув у підходах до фінансового нагляду. Зокрема, стаття обґрунтовує перехід від принципу «Знай свого клієнта» (KYC) до принципу «Знай свої дані» (KYD) як основу нової регуляторної архітектури цифрової епохи.

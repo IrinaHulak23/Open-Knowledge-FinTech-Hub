@@ -3,7 +3,7 @@
 ## Emigration and welfare in an economy with foreign capital
 
 ### 1. Назва статті (APA Style)
-Djajić, S. (1998). Emigration and welfare in an economy with foreign capital. *Journal of Development Economics*, 56(2), 433-445. [https://doi.org/10.1016/S0304-3878(98)00073-X](https://doi.org/10.1016/S0304-3878\(98\)00073-X)
+> Djajić, S. (1998). Emigration and welfare in an economy with foreign capital. *Journal of Development Economics*, 56(2), 433-445. [https://doi.org/10.1016/S0304-3878(98)00073-X](https://doi.org/10.1016/S0304-3878\(98\)00073-X)
 
 ### 2. Мета дослідження
 Автор прагне з'ясувати, як еміграція (виїзд робочої сили за кордон) впливає на економічний добробут тих громадян, які залишилися в країні, якщо в цій країні активно використовується іноземний капітал. Окрім цього, мета полягає у визначенні того, як грошові перекази мігрантів (ремітенси) впливають на добробут залишенців залежно від того, на що вони витрачаються — на споживання чи на інвестиції (накопичення капіталу).

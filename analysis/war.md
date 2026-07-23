@@ -24,3 +24,5 @@
 ⚔️ [The impact of Covid-19 and Russia–Ukraine war on the financial asset volatility: Evidence from equity, cryptocurrency and alternative assets](war-10.md)
 
 ⚔️ [Digital loans and buy now pay later from LendTech versus bank loans in the era of ‘black swans’: Complementarity in the area of consumer financing](war-11.md)
+
+⚔️ [Comparative investment decisions in emerging textile and FinTech industries in India using GARCH models with high-frequency data](war-12.md)

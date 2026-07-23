@@ -3,7 +3,7 @@
 ## Financial technology, population aging, and corporate innovation
 
 ### 1. Назва статті (APA Style)
-Guo, J., Yu, J., & Tian, Z. (2025). Financial technology, population aging, and corporate innovation. *International Review of Financial Analysis*, 100, 103956. https://doi.org/10.1016/j.irfa.2025.103956
+> Guo, J., Yu, J., & Tian, Z. (2025). Financial technology, population aging, and corporate innovation. *International Review of Financial Analysis*, 100, 103956. https://doi.org/10.1016/j.irfa.2025.103956
 
 ### 2. Мета дослідження
 Мета статті полягає у з’ясуванні того, як фінансові технології та старіння населення впливають на корпоративні інновації, а також як ці два фактори взаємодіють між собою. Автори прагнуть визначити, чи здатен розвиток fintech посилювати інноваційну активність компаній, чи навпаки демографічне старіння послаблює цей позитивний ефект.
@@ -18,7 +18,7 @@ Guo, J., Yu, J., & Tian, Z. (2025). Financial technology, population aging, and 
 * Проаналізувати, чи старіння населення стримує інновації через зростання витрат на працю.
 * З’ясувати, чи інвестиції в освітні ресурси можуть послабити негативний вплив старіння населення.
 
-### 4. Характеристика вибірки / джерельної бази
+### 4. Характеристика вибірки 
 Дослідження базується на поєднанні міських і корпоративних даних Китаю за 2011–2022 роки. Джерелами даних є CSMAR, China Research Data Service Platform, Державне відомство інтелектуальної власності Китаю та Digital Finance Research Center Пекінського університету. Після очищення вибірки отримано 15 381 спостереження.
 
 ### 5. Методологія дослідження

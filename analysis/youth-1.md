@@ -3,7 +3,7 @@
 ## Social influence and performance expectancy as drivers of Buy Now Pay Later adoption: Evidence from Generation Z consumers in Malaysia
 
 ### 1. Назва статті (APA Style)
-Lim, Y. S., Ng, T. H., & Lee, M. S. (2026). Social influence and performance expectancy as drivers of Buy Now Pay Later adoption: Evidence from Generation Z consumers in Malaysia. *Journal of Logistics, Informatics and Service Science*, 13(1), 20–32. https://doi.org/10.33168/JLISS.2026.0102
+> Lim, Y. S., Ng, T. H., & Lee, M. S. (2026). Social influence and performance expectancy as drivers of Buy Now Pay Later adoption: Evidence from Generation Z consumers in Malaysia. *Journal of Logistics, Informatics and Service Science*, 13(1), 20–32. https://doi.org/10.33168/JLISS.2026.0102
 
 ### 2. Мета дослідження
 Мета дослідження полягає у з’ясуванні того, які чинники впливають на намір споживачів покоління Z у Малайзії користуватися сервісами Buy Now Pay Later (BNPL). Автори прагнуть зрозуміти роль користі, зручності, соціального середовища, простоти використання та безпеки.

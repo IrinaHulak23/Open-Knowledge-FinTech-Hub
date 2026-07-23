@@ -9,3 +9,5 @@
 🪪 [The Role of Digital Identity (e-KYC) in Expanding Microfinance Access](digital-identity-4.md)
 
 🪪 [Digital Identity in India](digital-identity-5.md)
+
+🪪 [Fear of Missing Out and the Future of Facial Recognition Payments in the Blue Economy](digital-identity-6.md)

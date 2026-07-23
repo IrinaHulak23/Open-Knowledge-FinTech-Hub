@@ -10,3 +10,5 @@
 ⚔️ [A multi-dimensional FinTech composite integrating infrastructure, access, usage, knowledge transfer, and governance-by-technology: The role of digital silk road policy in BRI economies](war-3.md)
 
 ⚔️ [Natural resource trade and financial technology as drivers of inclusive green growth in Belt and Road initiative countries](war-4.md)
+
+⚔️ [Risk transmission and interconnectedness between Fintech and oil-exporting markets during global crises](war-5.md)

@@ -3,7 +3,7 @@
 ## A Blockchain-Based Distributed Network for Secure Credit Scoring
 
 ### 1. Назва статті (APA Style)
-Jain, N., Agrawal, T., Goyal, P., & Hassija, V. (2019). A Blockchain-Based Distributed Network for Secure Credit Scoring. In *Proceedings of the 5th IEEE International Conference on Signal Processing, Computing and Control (ISPCC 2k19)* (pp. 306–312). IEEE. https://doi.org/10.1109/ISPCC48220.2019.8988392
+> Jain, N., Agrawal, T., Goyal, P., & Hassija, V. (2019). A Blockchain-Based Distributed Network for Secure Credit Scoring. In *Proceedings of the 5th IEEE International Conference on Signal Processing, Computing and Control (ISPCC 2k19)* (pp. 306–312). IEEE. https://doi.org/10.1109/ISPCC48220.2019.8988392
 
 ### 2. Мета дослідження
 Метою дослідження є розробка концептуальної рамки блокчейн-системи «Bit-Score», яка вирішує дві взаємопов'язані проблеми традиційного кредитного скорингу: (1) забезпечення справедливого та неупередженого доступу до кредитування для осіб, позбавлених базових фінансових послуг, — зокрема мешканців сільських районів та людей без банківських рахунків; (2) ефективна цифрова верифікація особистості позичальника. Автори прагнуть замінити вразливі до зломів централізовані кредитні бюро (на кшталт Equifax, злом якого у 2017 році скомпрометував дані 143 млн клієнтів) на розподілений блокчейн-реєстр, що поєднує захищену цифрову ідентичність з розширеною моделлю кредитного скорингу, яка враховує нефінансові фактори.

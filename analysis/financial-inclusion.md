@@ -37,3 +37,5 @@
 🌍 [Adopting FinTech to promote financial inclusion](financial-inclusion-17.md)
 
 🌍 [FinTech and financial inclusion in emerging and developing economies](financial-inclusion-18.md)
+
+🌍 [Assessing the quality of financial technology patents through the development of a patent quality index](financial-inclusion-19.md)

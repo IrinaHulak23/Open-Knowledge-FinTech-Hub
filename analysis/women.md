@@ -17,3 +17,5 @@
 👩 [AI for women’s financial inclusion—analysis of product design and policy approaches in Nigeria](women-7.md)
 
 👩 [Assessing the impact of mobile money on improving the financial inclusion of Nairobi women](women-8.md)
+
+👩 [Gender impact on customer satisfaction and loyalty in Vietnam’s FinTech-enabled banking services](women-9.md)

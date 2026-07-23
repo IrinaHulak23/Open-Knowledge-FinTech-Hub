@@ -33,3 +33,5 @@
 🪪 [Global Digital Identity Systems](digital-identity-16.md)
 
 🪪 [Digital Identity Verification in Finance](digital-identity-17.md)
+
+🪪 [Investigating the State of Blockchain Adoption in the South African Finance Industry](digital-identity-18.md)

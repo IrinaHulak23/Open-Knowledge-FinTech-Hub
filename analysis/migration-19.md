@@ -3,7 +3,7 @@
 ## Remittance micro-worlds and migrant infrastructure: Circulations, disruptions, and the movement of money
 
 ### 1. Назва статті (APA Style)
-Cirolia, L. R., Hall, S., & Nyamnjoh, H. (2021). Remittance micro-worlds and migrant infrastructure: Circulations, disruptions, and the movement of money. *Transactions of the Institute of British Geographers*, 46(4), 865–879. [https://doi.org/10.1111/tran.12467](https://doi.org/10.1111/tran.12467)
+> Cirolia, L. R., Hall, S., & Nyamnjoh, H. (2021). Remittance micro-worlds and migrant infrastructure: Circulations, disruptions, and the movement of money. *Transactions of the Institute of British Geographers*, 46(4), 865–879. [https://doi.org/10.1111/tran.12467](https://doi.org/10.1111/tran.12467)
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб вивчити, як саме влаштовані повсякденні процеси надсилання грошових переказів мігрантами в африканських містах, та вийти за межі спрощеного розуміння технологій як «універсального вирішення» (*techno-fix*). Автори прагнуть показати, що рух грошей залежить не лише від мобільних додатків, а й від складної мережі реальних людей, дрібних посередників, правових обмежень та постійних технічних збоїв (дизрупцій) на місцях.

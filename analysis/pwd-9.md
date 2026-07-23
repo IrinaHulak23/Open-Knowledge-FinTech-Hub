@@ -3,7 +3,7 @@
 ## Accessibility and digital inclusion in Islamic banking for persons with disabilities in Indonesia
 
 ### 1. Назва статті (APA Style)
-Mutafarida, B., & Sulistyowati. (2025). The accessibility and digital inclusion in Islamic banking for persons with disabilities in Indonesia. *Proceeding of the Excellent Campus and Technology Conference*, 2(1). [https://eprosiding.unupasuruan.ac.id/index.php/pectc/article/view/39](https://eprosiding.unupasuruan.ac.id/index.php/pectc/article/view/39)
+> Mutafarida, B., & Sulistyowati. (2025). The accessibility and digital inclusion in Islamic banking for persons with disabilities in Indonesia. *Proceeding of the Excellent Campus and Technology Conference*, 2(1). [https://eprosiding.unupasuruan.ac.id/index.php/pectc/article/view/39](https://eprosiding.unupasuruan.ac.id/index.php/pectc/article/view/39)
 
 ### 2. Мета дослідження
 Проаналізувати, якою мірою доступність та цифрова інклюзія в індонезійському ісламському банкінгу відповідають потребам осіб з інвалідністю, виявити технологічні та регуляторні бар'єри та сформулювати набір «Інклюзивних стандартів шаріатського банкінгу» на основі синтезу TAM та Maqasid al-Shariah.

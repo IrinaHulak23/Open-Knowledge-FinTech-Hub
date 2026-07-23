@@ -9,3 +9,5 @@
 👩 [Digital micro-savings behaviour among women entrepreneurs: Implications for SDG 5 and SDG 8](women-3.md)
 
 👩 [Financial performance of female MSME actors: The role of digital financial literacy and financial technology by mediating financial inclusion](women-4.md)
+
+👩 [A feminist approach to fintech: Exploring ‘buy now, pay later’ technologies and consumer fintech](women-5.md)

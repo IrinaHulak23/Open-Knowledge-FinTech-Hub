@@ -12,3 +12,5 @@
 ⚔️ [Natural resource trade and financial technology as drivers of inclusive green growth in Belt and Road initiative countries](war-4.md)
 
 ⚔️ [Risk transmission and interconnectedness between Fintech and oil-exporting markets during global crises](war-5.md)
+
+⚔️ [Dynamic connectedness, spillover, and optimal hedging strategy among FinTech, Sukuk, and Islamic equity markets](war-6.md)

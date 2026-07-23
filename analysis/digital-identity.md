@@ -17,3 +17,5 @@
 🪪 [reKYC for Fintech Security: A Privacy-Preserving Approach to Digital Wallet Verification](digital-identity-8.md)
 
 🪪 [Aid Nexus: A Blockchain-Based Financial Distribution System](digital-identity-9.md)
+
+🪪 [Web3-Based Identity and KYC Innovations for Next-Generation FinTech](digital-identity-10.md)

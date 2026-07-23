@@ -3,7 +3,7 @@
 ## The Impact of Blockchain-Related Name Changes on Corporate Performance
 
 ### 1. Назва статті (APA Style)
-Akyildirim, E., Corbet, S., Sensoy, A., & Yarovaya, L. (2020). The impact of blockchain related name changes on corporate performance. *Journal of Corporate Finance*, 65, Article 101759. [https://doi.org/10.1016/j.jcorpfin.2020.101759](https://doi.org/10.1016/j.jcorpfin.2020.101759)
+> Akyildirim, E., Corbet, S., Sensoy, A., & Yarovaya, L. (2020). The impact of blockchain related name changes on corporate performance. *Journal of Corporate Finance*, 65, Article 101759. [https://doi.org/10.1016/j.jcorpfin.2020.101759](https://doi.org/10.1016/j.jcorpfin.2020.101759)
 
 ### 2. Мета дослідження
 Автори досліджують, як зміна корпоративної назви із включенням слів, пов’язаних із блокчейном або криптовалютами, впливає на фінансові результати компаній, дохідність їхніх акцій, волатильність і зв’язок із криптовалютними ринками.

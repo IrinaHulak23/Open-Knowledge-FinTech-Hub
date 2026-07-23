@@ -3,7 +3,7 @@
 ## Markets in Crypto-Assets Regulation: Does It Provide Legal Certainty and Increase Adoption of Crypto-Assets?
 
 ### 1. Назва статті (APA Style)
-van der Linden, T., & Shirazi, T. (2023). Markets in crypto-assets regulation: Does it provide legal certainty and increase adoption of crypto-assets? *Financial Innovation*, 9, Article 22. https://doi.org/10.1186/s40854-022-00432-8
+> Tina van der Linden, T., & Shirazi, T. (2023). Markets in crypto-assets regulation: Does it provide legal certainty and increase adoption of crypto-assets? Financial Innovation, 9, Article 22. https://doi.org/10.1186/s40854-022-00432-8
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Авторки досліджують, чи запропоноване регулювання ЄС щодо ринків криптоактивів — MiCA — створить правову визначеність і чи сприятиме ширшому використанню криптоактивів у секторі фінансових послуг.

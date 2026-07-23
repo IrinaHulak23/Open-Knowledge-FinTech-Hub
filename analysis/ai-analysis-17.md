@@ -3,7 +3,7 @@
 ## Ethically Responsible Machine Learning in Fintech
 
 ### 1. Назва статті (APA Style)
-Rizinski, M., Peshov, H., Mishev, K., Chitkushev, L. T., Vodenska, I., & Trajanov, D. (2022). Ethically Responsible Machine Learning in Fintech. *IEEE Access*, 10, 91547–91560. [https://doi.org/10.1287/isre.2021.0997](https://doi.org/10.1287/isre.2021.0997)
+> Rizinski, M., Peshov, H., Mishev, K., Chitkushev, L. T., Vodenska, I., & Trajanov, D. (2022). Ethically Responsible Machine Learning in Fintech. *IEEE Access*, 10, 91547–91560. [https://doi.org/10.1287/isre.2021.0997](https://doi.org/10.1287/isre.2021.0997)
 
 ### 2. Мета дослідження
 Оцінити, як фінансові інституції та розробники можуть впроваджувати етичні принципи в алгоритми машинного навчання (ML), щоб мінімізувати ризики упередженості, дискримінації та непрозорості прийняття рішень у фінтеху.

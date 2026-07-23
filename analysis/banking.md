@@ -43,3 +43,5 @@
 🏦 [The Impact of Fintech on Financial Institutions: The Case of Georgia](banking-20.md)
 
 🏦 [Fintech and banking: friends or foes? Evidence from bank–fintech cooperation](banking-21.md)
+
+🏦 [Connected Banks and Economic Policy Uncertainty](banking-22.md)

@@ -45,3 +45,5 @@
 🪪 [An Exploration of Biometrics Payment Technology to Combat Online Banking Fraud and Digital Identity in the South African Banking Industry](digital-identity-21.md)
 
 🪪 [The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions](digital-identity-22.md)
+
+🪪 [The Medium is the Message: The Geographies of Cryptocurrency Remittances to Venezuela](digital-identity-23.md)

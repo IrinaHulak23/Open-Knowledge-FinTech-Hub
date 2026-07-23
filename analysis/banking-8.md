@@ -3,7 +3,7 @@
 ## Fintech as Financial Innovation – The Possibilities and Problems of Implementation
 
 ### 1. Назва статті (APA Style)
-Saksonova, S., & Kuzmina-Merlino, I. (2017). Fintech as Financial Innovation – The Possibilities and Problems of Implementation. *European Research Studies Journal*, XX(3A), 961–973. [https://doi.org/10.35808/ersj/752](https://doi.org/10.35808/ersj/752)
+> Saksonova, S., & Kuzmina-Merlino, I. (2017). Fintech as Financial Innovation – The Possibilities and Problems of Implementation. *European Research Studies Journal*, XX(3A), 961–973. [https://doi.org/10.35808/ersj/752](https://doi.org/10.35808/ersj/752)
 
 ### 2. Мета дослідження
 Оцінити рівень розвитку фінансових технологій (фінтеху) в Латвії у порівнянні з іншими країнами Європи та з'ясувати, з якими проблемами стикається впровадження цих інновацій на локальному ринку.

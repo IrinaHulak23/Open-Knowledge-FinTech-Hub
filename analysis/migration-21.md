@@ -3,7 +3,7 @@
 ## Whose money? Digital remittances, mobile money and fintech in Ghana
 
 ### 1. Назва статті (APA Style)
-Guermond, V. (2022). Whose money? Digital remittances, mobile money and fintech in Ghana. *Journal of Cultural Economy*, 15(4), 436–451. [https://doi.org/10.1080/17530350.2021.2018347](https://doi.org/10.1080/17530350.2021.2018347)
+> Guermond, V. (2022). Whose money? Digital remittances, mobile money and fintech in Ghana. *Journal of Cultural Economy*, 15(4), 436–451. [https://doi.org/10.1080/17530350.2021.2018347](https://doi.org/10.1080/17530350.2021.2018347)
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з'ясувати, як цифровізація міжнародних грошових переказів (через фінтех-платформи та мобільні гроші) змінює повсякденні фінансові практики, сімейні відносини та уявлення про контроль над грошима серед одержувачів у Гані. Автор прагне вийти за межі суто технічних описів фінтеху й показати, як цифрові гроші стають предметом соціальних суперечок та переговорів усередині транснаціональних родин.

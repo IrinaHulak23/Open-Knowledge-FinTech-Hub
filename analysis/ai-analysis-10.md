@@ -3,7 +3,7 @@
 ## Fintech literacy and digital entrepreneurial intention: Mediator and Moderator Effect
 
 ### 1. Назва статті (APA Style)
-Nguyen, T. T., Dao, T. T., Tran, T. B., Nguyen, H. T. T., Le, L. T. N., & Pham, N. T. T. (2024). Fintech literacy and digital entrepreneurial intention: Mediator and Moderator Effect. *International Journal of Information Management Data Insights*, 4, 100222. [https://doi.org/10.1016/j.jjimei.2024.100222](https://doi.org/10.1016/j.jjimei.2024.100222)
+> Nguyen, T. T., Dao, T. T., Tran, T. B., Nguyen, H. T. T., Le, L. T. N., & Pham, N. T. T. (2024). Fintech literacy and digital entrepreneurial intention: Mediator and Moderator Effect. *International Journal of Information Management Data Insights*, 4, 100222. [https://doi.org/10.1016/j.jjimei.2024.100222](https://doi.org/10.1016/j.jjimei.2024.100222)
 
 ### 2. Мета дослідження
 Дослідити, як фінансова технологічна грамотність (Fintech literacy) студентів впливає на їхній намір розпочати цифровий бізнес, використовуючи психологічну Теорію запланованої поведінки (Theory of Planned Behaviour).

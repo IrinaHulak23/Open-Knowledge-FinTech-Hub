@@ -3,7 +3,7 @@
 ##  Operational research and artificial intelligence methods in banking
 
 ### 1. Назва статті (APA Style)
-Doumpos, M., Zopounidis, C., Gounopoulos, D., Platanakis, E., & Zhang, W. (2023). Operational research and artificial intelligence methods in banking. *European Journal of Operational Research*, 306(1), 1-16. [https://doi.org/10.1016/j.ejor.2022.04.027](https://doi.org/10.1016/j.ejor.2022.04.027)
+> Doumpos, M., Zopounidis, C., Gounopoulos, D., Platanakis, E., & Zhang, W. (2023). Operational research and artificial intelligence methods in banking. *European Journal of Operational Research*, 306(1), 1-16. [https://doi.org/10.1016/j.ejor.2022.04.027](https://doi.org/10.1016/j.ejor.2022.04.027)
 
 ### 2. Мета дослідження
 Надати комплексний та структурований бібліографічний огляд (аналіз літератури) наукових досліджень, присвячених застосуванню методів дослідження операцій (OR) та штучного інтелекту (AI) у банківській індустрії за останнє десятиліття.

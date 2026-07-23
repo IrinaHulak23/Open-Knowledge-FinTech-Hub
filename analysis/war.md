@@ -30,3 +30,5 @@
 ⚔️ [The need for innovation in financial education: A study of household indebtedness in Peru](war-13.md)
 
 ⚔️ [Spillover analysis across FinTech, ESG, and renewable energy indices before and during the Russia-Ukraine war: International evidence](war-14.md)
+
+⚔️ [Fintech services and the drivers of their implementation in small and medium enterprises](war-15.md)

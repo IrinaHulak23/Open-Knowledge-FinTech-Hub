@@ -3,7 +3,7 @@
 ##  Exploring users' adoption intentions of intelligent virtual assistants in financial services: An anthropomorphic perspectives and socio-psychological perspectives
 
 ### 1. Назва статті (APA Style)
-Priya, B., & Sharma, V. (2023). Exploring users' adoption intentions of intelligent virtual assistants in financial services: An anthropomorphic perspectives and socio-psychological perspectives. *Computers in Human Behavior*, 148, 107912. [https://doi.org/10.1016/j.chb.2023.107912](https://doi.org/10.1016/j.chb.2023.107912)
+> Priya, B., & Sharma, V. (2023). Exploring users' adoption intentions of intelligent virtual assistants in financial services: An anthropomorphic perspectives and socio-psychological perspectives. *Computers in Human Behavior*, 148, 107912. [https://doi.org/10.1016/j.chb.2023.107912](https://doi.org/10.1016/j.chb.2023.107912)
 
 ### 2. Мета дослідження
 Дослідити, як технічні характеристики штучного інтелекту (людиноподібність, інтелект, анімація) та соціально-психологічні фактори впливають на формування гедоністичного (емоційного) та утилітарного (прагматичного) ставлення користувачів до розумних віртуальних асистентів у сфері фінансів.

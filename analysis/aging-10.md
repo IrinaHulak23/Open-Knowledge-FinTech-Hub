@@ -3,7 +3,7 @@
 ## Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions
 
 ### 1. Назва статті (APA Style)
-Dai, J., & McGrenere, J. (2025). Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems* (CHI ’25), 1–24. [https://doi.org/10.1145/3706598.3713427](https://doi.org/10.1145/3706598.3713427)
+> Dai, J., & McGrenere, J. (2025). Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems* (CHI ’25), 1–24. [https://doi.org/10.1145/3706598.3713427](https://doi.org/10.1145/3706598.3713427)
 
 ### 2. Мета дослідження
 З’ясувати, як можна проєктувати фінансові технології для підтримки літніх людей у періоди когнітивних та життєвих змін, зокрема у ситуаціях онлайн-банкінгу, цифрових платежів і повсякденного фінансового управління.

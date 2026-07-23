@@ -3,7 +3,7 @@
 ## Aid Nexus: A Blockchain-Based Financial Distribution System
 
 ### 1. Назва статті (APA Style)
-Shahrukh, R. H., Rahman, T., & Mansoor, N. (2024). Aid Nexus: A Blockchain-Based Financial Distribution System. In A. K. Nagar, D. S. Jat, D. K. Mishra, & A. Joshi (Eds.), *Intelligent Sustainable Systems: Selected Papers of WorldS4 2023, Volume 4* (pp. 131–144). Springer. https://doi.org/10.1007/978-981-99-8111-3_13
+> Shahrukh, R. H., Rahman, T., & Mansoor, N. (2024). Aid Nexus: A Blockchain-Based Financial Distribution System. In A. K. Nagar, D. S. Jat, D. K. Mishra, & A. Joshi (Eds.), *Intelligent Sustainable Systems: Selected Papers of WorldS4 2023, Volume 4* (pp. 131–144). Springer. https://doi.org/10.1007/978-981-99-8111-3_13
 
 ### 2. Мета дослідження
 Метою дослідження є проєктування та реалізація децентралізованого застосунку (DApp) AidNexus на основі консорціумного блокчейну для вирішення системних проблем традиційних систем розподілу пенсій та гуманітарної допомоги — неефективності, браку прозорості та адміністративної складності. Автори прагнуть довести, що інтеграція смарт-контрактів, цифрової верифікації ідентичності отримувачів та незмінних журналів транзакцій у єдину платформу дозволяє забезпечити пряме, прозоре та захищене від корупції надходження коштів від організацій-розпорядників до кінцевих бенефіціарів без потреби в посередниках.

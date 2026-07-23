@@ -1,4 +1,4 @@
-# 🪪 FinTech & Digital Identity
+# ⛓️ FinTech & Blockchain
 
 ## The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions
 
@@ -91,4 +91,4 @@ Metaverse описується як спільний віртуальний пр
 
 ---
 
-[🪪 Назад до розділу FinTech & Digital Identity](digital-identity.md)
+[⛓️ Назад до розділу FinTech & Blockchain](blockchain.md)

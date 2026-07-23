@@ -3,7 +3,7 @@
 ##  Fintech: AI Powers Financial Services to Improve People's Lives
 
 ### 1. Назва статті (APA Style)
-Qi, Y., & Xiao, J. (2018). Fintech: AI Powers Financial Services to Improve People's Lives. *Communications of the ACM*, 61(11), 65–69. [https://doi.org/10.1145/3239550](https://doi.org/10.1145/3239550)
+> Qi, Y., & Xiao, J. (2018). Fintech: AI Powers Financial Services to Improve People's Lives. *Communications of the ACM*, 61(11), 65–69. [https://doi.org/10.1145/3239550](https://doi.org/10.1145/3239550)
 
 ### 2. Мета дослідження
 Показати, як великі технологічні компанії (на прикладі Ant Financial та Ping An Technology) використовують штучний інтелект (ШІ) та інші цифрові інновації для кардинальної зміни традиційних фінансових послуг, роблячи їх доступнішими для мільйонів людей та малих підприємців.

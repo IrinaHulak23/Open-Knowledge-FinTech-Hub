@@ -3,7 +3,7 @@
 ## AI-Driven Blockchain Lending for Sustainable Development: A Machine Learning Framework for Loan Risk and Eligibility Classification
 
 ### 1. Назва статті (APA Style)
-Ramar, K., Ati, M., V., U., Hariharan, S., & Kukreja, V. (2026). AI-driven blockchain lending for sustainable development: A machine learning framework for loan risk and eligibility classification. *PeerJ Computer Science*, 12, e3686. [https://doi.org/10.7717/peerj-cs.3686](https://doi.org/10.7717/peerj-cs.3686)
+> Ramar, K., Ati, M., V., U., Hariharan, S., & Kukreja, V. (2026). AI-driven blockchain lending for sustainable development: A machine learning framework for loan risk and eligibility classification. *PeerJ Computer Science*, 12, e3686. [https://doi.org/10.7717/peerj-cs.3686](https://doi.org/10.7717/peerj-cs.3686)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори досліджують систему кредитування на основі блокчейну та штучного інтелекту, яка поєднує централізовані й децентралізовані криптобіржі, смарт-контракти та машинне навчання для перевірки права на кредит, оцінювання ризику й підтримки зеленого фінансування відповідно до Цілей сталого розвитку.

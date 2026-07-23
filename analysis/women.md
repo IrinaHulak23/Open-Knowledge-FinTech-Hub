@@ -43,3 +43,5 @@
 👩 [The triple glass ceiling: FinTech gender inequalities](women-20.md)
 
 👩 [Unveiling the dynamics of financial literacy and inclusion in women digital loan decision making](women-21.md)
+
+👩 [Fintech gender disparities in africa](women-22.md)

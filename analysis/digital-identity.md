@@ -25,3 +25,7 @@
 🪪 [Blockchain Alchemy: Unveiling the Digital Ledger's Transformative Power](digital-identity-12.md)
 
 🪪 [Blockchain–Cloud Integration for Cross-Border Invoice Factoring](digital-identity-13.md)
+
+
+
+🪪 [Towards a Universal Digital Identity: a blockchain-based framework for borderless verification](digital-identity-15.md)

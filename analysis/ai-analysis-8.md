@@ -3,7 +3,7 @@
 ##  Cybersecurity threats in FinTech: A systematic review
 
 ### 1. Назва статті (APA Style)
-Javaheri, D., Fahmideh, M., Chizari, H., Lalbakhsh, P., & Hur, J. (2024). Cybersecurity threats in FinTech: A systematic review. *Expert Systems With Applications*, 241, 122697. [https://doi.org/10.1016/j.eswa.2023.122697](https://doi.org/10.1016/j.eswa.2023.122697)
+> Javaheri, D., Fahmideh, M., Chizari, H., Lalbakhsh, P., & Hur, J. (2024). Cybersecurity threats in FinTech: A systematic review. *Expert Systems With Applications*, 241, 122697. [https://doi.org/10.1016/j.eswa.2023.122697](https://doi.org/10.1016/j.eswa.2023.122697)
 
 ### 2. Мета дослідження
 Надати комплексну класифікацію (таксономію) сучасних загроз кібербезпеці у сфері фінтеху та систематизувати ефективні стратегії захисту від них, враховуючи не лише технологічні слабкості, а й людські помилки та недоліки у внутрішніх процедурах компаній.

@@ -37,3 +37,5 @@
 🪪 [Investigating the State of Blockchain Adoption in the South African Finance Industry](digital-identity-18.md)
 
 🪪 [Self Sovereign Identity in E-Governance](digital-identity-19.md)
+
+🪪 [Emerging Technologies Shaping the Future of Finance and Identity Protection](digital-identity-20.md)

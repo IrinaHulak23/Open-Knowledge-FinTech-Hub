@@ -3,7 +3,7 @@
 ## A Survey of the Application of Blockchain in Multiple Fields of Financial Services
 
 ### 1. Назва статті (APA Style)
-Wang, Y., Kim, D.-K., & Jeong, D. (2020). A survey of the application of blockchain in multiple fields of financial services. *Journal of Information Processing Systems*, 16(4), 935–958. [https://doi.org/10.3745/JIPS.04.0185](https://doi.org/10.3745/JIPS.04.0185)
+> Wang, Y., Kim, D.-K., & Jeong, D. (2020). A survey of the application of blockchain in multiple fields of financial services. *Journal of Information Processing Systems*, 16(4), 935–958. [https://doi.org/10.3745/JIPS.04.0185](https://doi.org/10.3745/JIPS.04.0185)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори подають комплексний огляд застосування блокчейну у фінансових послугах, зокрема в інклюзивних фінансах, транскордонних переказах, інтернет-платежах, P2P-кредитуванні, фінансуванні ланцюгів постачання та протидії відмиванню коштів. Також стаття розглядає архітектури блокчейн-рішень, виклики їх упровадження та можливі напрями вирішення проблем.

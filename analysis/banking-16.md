@@ -2,8 +2,8 @@
 
 ## Fintech Investments in European Banks: A Hybrid IT2 Fuzzy Multidimensional Decision-Making Approach
 
-### 1. Метадані статті (APA Style)
-Kou, G., Akdeniz, Ö. O., Dinçer, H., & Yüksel, S. (2021). Fintech investments in European banks: a hybrid IT2 fuzzy multidimensional decision-making approach. *Financial Innovation*, 7(1), Article 39. https://doi.org/10.1186/s40854-021-00256-y
+### 1. Назва статті (APA Style)
+> Kou, G., Akdeniz, Ö. O., Dinçer, H., & Yüksel, S. (2021). Fintech investments in European banks: a hybrid IT2 fuzzy multidimensional decision-making approach. *Financial Innovation*, 7(1), Article 39. https://doi.org/10.1186/s40854-021-00256-y
 
 ### 2. Мета дослідження
 Оцінити та визначити найважливіші напрямки для інвестицій у фінансові технології (фінтех) для європейських банків, щоб допомогти їм отримати конкурентну перевагу, покращити фінансові показники та підвищити задоволеність клієнтів.

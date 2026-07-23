@@ -3,7 +3,7 @@
 ## The need for innovation in financial education: A study of household indebtedness in Peru
 
 ### 1. Назва статті (APA Style)
-> Delgado Olano, M., Villafuerte de la Cruz, A. S., Puican Rodriguez, V. H., Suárez Santa Cruz, L. D. C., Valladolid Benavides, A. M., Hinojosa Salazar, C. A., Roldan Polo Escobar, B., & Arévalo Reategui, J. (2024). The need for innovation in financial education: A study of household indebtedness in Peru.
+> Delgado Olano, M., Villafuerte de la Cruz, A. S., Puican Rodriguez, V. H., Suárez Santa Cruz, L. D. C., Valladolid Benavides, A. M., Hinojosa Salazar, C. A., Roldan Polo Escobar, B., & Arévalo Reategui, J. (2024). The need for innovation in financial education: A study of household indebtedness in Peru. *Revista de Gestão Social e Ambiental*, 18(1), e04919. https://doi.org/10.24857/rgsa.v18n1-081
 
 ### 2. Мета дослідження
 Визначення впливу фінансової освіти на рівень заборгованості домогосподарств у Перу та оцінка того, наскільки фінансова грамотність може зменшувати ризики надмірної заборгованості.

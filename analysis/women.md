@@ -39,3 +39,5 @@
 👩 [Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era](women-18.md)
 
 👩 [Gender-Inclusive development through fintech: Studying gender-based digital financial inclusion in a cross-country setting](women-19.md)
+
+👩 [The triple glass ceiling: FinTech gender inequalities](women-20.md)

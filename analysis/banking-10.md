@@ -2,7 +2,7 @@
 
 ## Corporate governance and effect in fintech: Evidence from Gulf Cooperation Council banking sector
 
-### 1. Метадані статті (APA Style)
+### 1. Назва статті (APA Style)
 > AlHares, A., & AlBaker, Y. (2023). Corporate governance and effect in fintech: Evidence from Gulf Cooperation Council banking sector. *Corporate & Business Strategy Review*, 4(1), 99–111. https://doi.org/10.22495/cbsrv4i1art9
 
 ### 2. Мета дослідження

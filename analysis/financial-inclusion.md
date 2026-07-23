@@ -41,3 +41,5 @@
 🌍 [Assessing the quality of financial technology patents through the development of a patent quality index](financial-inclusion-19.md)
 
 🌍 [Sharia fintech in the digital age: Human rights in sharia fintech through criminal law safeguards](financial-inclusion-20.md)
+
+🌍 [Public acceptance of the government wallet application and implications for Thailand’s economic sustainability](financial-inclusion-21.md)

@@ -3,7 +3,7 @@
 ## Business Process Modeling Patterns for Blockchain Application Development
 
 ### 1. Назва статті (APA Style)
-Alzhrani, F., Saeedi, K., & Zhao, L. (2025). Business process modeling patterns for blockchain application development. *IEEE Access*, 13, 20691–20712. [https://doi.org/10.1109/ACCESS.2025.3535809](https://doi.org/10.1109/ACCESS.2025.3535809)
+> Alzhrani, F., Saeedi, K., & Zhao, L. (2025). Business process modeling patterns for blockchain application development. *IEEE Access*, 13, 20691–20712. [https://doi.org/10.1109/ACCESS.2025.3535809](https://doi.org/10.1109/ACCESS.2025.3535809)
 
 ### 2. Мета дослідження
 **Мета дослідження у формулюванні статті:** Автори пропонують набір шаблонів моделювання бізнес-процесів для розроблення блокчейн-застосунків. Мета полягає в тому, щоб краще пов’язати етап аналізу вимог з етапом проєктування програмного забезпечення, оскільки в блокчейн-розробці ці етапи часто недостатньо інтегровані.

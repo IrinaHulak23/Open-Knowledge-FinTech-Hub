@@ -3,7 +3,7 @@
 ## Exploring the mechanisms driving elderly Fintech engagement: the role of social influence and the elderly’s digital literacy
 
 ### 1. Назва статті (APA Style)
-Mei, Y. (2024). Exploring the mechanisms driving elderly Fintech engagement: the role of social influence and the elderly’s digital literacy. *Frontiers in Psychology*, 15, 1420147. [https://doi.org/10.3389/fpsyg.2024.1420147](https://doi.org/10.3389/fpsyg.2024.1420147)
+> Mei, Y. (2024). Exploring the mechanisms driving elderly Fintech engagement: the role of social influence and the elderly’s digital literacy. *Frontiers in Psychology*, 15, 1420147. [https://doi.org/10.3389/fpsyg.2024.1420147](https://doi.org/10.3389/fpsyg.2024.1420147)
 
 ### 2. Мета дослідження
 З’ясувати, як соціальний вплив та цифрова грамотність впливають на залучення людей старшого віку до використання фінансових технологій, зокрема мобільного банкінгу.

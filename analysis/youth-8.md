@@ -3,7 +3,7 @@
 ## Investment Decisions of Generations Z and Y in Indonesia
 
 ### 1. Назва статті (APA Style)
-Ovami, D. C., Lubis, H. Z., Setiana, E., Mustika, I., & Wulandari, S. (2024). Beyond age: Decoding the investment DNA of generations Z and Y in Indonesia. *Investment Management and Financial Innovations*, 21(3), 385–398. https://doi.org/10.21511/imfi.21(3).2024.31
+> Ovami, D. C., Lubis, H. Z., Setiana, E., Mustika, I., & Wulandari, S. (2024). Beyond age: Decoding the investment DNA of generations Z and Y in Indonesia. *Investment Management and Financial Innovations*, 21(3), 385–398. https://doi.org/10.21511/imfi.21(3).2024.31
 
 ### 2. Мета дослідження
 Мета дослідження полягає в тому, щоб з’ясувати, які чинники впливають на інвестиційні рішення представників поколінь Z та Y в Індонезії. Автори досліджують фінансову грамотність, сприйняття ризику й дохідності, сімейний бекграунд, рівень доходу та фінтех-компетентність (fintech proficiency), яка також розглядається як медіатор між цими факторами та інвестиційною поведінкою.

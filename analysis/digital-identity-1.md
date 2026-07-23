@@ -3,7 +3,7 @@
 ## Blockchain for smart finance: A review of architectures, integration trends and future research directions
 
 ### 1. Назва статті (APA Style)
-Surve, T., Tyagi, A. K., & Balogun, B. F. (2025). Blockchain for smart finance: A review of architectures, integration trends and future research directions. *Procedia Computer Science*, 259, 316–325. https://doi.org/10.1016/j.procs.2025.03.333
+> Surve, T., Tyagi, A. K., & Balogun, B. F. (2025). Blockchain for smart finance: A review of architectures, integration trends and future research directions. *Procedia Computer Science*, 259, 316–325. https://doi.org/10.1016/j.procs.2025.03.333
 
 ### 2. Мета дослідження
 Систематизувати наявні знання про застосування блокчейн-технології у сфері розумних фінансів (smart finance). Автори прагнуть проаналізувати роль блокчейну в децентралізованому управлінні, дослідити архітектуру розподілених реєстрів та смарт-контрактів, виявити поточні тенденції інтеграції цієї технології у фінансовий сектор, а також визначити перспективні напрями майбутніх досліджень. Окрема увага приділяється тому, як блокчейн змінює традиційні фінансові системи — від перевірки цифрових ідентичностей до фінансування ланцюгів постачання.

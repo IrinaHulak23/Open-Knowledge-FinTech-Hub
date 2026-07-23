@@ -3,7 +3,7 @@
 ##  Enterprise generative artificial intelligence technologies, Internet of Things and blockchain-based fintech management, and digital twin industrial metaverse in the cognitive algorithmic economy
 
 ### 1. Назва статті (APA Style)
-Kliestik, T., Dragomir, R., Băluţă, A. V., Grecu, L., Durana, P., Karabolevski, O. L., Kral, P., Balica, R., Suler, P., Buşu, O. V., Bugaj, M., Voinea, D.-V., Vrbka, J., Cocoșatu, M., Grupac, M., Pera, A., & Gajdosikova, D. (2024). Enterprise generative artificial intelligence technologies, Internet of Things and blockchain-based fintech management, and digital twin industrial metaverse in the cognitive algorithmic economy. *Oeconomia Copernicana*, 15(4), 1183-1221. [https://doi.org/10.12775/OEC.2024.038](https://doi.org/10.12775/OEC.2024.038)
+> Kliestik, T., Dragomir, R., Băluţă, A. V., Grecu, L., Durana, P., Karabolevski, O. L., Kral, P., Balica, R., Suler, P., Buşu, O. V., Bugaj, M., Voinea, D.-V., Vrbka, J., Cocoșatu, M., Grupac, M., Pera, A., & Gajdosikova, D. (2024). Enterprise generative artificial intelligence technologies, Internet of Things and blockchain-based fintech management, and digital twin industrial metaverse in the cognitive algorithmic economy. *Oeconomia Copernicana*, 15(4), 1183-1221. [https://doi.org/10.12775/OEC.2024.038](https://doi.org/10.12775/OEC.2024.038)
 
 ### 2. Мета дослідження
 Мета полягає в тому, щоб узагальнити та показати сучасний стан наукової думки щодо того, як генеративний штучний інтелект (ШІ), Інтернет речей (IoT), блокчейн та цифрові двійники спільно трансформують три ключові сфери: управління персоналом, фінансові технології (фінтех) та розумне виробництво (промисловий метавсесвіт) в умовах нової когнітивної економіки.

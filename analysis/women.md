@@ -35,3 +35,5 @@
 👩 [Exchange rate policy and nigeria's economic growth: A granger causality impact assessment](women-16.md)
 
 👩 [The impact of FinTech start-ups on incumbent retail banks’ share prices](women-17.md)
+
+👩 [Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era](women-18.md)

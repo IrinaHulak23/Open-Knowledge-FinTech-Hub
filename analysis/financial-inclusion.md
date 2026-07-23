@@ -19,3 +19,5 @@
 🌍 [Fintech and financial inclusion in Saudi Arabia](financial-inclusion-8.md)
 
 🌍 [Exploring the constructs of the effectiveness of financial inclusion](financial-inclusion-9.md)
+
+🌍 [How does financial literacy impact on inclusive finance?](financial-inclusion-10.md)

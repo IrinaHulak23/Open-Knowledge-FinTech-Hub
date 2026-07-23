@@ -3,7 +3,7 @@
 ## A preliminary assessment of the performance of DeFi cryptocurrencies in relation to other financial assets, volatility, and user-generated content
 
 ### 1. Назва статті (APA Style)
-Pineiro-Chousa, J., Lopez-Cabarcos, M. A., Sevic, A., & González-Lopez, I. (2022). A preliminary assessment of the performance of DeFi cryptocurrencies in relation to other financial assets, volatility, and user-generated content. *Technological Forecasting and Social Change*, 181, Article 121740. [https://doi.org/10.1016/j.techfore.2022.121740](https://doi.org/10.1016/j.techfore.2022.121740)
+> Pineiro-Chousa, J., Lopez-Cabarcos, M. A., Sevic, A., & González-Lopez, I. (2022). A preliminary assessment of the performance of DeFi cryptocurrencies in relation to other financial assets, volatility, and user-generated content. *Technological Forecasting and Social Change*, 181, Article 121740. [https://doi.org/10.1016/j.techfore.2022.121740](https://doi.org/10.1016/j.techfore.2022.121740)
 
 ### 2. Мета дослідження
 Дослідити зв’язок між токенами децентралізованих фінансів (DeFi), традиційними фінансовими активами (золото, нафта), волатильністю ринку (VIX) та користувацьким контентом у соціальних мережах (Telegram, Twitter). Автори прагнуть з'ясувати, чи поводяться DeFi-токени як окремий клас інвестиційних активів і чи можуть вони виконувати роль «захисного активу» (safe haven) у періоди фінансової нестабільності.

@@ -36,3 +36,5 @@
 ⚔️ [Risk transmission to Fintech firms: Is WAR different from COVID?](war-16.md)
 
 ⚔️ [An investigation of dynamic connectedness between robotic, artificial intelligence development, and carbon risk by quantile spillovers](war-17.md)
+
+⚔️ [A comparative analysis between FinTech and traditional stock markets: using Russia and Ukraine war data](war-18.md)

@@ -17,3 +17,5 @@
 🌍 [From access to impact: How digital financial inclusion drives sustainable development](financial-inclusion-7.md)
 
 🌍 [Fintech and financial inclusion in Saudi Arabia](financial-inclusion-8.md)
+
+🌍 [Exploring the constructs of the effectiveness of financial inclusion](financial-inclusion-9.md)

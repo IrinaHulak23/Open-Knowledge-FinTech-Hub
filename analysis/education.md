@@ -29,3 +29,5 @@
 🎓 [Digital financial literacy and savings behavior: A comprehensive cross-country analysis of FinTech adoption patterns and economic outcomes across 12 nations](education-13.md)
 
 🎓 [Borrowing from family and friends: Study of the European Union](education-14.md)
+
+🎓 [The influence of small and medium-sized enterprise financial literacy on Fintech adoption in a Fourth Industrial Revolution era](education-15.md)

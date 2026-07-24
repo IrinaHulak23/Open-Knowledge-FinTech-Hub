@@ -3,7 +3,7 @@
 ## Borrowing from family and friends: Study of the European Union
 
 ### 1. Назва статті (APA Style)
-> Diab, S., Nourallah, M., & Öhman, P. (2025). Borrowing from family and friends: Study of the European Union. *Financial Services Review*, 33(3), 48–60.
+> Diab, S., Nourallah, M., & Öhman, P. (2025). Borrowing from family and friends: Study of the European Union. *Financial Services Review*, 33(3), 48–60. https://doi.org/10.61190/fsr.v33i3.4141
 
 ### 2. Мета дослідження
 Емпіричний аналіз факторів, що впливають на практику запозичення коштів у родини та друзів у країнах Європейського Союзу. Основний акцент зроблено на ролі використання дебетових карток та заощаджувальної поведінки домогосподарств як інструментів зменшення потреби в неформальному кредитуванні, а також оцінці впливу рівня освіти, доступу до формального кредитування, інфляції та ВВП на душу населення.

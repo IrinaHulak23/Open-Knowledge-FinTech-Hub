@@ -31,3 +31,5 @@
 🎓 [Borrowing from family and friends: Study of the European Union](education-14.md)
 
 🎓 [The influence of small and medium-sized enterprise financial literacy on Fintech adoption in a Fourth Industrial Revolution era](education-15.md)
+
+🎓 [Higher education, fintech, and regional entrepreneurship: Insights from China’s innovation ecosystem](education-16.md)

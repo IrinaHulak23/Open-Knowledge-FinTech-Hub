@@ -47,3 +47,5 @@
 🎓 [Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era](education-22.md)
 
 🎓 [Personal financial planning and the propensity of central bank digital currency adoption](education-23.md)
+
+🎓 [Fintech and digital payments: Developing a domain knowledge framework](education-24.md)

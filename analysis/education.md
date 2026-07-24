@@ -59,3 +59,5 @@
 🎓 [Design of a blockchain-based e-Portfolio evaluation system to assess the education and teaching process](education-28.md)
 
 🎓 [Emerging advances of blockchain technology in finance: A content analysis](education-29.md)
+
+🎓 [Fintech and household participation in risky financial markets: Evidence from China](education-30.md)

@@ -49,3 +49,5 @@
 🎓 [Personal financial planning and the propensity of central bank digital currency adoption](education-23.md)
 
 🎓 [Fintech and digital payments: Developing a domain knowledge framework](education-24.md)
+
+🎓 [Trust in financial technology: The role of financial literacy, digital financial literacy, technological literacy, and trust in artificial intelligence](education-25.md)

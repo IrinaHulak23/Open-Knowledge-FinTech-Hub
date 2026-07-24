@@ -55,3 +55,5 @@
 🎓 ['Level up your money game': An analysis of gamification discourse in financial services](education-26.md)
 
 🎓 [Outcomes from an educational fintech course on multi-asset investment](education-27.md)
+
+🎓 [Design of a blockchain-based e-Portfolio evaluation system to assess the education and teaching process](education-28.md)

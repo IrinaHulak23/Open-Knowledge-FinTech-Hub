@@ -57,3 +57,5 @@
 🎓 [Outcomes from an educational fintech course on multi-asset investment](education-27.md)
 
 🎓 [Design of a blockchain-based e-Portfolio evaluation system to assess the education and teaching process](education-28.md)
+
+🎓 [Emerging advances of blockchain technology in finance: A content analysis](education-29.md)

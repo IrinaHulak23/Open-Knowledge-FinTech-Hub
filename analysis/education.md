@@ -43,3 +43,5 @@
 🎓 [Determinants of consumer adoption of biometric technologies in mobile financial applications](education-20.md)
 
 🎓 [Digital financial literacy and financial well-being among MSMEs: A multi-group analysis and implications for higher education finance](education-21.md)
+
+🎓 [Knowledge or confidence? Exploring the interplay of financial literacy, digital financial behavior, and self-assessment in the FinTech era](education-22.md)

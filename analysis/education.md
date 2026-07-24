@@ -37,3 +37,5 @@
 🎓 [Addressing financial challenges in Malaysia and enhancing digital financial literacy: Insights from practitioners](education-17.md)
 
 🎓 [Does fintech usage alter the relationships between financial literacy, behaviour and well-being? Evidence from India](education-18.md)
+
+🎓 [The need for innovation in financial education: A study of household indebtedness in Peru](education-19.md)

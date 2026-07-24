@@ -27,3 +27,5 @@
 🎓 [The role of financial literacy in accelerating the adoption of a central bank digital currency](education-12.md)
 
 🎓 [Digital financial literacy and savings behavior: A comprehensive cross-country analysis of FinTech adoption patterns and economic outcomes across 12 nations](education-13.md)
+
+🎓 [Borrowing from family and friends: Study of the European Union](education-14.md)

@@ -3,7 +3,7 @@
 ## Personal financial planning and the propensity of central bank digital currency adoption
 
 ### 1. Назва статті (APA Style)
-> El Kalak, I., Nourallah, M., & Timmerman, I. (2025). Personal financial planning and the propensity of central bank digital currency adoption. *International Journal of Bank Marketing*. https://doi.org/10.1108/IJBM-01-2025-0019[cite: 9]
+> El Kalak, I., Nourallah, M., & Timmerman, I. (2025). Personal financial planning and the propensity of central bank digital currency adoption. *International Journal of Bank Marketing*. https://doi.org/10.1108/IJBM-01-2025-0019
 
 ### 2. Мета дослідження
 Визначити, як особисте фінансове планування та індивідуальні психологічні й соціально-економічні характеристики впливають на готовність людей приймати та використовувати цифрову валюту центрального банку (CBDC).

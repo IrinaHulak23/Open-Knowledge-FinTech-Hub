@@ -23,3 +23,5 @@
 🎓 [Australia’s FinTech leaders: Education, work experience, and eagerness of self-employment](education-10.md)
 
 🎓 [Comparative analysis of FinTech adoption among Islamic and conventional banking users with moderating effect of education level: A UTAUT2 perspective](education-11.md)
+
+🎓 [The role of financial literacy in accelerating the adoption of a central bank digital currency](education-12.md)

@@ -53,3 +53,5 @@
 🎓 [Trust in financial technology: The role of financial literacy, digital financial literacy, technological literacy, and trust in artificial intelligence](education-25.md)
 
 🎓 ['Level up your money game': An analysis of gamification discourse in financial services](education-26.md)
+
+🎓 [Outcomes from an educational fintech course on multi-asset investment](education-27.md)

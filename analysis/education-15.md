@@ -3,7 +3,7 @@
 ## The influence of small and medium-sized enterprise financial literacy on Fintech adoption in a Fourth Industrial Revolution era
 
 ### 1. Назва статті (APA Style)
-> Munongo, S., & Pooe, D. (2025). The influence of small and medium-sized enterprise financial literacy on Fintech adoption in a Fourth Industrial Revolution era. *South African Journal of Economic and Management Sciences*, 28(1), 1–14.
+> Munongo, S., & Pooe, D. (2025). The influence of small and medium-sized enterprise financial literacy on Fintech adoption in a fourth industrial revolution era. *South African Journal of Economic and Management Sciences*, 28(1), Article 6246. https://doi.org/10.4102/sajems.v28i1.6246
 
 ### 2. Мета дослідження
 Проаналізувати, як рівень фінансової грамотності власників та менеджерів малих і середніх підприємств (SMEs) впливає на прийняття фінтех-рішень (мобільного банкінгу та електронних гаманців) у контексті Четвертої промислової революції (4IR).

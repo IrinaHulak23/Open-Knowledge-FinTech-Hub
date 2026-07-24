@@ -3,7 +3,7 @@
 ## Digital financial literacy and financial well-being among MSMEs: A multi-group analysis and implications for higher education finance
 
 ### 1. Назва статті (APA Style)
-> Andriansyah, A., Sadalia, I., Fachrudin, K. A., & Syahyunan, S. (2025). Digital financial literacy and financial well-being among MSMEs: A multi-group analysis and implications for higher education finance. *Educational Process International Journal*, 18(1). https://doi.org/10.22521/edupij.2025.18.459[cite: 10]
+> Andriansyah, A., Sadalia, I., Fachrudin, K. A., & Syahyunan, S. (2025). Digital financial literacy and financial well-being among MSMEs: A multi-group analysis and implications for higher education finance. *Educational Process International Journal*, 18(1). https://doi.org/10.22521/edupij.2025.18.459
 
 ### 2. Мета дослідження
 Проаналізувати, як цифрова фінансова грамотність, підприємницька орієнтація та управлінські характеристики впливають на фінансовий добробут мікро-, малих та середніх підприємств (MSMEs), визначити відмінності цих взаємозв'язків залежно від масштабу бізнесу, а також дослідити медіаційну роль фінтех-компетентності й модераційну роль регуляторної підтримки.

@@ -3,7 +3,7 @@
 ## 'Level up your money game': An analysis of gamification discourse in financial services
 
 ### 1. Назва статті (APA Style)
-> van der Heide, A., & Želinský, D. (2021). ‘Level up your money game’: An analysis of gamification discourse in financial services. *Journal of Cultural Economy*, 14(6), 711–731. https://doi.org/10.1080/17530350.2021.1882537
+> Arjen van der Heide, A., & Želinský, D. (2021). ‘Level up your money game’: An analysis of gamification discourse in financial services. *Journal of Cultural Economy*, 14(6), 711–731. https://doi.org/10.1080/17530350.2021.1882537
 
 ### 2. Мета дослідження
 Проаналізувати, як формується та функціонує дискурс гейміфікації у фінансових послугах, і як цей дискурс впливає на уявлення про фінансову поведінку, інвестування та роль технологій у фінансовій індустрії.

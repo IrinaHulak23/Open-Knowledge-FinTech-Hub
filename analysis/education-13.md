@@ -3,7 +3,7 @@
 ## Digital financial literacy and savings behavior: A comprehensive cross-country analysis of FinTech adoption patterns and economic outcomes across 12 nations
 
 ### 1. Назва статті (APA Style)
-> Başar, D., Keskin, H., Esen, E., Merter, A. K., & Balcıoglu, Y. S. (2025). Digital financial literacy and savings behavior: A comprehensive cross-country analysis of FinTech adoption patterns and economic outcomes across 12 nations. *Borsa Istanbul Review*, 25, 59–72. https://doi.org/10.1016/j.bir.2025.01.001
+> Başar, D., Keskin, H., Esen, E., Merter, A. K., & Balcıoglu, Y. S. (2025). Digital financial literacy and savings behavior: A comprehensive cross-country analysis of FinTech adoption patterns and economic outcomes across 12 nations. *Borsa Istanbul Review*, 25, 59–72. https://doi.org/10.1016/j.bir.2025.09.004
 
 ### 2. Мета дослідження
 Здійснити комплексний аналіз того, як впровадження фінансових технологій (FinTech) та рівень цифрової фінансової грамотності впливають на поведінку заощаджень індивідів у 12 країнах із різним рівнем економічного розвитку, а також визначити роль інституційних, культурних та інфраструктурних факторів у цьому процесі.

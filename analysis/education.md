@@ -21,3 +21,5 @@
 🎓 [Fintech and urban–rural integrated development: a human capital perspective](education-9.md)
 
 🎓 [Australia’s FinTech leaders: Education, work experience, and eagerness of self-employment](education-10.md)
+
+🎓 [Comparative analysis of FinTech adoption among Islamic and conventional banking users with moderating effect of education level: A UTAUT2 perspective](education-11.md)

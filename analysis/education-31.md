@@ -3,7 +3,7 @@
 ## Enhancing sustainable fintech education: Investigating the role of smartphones in empowering economic development in Jordan
 
 ### 1. Назва статті (APA Style)
-> Alqirem, R., & AlSmadi, R. W. (2025). Enhancing sustainable fintech education: Investigating the role of smartphones in empowering economic development in Jordan. *Discover Sustainability*, 6, Article 61. https://doi.org/10.1007/s43621-025-00826-6
+> Alqirem, R., & Al-Smadi, R. (2025). Enhancing sustainable fintech education: Investigating the role of smartphones in empowering economic development in Jordan. *Discover Sustainability*, 6(1). https://doi.org/10.1007/s43621-025-01397-1
 
 ### 2. Мета дослідження
 З’ясувати, як смартфони сприяють розвитку фінтех-освіти, цифрової фінансової грамотності та фінансової інклюзії в Йорданії, а також оцінити їхній вплив на економічний розвиток і досягнення Цілей сталого розвитку (SDGs 1, 4, 8).

@@ -63,3 +63,5 @@
 🎓 [Fintech and household participation in risky financial markets: Evidence from China](education-30.md)
 
 🎓 [Enhancing sustainable fintech education: Investigating the role of smartphones in empowering economic development in Jordan](education-31.md)
+
+🎓 [The digital divide and futurist imaginings of Zelleous resistors](education-32.md)
